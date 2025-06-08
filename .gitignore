@@ -1,0 +1,15 @@
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+*.env
+logs/
+.venv/
+/outputs/
+# Add specific large files you explicitly DO NOT want to track even with LFS,
+# or very large intermediate files you generate and don't need to version.
+# For example, if raw data is HUGE and you'll provide download instructions instead
+# data/raw/
+# models/*.pkl # if models are too big even for LFS quotas, or you don't want to version them
+
+# Ensure .gitattributes is NOT ignored! It's essential for LFS.

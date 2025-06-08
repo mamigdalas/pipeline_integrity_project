@@ -1,0 +1,1698 @@
+report_id,inspection_date,segment_id,issue_type,severity,recommendation,repair_date,inspector_id,inspection_method
+RPT-00001,2022-01-03,SEG_063,Mechanical Damage,Moderate,Repair ASAP,2022-01-06,INS-507,ILI
+RPT-00002,2022-01-03,SEG_028,Mechanical Damage,Major,Repair ASAP,2022-01-21,INS-441,Hydrotest
+RPT-00003,2022-01-03,SEG_058,Third-Party Interference,Major,Investigate,2022-01-23,INS-311,UT
+RPT-00004,2022-01-03,SEG_002,Coating Damage,Minor,Repair ASAP,2022-01-05,INS-152,ILI
+RPT-00005,2022-01-03,SEG_057,No Issues,None,Routine Maintenance,,INS-407,ILI
+RPT-00006,2022-01-03,SEG_056,No Issues,None,Routine Maintenance,,INS-851,ROW Patrol
+RPT-00007,2022-01-03,SEG_020,Corrosion,Moderate,Repair ASAP,2022-01-24,INS-720,ILI
+RPT-00008,2022-01-03,SEG_041,No Issues,None,Routine Maintenance,,INS-303,Visual
+RPT-00009,2022-01-10,SEG_006,Third-Party Interference,Moderate,Investigate,,INS-827,Hydrotest
+RPT-00010,2022-01-10,SEG_064,Third-Party Interference,Major,Investigate,2022-01-26,INS-770,ILI
+RPT-00011,2022-01-10,SEG_060,Vegetation Encroachment,Minor,Monitor,,INS-528,UT
+RPT-00012,2022-01-10,SEG_014,No Issues,None,Routine Maintenance,,INS-395,Visual
+RPT-00013,2022-01-10,SEG_023,Third-Party Interference,Major,Investigate,2022-01-24,INS-956,UT
+RPT-00014,2022-01-10,SEG_053,Third-Party Interference,Moderate,Repair ASAP,2022-01-18,INS-249,ROW Patrol
+RPT-00015,2022-01-10,SEG_059,No Issues,None,Routine Maintenance,,INS-435,Visual
+RPT-00016,2022-01-10,SEG_036,Mechanical Damage,Critical,Repair ASAP,2022-01-31,INS-921,ILI
+RPT-00017,2022-01-17,SEG_007,Mechanical Damage,Major,Repair ASAP,2022-02-10,INS-652,UT
+RPT-00018,2022-01-17,SEG_062,No Issues,None,Routine Maintenance,,INS-152,ILI
+RPT-00019,2022-01-17,SEG_021,Vegetation Encroachment,Minor,Clear Area,,INS-859,Hydrotest
+RPT-00020,2022-01-17,SEG_047,Third-Party Interference,Major,Investigate,2022-02-09,INS-783,Hydrotest
+RPT-00021,2022-01-17,SEG_044,Coating Damage,Moderate,Monitor,,INS-638,UT
+RPT-00022,2022-01-17,SEG_015,No Issues,None,Routine Maintenance,,INS-484,ILI
+RPT-00023,2022-01-17,SEG_077,Vegetation Encroachment,Minor,Monitor,,INS-841,Hydrotest
+RPT-00024,2022-01-17,SEG_006,No Issues,None,Routine Maintenance,,INS-158,ROW Patrol
+RPT-00025,2022-01-24,SEG_068,Mechanical Damage,Critical,Immediate Shutdown,2022-02-16,INS-847,ILI
+RPT-00026,2022-01-24,SEG_013,Coating Damage,Moderate,Repair ASAP,2022-02-13,INS-757,UT
+RPT-00027,2022-01-24,SEG_037,No Issues,None,Routine Maintenance,,INS-690,Visual
+RPT-00028,2022-01-24,SEG_001,Vegetation Encroachment,Minor,Clear Area,,INS-353,UT
+RPT-00029,2022-01-24,SEG_019,Mechanical Damage,Moderate,Immediate Shutdown,,INS-673,Hydrotest
+RPT-00030,2022-01-24,SEG_042,Vegetation Encroachment,Minor,Clear Area,,INS-807,ILI
+RPT-00031,2022-01-24,SEG_015,Third-Party Interference,Moderate,Investigate,,INS-877,UT
+RPT-00032,2022-01-24,SEG_050,No Issues,None,Routine Maintenance,,INS-315,ROW Patrol
+RPT-00033,2022-01-31,SEG_039,Vegetation Encroachment,Minor,Clear Area,,INS-676,Visual
+RPT-00034,2022-01-31,SEG_023,Corrosion,Minor,Monitor,,INS-787,Hydrotest
+RPT-00035,2022-01-31,SEG_014,Vegetation Encroachment,Minor,Clear Area,,INS-432,Visual
+RPT-00036,2022-01-31,SEG_007,Third-Party Interference,Moderate,Investigate,,INS-896,ILI
+RPT-00037,2022-01-31,SEG_043,No Issues,None,Routine Maintenance,,INS-793,Visual
+RPT-00038,2022-01-31,SEG_001,No Issues,None,Routine Maintenance,,INS-310,Visual
+RPT-00039,2022-01-31,SEG_070,Coating Damage,Moderate,Repair ASAP,2022-02-27,INS-369,ILI
+RPT-00040,2022-01-31,SEG_047,No Issues,None,Routine Maintenance,,INS-289,Visual
+RPT-00041,2022-02-07,SEG_080,No Issues,None,Routine Maintenance,,INS-460,ROW Patrol
+RPT-00042,2022-02-07,SEG_023,Third-Party Interference,Major,Repair ASAP,2022-02-25,INS-568,ILI
+RPT-00043,2022-02-07,SEG_071,No Issues,None,Routine Maintenance,,INS-148,Visual
+RPT-00044,2022-02-07,SEG_025,No Issues,None,Routine Maintenance,,INS-230,Visual
+RPT-00045,2022-02-07,SEG_017,No Issues,None,Routine Maintenance,,INS-746,Visual
+RPT-00046,2022-02-07,SEG_062,Corrosion,Critical,Monitor,2022-03-01,INS-762,ILI
+RPT-00047,2022-02-07,SEG_004,Corrosion,Moderate,Monitor,,INS-920,Hydrotest
+RPT-00048,2022-02-07,SEG_003,Mechanical Damage,Critical,Immediate Shutdown,2022-02-10,INS-229,Visual
+RPT-00049,2022-02-14,SEG_029,Vegetation Encroachment,Minor,Clear Area,,INS-422,ROW Patrol
+RPT-00050,2022-02-14,SEG_005,Coating Damage,Minor,Monitor,,INS-851,Hydrotest
+RPT-00051,2022-02-14,SEG_049,Mechanical Damage,Major,Repair ASAP,2022-03-02,INS-108,Visual
+RPT-00052,2022-02-14,SEG_057,Coating Damage,Minor,Repair ASAP,2022-02-26,INS-693,Visual
+RPT-00053,2022-02-14,SEG_008,No Issues,None,Routine Maintenance,,INS-575,ROW Patrol
+RPT-00054,2022-02-14,SEG_050,Third-Party Interference,Major,Repair ASAP,2022-03-16,INS-436,UT
+RPT-00055,2022-02-14,SEG_007,Corrosion,Moderate,Monitor,,INS-323,Visual
+RPT-00056,2022-02-14,SEG_023,Vegetation Encroachment,Minor,Clear Area,,INS-307,ILI
+RPT-00057,2022-02-21,SEG_076,No Issues,None,Routine Maintenance,,INS-690,ROW Patrol
+RPT-00058,2022-02-21,SEG_082,Corrosion,Critical,Immediate Shutdown,2022-03-04,INS-165,ILI
+RPT-00059,2022-02-21,SEG_035,Corrosion,Minor,Repair ASAP,2022-03-11,INS-931,Hydrotest
+RPT-00060,2022-02-21,SEG_068,Mechanical Damage,Moderate,Immediate Shutdown,,INS-600,ILI
+RPT-00061,2022-02-21,SEG_023,Corrosion,Major,Immediate Shutdown,2022-02-27,INS-422,Hydrotest
+RPT-00062,2022-02-21,SEG_069,Vegetation Encroachment,Minor,Monitor,,INS-614,ILI
+RPT-00063,2022-02-21,SEG_043,No Issues,None,Routine Maintenance,,INS-951,ROW Patrol
+RPT-00064,2022-02-21,SEG_003,Coating Damage,Moderate,Repair ASAP,2022-03-12,INS-369,ILI
+RPT-00065,2022-02-26,SEG_048,Mechanical Damage,Moderate,Repair ASAP,2022-03-04,INS-340,Visual
+RPT-00066,2022-02-28,SEG_036,Mechanical Damage,Major,Immediate Shutdown,2022-03-05,INS-111,Hydrotest
+RPT-00067,2022-02-28,SEG_050,Corrosion,Major,Immediate Shutdown,2022-03-11,INS-245,UT
+RPT-00068,2022-02-28,SEG_007,Mechanical Damage,Moderate,Immediate Shutdown,,INS-380,Hydrotest
+RPT-00069,2022-02-28,SEG_010,Vegetation Encroachment,Minor,Clear Area,,INS-153,UT
+RPT-00070,2022-02-28,SEG_016,Coating Damage,Moderate,Monitor,,INS-424,UT
+RPT-00071,2022-02-28,SEG_073,Third-Party Interference,Major,Repair ASAP,2022-03-29,INS-813,Hydrotest
+RPT-00072,2022-02-28,SEG_058,Corrosion,Major,Immediate Shutdown,2022-03-22,INS-312,ROW Patrol
+RPT-00073,2022-02-28,SEG_064,Vegetation Encroachment,Minor,Monitor,,INS-414,ILI
+RPT-00074,2022-03-07,SEG_002,Corrosion,Moderate,Immediate Shutdown,,INS-896,Hydrotest
+RPT-00075,2022-03-07,SEG_056,Mechanical Damage,Critical,Immediate Shutdown,2022-04-03,INS-346,UT
+RPT-00076,2022-03-07,SEG_028,No Issues,None,Routine Maintenance,,INS-387,ROW Patrol
+RPT-00077,2022-03-07,SEG_079,Coating Damage,Minor,Monitor,,INS-716,ILI
+RPT-00078,2022-03-07,SEG_023,Third-Party Interference,Major,Repair ASAP,2022-03-11,INS-445,ROW Patrol
+RPT-00079,2022-03-07,SEG_038,Coating Damage,Minor,Repair ASAP,2022-03-13,INS-472,Hydrotest
+RPT-00080,2022-03-07,SEG_034,Vegetation Encroachment,Minor,Monitor,,INS-447,Hydrotest
+RPT-00081,2022-03-07,SEG_043,Corrosion,Minor,Repair ASAP,2022-03-26,INS-667,UT
+RPT-00082,2022-03-14,SEG_058,Mechanical Damage,Major,Repair ASAP,2022-04-08,INS-836,Hydrotest
+RPT-00083,2022-03-14,SEG_081,No Issues,None,Routine Maintenance,,INS-485,Visual
+RPT-00084,2022-03-14,SEG_051,Vegetation Encroachment,Minor,Clear Area,,INS-240,UT
+RPT-00085,2022-03-14,SEG_076,Corrosion,Major,Immediate Shutdown,2022-03-22,INS-201,ILI
+RPT-00086,2022-03-14,SEG_082,Corrosion,Minor,Repair ASAP,2022-04-06,INS-412,UT
+RPT-00087,2022-03-14,SEG_032,Third-Party Interference,Moderate,Investigate,,INS-883,ILI
+RPT-00088,2022-03-14,SEG_073,Vegetation Encroachment,Minor,Monitor,,INS-802,ROW Patrol
+RPT-00089,2022-03-14,SEG_007,Coating Damage,Moderate,Monitor,,INS-637,UT
+RPT-00090,2022-03-21,SEG_069,Mechanical Damage,Moderate,Immediate Shutdown,,INS-483,ILI
+RPT-00091,2022-03-21,SEG_035,Mechanical Damage,Moderate,Repair ASAP,2022-04-02,INS-522,Visual
+RPT-00092,2022-03-21,SEG_057,Mechanical Damage,Major,Immediate Shutdown,2022-04-06,INS-328,ILI
+RPT-00093,2022-03-21,SEG_029,Vegetation Encroachment,Minor,Monitor,,INS-292,Hydrotest
+RPT-00094,2022-03-21,SEG_022,No Issues,None,Routine Maintenance,,INS-154,Visual
+RPT-00095,2022-03-21,SEG_034,Coating Damage,Moderate,Monitor,,INS-476,ILI
+RPT-00096,2022-03-21,SEG_063,No Issues,None,Routine Maintenance,,INS-159,ROW Patrol
+RPT-00097,2022-03-21,SEG_006,Coating Damage,Minor,Monitor,,INS-464,Hydrotest
+RPT-00098,2022-03-28,SEG_051,Mechanical Damage,Moderate,Repair ASAP,2022-04-15,INS-504,Visual
+RPT-00099,2022-03-28,SEG_019,Vegetation Encroachment,Minor,Clear Area,,INS-683,Visual
+RPT-00100,2022-03-28,SEG_040,No Issues,None,Routine Maintenance,,INS-184,Visual
+RPT-00101,2022-03-28,SEG_009,No Issues,None,Routine Maintenance,,INS-954,ILI
+RPT-00102,2022-03-28,SEG_063,Vegetation Encroachment,Minor,Monitor,,INS-371,UT
+RPT-00103,2022-03-28,SEG_085,Third-Party Interference,Major,Investigate,2022-04-01,INS-847,ILI
+RPT-00104,2022-03-28,SEG_007,Vegetation Encroachment,Minor,Monitor,,INS-237,Hydrotest
+RPT-00105,2022-03-28,SEG_012,Coating Damage,Moderate,Repair ASAP,2022-04-12,INS-998,Visual
+RPT-00106,2022-04-04,SEG_054,Coating Damage,Minor,Monitor,,INS-231,ILI
+RPT-00107,2022-04-04,SEG_018,Vegetation Encroachment,Minor,Clear Area,,INS-672,Visual
+RPT-00108,2022-04-04,SEG_048,Third-Party Interference,Major,Repair ASAP,2022-04-18,INS-898,Hydrotest
+RPT-00109,2022-04-04,SEG_040,Coating Damage,Moderate,Repair ASAP,2022-04-21,INS-607,ILI
+RPT-00110,2022-04-04,SEG_006,Third-Party Interference,Major,Repair ASAP,2022-04-09,INS-281,UT
+RPT-00111,2022-04-04,SEG_084,No Issues,None,Routine Maintenance,,INS-608,ILI
+RPT-00112,2022-04-04,SEG_041,Corrosion,Critical,Repair ASAP,2022-05-01,INS-509,ROW Patrol
+RPT-00113,2022-04-04,SEG_075,Mechanical Damage,Moderate,Repair ASAP,2022-04-20,INS-469,Hydrotest
+RPT-00114,2022-04-11,SEG_040,Coating Damage,Minor,Repair ASAP,2022-04-24,INS-525,ILI
+RPT-00115,2022-04-11,SEG_052,No Issues,None,Routine Maintenance,,INS-124,ILI
+RPT-00116,2022-04-11,SEG_072,No Issues,None,Routine Maintenance,,INS-780,ROW Patrol
+RPT-00117,2022-04-11,SEG_083,Vegetation Encroachment,Minor,Clear Area,,INS-904,Hydrotest
+RPT-00118,2022-04-11,SEG_017,Third-Party Interference,Major,Investigate,2022-04-30,INS-219,Visual
+RPT-00119,2022-04-11,SEG_030,No Issues,None,Routine Maintenance,,INS-610,ILI
+RPT-00120,2022-04-11,SEG_048,No Issues,None,Routine Maintenance,,INS-300,ROW Patrol
+RPT-00121,2022-04-11,SEG_031,Vegetation Encroachment,Minor,Monitor,,INS-872,Hydrotest
+RPT-00122,2022-04-18,SEG_043,No Issues,None,Routine Maintenance,,INS-455,Visual
+RPT-00123,2022-04-18,SEG_072,No Issues,None,Routine Maintenance,,INS-925,ROW Patrol
+RPT-00124,2022-04-18,SEG_008,Corrosion,Minor,Monitor,,INS-803,UT
+RPT-00125,2022-04-18,SEG_058,Third-Party Interference,Major,Repair ASAP,2022-04-30,INS-389,ROW Patrol
+RPT-00126,2022-04-18,SEG_005,No Issues,None,Routine Maintenance,,INS-432,Visual
+RPT-00127,2022-04-18,SEG_044,Third-Party Interference,Major,Repair ASAP,2022-05-13,INS-712,ILI
+RPT-00128,2022-04-18,SEG_033,Corrosion,Moderate,Repair ASAP,2022-05-18,INS-400,Hydrotest
+RPT-00129,2022-04-18,SEG_050,No Issues,None,Routine Maintenance,,INS-345,Visual
+RPT-00130,2022-04-25,SEG_020,Corrosion,Moderate,Repair ASAP,2022-05-18,INS-618,ILI
+RPT-00131,2022-04-25,SEG_082,No Issues,None,Routine Maintenance,,INS-512,Visual
+RPT-00132,2022-04-25,SEG_064,No Issues,None,Routine Maintenance,,INS-295,Visual
+RPT-00133,2022-04-25,SEG_055,Corrosion,Moderate,Monitor,,INS-417,UT
+RPT-00134,2022-04-25,SEG_074,Third-Party Interference,Moderate,Investigate,,INS-605,ILI
+RPT-00135,2022-04-25,SEG_019,Third-Party Interference,Moderate,Investigate,,INS-807,Hydrotest
+RPT-00136,2022-04-25,SEG_028,Vegetation Encroachment,Minor,Clear Area,,INS-566,ILI
+RPT-00137,2022-04-25,SEG_065,Mechanical Damage,Major,Immediate Shutdown,2022-05-05,INS-388,UT
+RPT-00138,2022-05-02,SEG_051,Coating Damage,Moderate,Monitor,,INS-322,ILI
+RPT-00139,2022-05-02,SEG_049,No Issues,None,Routine Maintenance,,INS-638,Visual
+RPT-00140,2022-05-02,SEG_060,Coating Damage,Minor,Monitor,,INS-575,UT
+RPT-00141,2022-05-02,SEG_072,Coating Damage,Minor,Repair ASAP,2022-05-27,INS-166,ILI
+RPT-00142,2022-05-02,SEG_044,Corrosion,Minor,Repair ASAP,2022-05-26,INS-617,Visual
+RPT-00143,2022-05-02,SEG_084,Third-Party Interference,Moderate,Repair ASAP,2022-05-12,INS-969,ILI
+RPT-00144,2022-05-02,SEG_062,Coating Damage,Moderate,Monitor,,INS-460,Hydrotest
+RPT-00145,2022-05-02,SEG_057,Third-Party Interference,Moderate,Repair ASAP,2022-05-18,INS-816,UT
+RPT-00146,2022-05-09,SEG_044,Corrosion,Major,Monitor,2022-05-31,INS-353,ILI
+RPT-00147,2022-05-09,SEG_067,No Issues,None,Routine Maintenance,,INS-990,ROW Patrol
+RPT-00148,2022-05-09,SEG_028,Mechanical Damage,Major,Repair ASAP,2022-06-03,INS-964,UT
+RPT-00149,2022-05-09,SEG_064,No Issues,None,Routine Maintenance,,INS-996,Visual
+RPT-00150,2022-05-09,SEG_037,Mechanical Damage,Major,Repair ASAP,2022-05-31,INS-474,Visual
+RPT-00151,2022-05-09,SEG_082,Mechanical Damage,Critical,Repair ASAP,2022-05-12,INS-997,Visual
+RPT-00152,2022-05-09,SEG_036,No Issues,None,Routine Maintenance,,INS-739,Visual
+RPT-00153,2022-05-09,SEG_058,No Issues,None,Routine Maintenance,,INS-654,ROW Patrol
+RPT-00154,2022-05-13,SEG_057,Vegetation Encroachment,Minor,Clear Area,,INS-480,Visual
+RPT-00155,2022-05-16,SEG_053,No Issues,None,Routine Maintenance,,INS-842,ROW Patrol
+RPT-00156,2022-05-16,SEG_008,No Issues,None,Routine Maintenance,,INS-438,ROW Patrol
+RPT-00157,2022-05-16,SEG_063,Corrosion,Minor,Immediate Shutdown,,INS-154,UT
+RPT-00158,2022-05-16,SEG_013,Corrosion,Moderate,Immediate Shutdown,,INS-815,Hydrotest
+RPT-00159,2022-05-16,SEG_051,Coating Damage,Moderate,Repair ASAP,2022-06-06,INS-697,UT
+RPT-00160,2022-05-16,SEG_020,No Issues,None,Routine Maintenance,,INS-557,ROW Patrol
+RPT-00161,2022-05-16,SEG_067,No Issues,None,Routine Maintenance,,INS-491,Visual
+RPT-00162,2022-05-16,SEG_061,Mechanical Damage,Critical,Repair ASAP,2022-05-19,INS-625,Hydrotest
+RPT-00163,2022-05-23,SEG_016,Coating Damage,Minor,Monitor,,INS-498,Hydrotest
+RPT-00164,2022-05-23,SEG_068,Vegetation Encroachment,Minor,Monitor,,INS-782,ILI
+RPT-00165,2022-05-23,SEG_035,No Issues,None,Routine Maintenance,,INS-969,ILI
+RPT-00166,2022-05-23,SEG_071,Corrosion,Major,Monitor,2022-05-31,INS-665,UT
+RPT-00167,2022-05-23,SEG_050,No Issues,None,Routine Maintenance,,INS-832,ROW Patrol
+RPT-00168,2022-05-23,SEG_067,No Issues,None,Routine Maintenance,,INS-904,Visual
+RPT-00169,2022-05-23,SEG_056,Corrosion,Minor,Monitor,,INS-777,Visual
+RPT-00170,2022-05-23,SEG_059,Vegetation Encroachment,Minor,Monitor,,INS-385,ILI
+RPT-00171,2022-05-30,SEG_062,No Issues,None,Routine Maintenance,,INS-640,ROW Patrol
+RPT-00172,2022-05-30,SEG_075,Corrosion,Moderate,Monitor,,INS-905,ILI
+RPT-00173,2022-05-30,SEG_046,Vegetation Encroachment,Minor,Clear Area,,INS-454,UT
+RPT-00174,2022-05-30,SEG_007,Coating Damage,Moderate,Repair ASAP,2022-06-25,INS-908,Hydrotest
+RPT-00175,2022-05-30,SEG_003,No Issues,None,Routine Maintenance,,INS-735,ROW Patrol
+RPT-00176,2022-05-30,SEG_064,No Issues,None,Routine Maintenance,,INS-302,Visual
+RPT-00177,2022-05-30,SEG_014,Mechanical Damage,Critical,Immediate Shutdown,2022-06-10,INS-138,Hydrotest
+RPT-00178,2022-05-30,SEG_060,No Issues,None,Routine Maintenance,,INS-285,ROW Patrol
+RPT-00179,2022-06-06,SEG_006,No Issues,None,Routine Maintenance,,INS-268,ROW Patrol
+RPT-00180,2022-06-06,SEG_035,No Issues,None,Routine Maintenance,,INS-189,ROW Patrol
+RPT-00181,2022-06-06,SEG_016,Corrosion,Moderate,Monitor,,INS-511,Hydrotest
+RPT-00182,2022-06-06,SEG_062,Third-Party Interference,Major,Repair ASAP,2022-07-02,INS-607,UT
+RPT-00183,2022-06-06,SEG_071,Vegetation Encroachment,Minor,Clear Area,,INS-249,ROW Patrol
+RPT-00184,2022-06-06,SEG_043,Corrosion,Moderate,Immediate Shutdown,,INS-953,ILI
+RPT-00185,2022-06-06,SEG_053,Corrosion,Minor,Repair ASAP,2022-06-27,INS-265,Hydrotest
+RPT-00186,2022-06-06,SEG_079,Third-Party Interference,Moderate,Repair ASAP,2022-06-12,INS-978,Visual
+RPT-00187,2022-06-13,SEG_043,No Issues,None,Routine Maintenance,,INS-602,ROW Patrol
+RPT-00188,2022-06-13,SEG_019,No Issues,None,Routine Maintenance,,INS-878,ROW Patrol
+RPT-00189,2022-06-13,SEG_083,Third-Party Interference,Major,Repair ASAP,2022-06-29,INS-624,UT
+RPT-00190,2022-06-13,SEG_005,Third-Party Interference,Moderate,Repair ASAP,2022-06-24,INS-942,UT
+RPT-00191,2022-06-13,SEG_073,Vegetation Encroachment,Minor,Clear Area,,INS-103,Hydrotest
+RPT-00192,2022-06-13,SEG_082,No Issues,None,Routine Maintenance,,INS-659,ILI
+RPT-00193,2022-06-13,SEG_052,Corrosion,Moderate,Repair ASAP,2022-07-07,INS-864,Hydrotest
+RPT-00194,2022-06-13,SEG_002,No Issues,None,Routine Maintenance,,INS-306,ROW Patrol
+RPT-00195,2022-06-20,SEG_055,No Issues,None,Routine Maintenance,,INS-756,Visual
+RPT-00196,2022-06-20,SEG_005,No Issues,None,Routine Maintenance,,INS-565,ROW Patrol
+RPT-00197,2022-06-20,SEG_022,No Issues,None,Routine Maintenance,,INS-968,Visual
+RPT-00198,2022-06-20,SEG_053,No Issues,None,Routine Maintenance,,INS-756,Visual
+RPT-00199,2022-06-20,SEG_025,Mechanical Damage,Moderate,Repair ASAP,2022-07-16,INS-910,ILI
+RPT-00200,2022-06-20,SEG_057,Third-Party Interference,Major,Investigate,2022-07-20,INS-921,Hydrotest
+RPT-00201,2022-06-20,SEG_002,Coating Damage,Minor,Repair ASAP,2022-07-16,INS-366,UT
+RPT-00202,2022-06-20,SEG_019,Vegetation Encroachment,Minor,Monitor,,INS-474,UT
+RPT-00203,2022-06-27,SEG_066,Coating Damage,Minor,Monitor,,INS-799,Hydrotest
+RPT-00204,2022-06-27,SEG_077,Vegetation Encroachment,Minor,Clear Area,,INS-210,UT
+RPT-00205,2022-06-27,SEG_017,Mechanical Damage,Moderate,Repair ASAP,2022-07-14,INS-653,Hydrotest
+RPT-00206,2022-06-27,SEG_009,Vegetation Encroachment,Minor,Clear Area,,INS-804,Hydrotest
+RPT-00207,2022-06-27,SEG_034,Vegetation Encroachment,Minor,Monitor,,INS-337,ILI
+RPT-00208,2022-06-27,SEG_001,Third-Party Interference,Moderate,Repair ASAP,2022-06-30,INS-991,ILI
+RPT-00209,2022-06-27,SEG_004,Mechanical Damage,Moderate,Immediate Shutdown,,INS-214,ILI
+RPT-00210,2022-06-27,SEG_037,Corrosion,Critical,Monitor,2022-06-29,INS-188,ROW Patrol
+RPT-00211,2022-07-21,SEG_000,No Issues,None,Routine Maintenance,,INS-488,ILI
+RPT-00212,2022-07-04,SEG_001,Third-Party Interference,Major,Investigate,2022-08-03,INS-800,ILI
+RPT-00213,2022-07-11,SEG_002,Corrosion,Major,Monitor,2022-07-15,INS-352,ILI
+RPT-00214,2022-07-20,SEG_003,Third-Party Interference,Moderate,Repair ASAP,2022-07-28,INS-291,ILI
+RPT-00215,2022-07-18,SEG_004,Mechanical Damage,Major,Immediate Shutdown,2022-08-07,INS-827,ILI
+RPT-00216,2022-07-24,SEG_005,Mechanical Damage,Major,Repair ASAP,2022-08-19,INS-224,ILI
+RPT-00217,2022-07-01,SEG_006,Third-Party Interference,Moderate,Investigate,,INS-464,ILI
+RPT-00218,2022-07-19,SEG_007,Corrosion,Moderate,Immediate Shutdown,,INS-402,ILI
+RPT-00219,2022-07-29,SEG_008,Third-Party Interference,Major,Repair ASAP,2022-08-25,INS-898,ILI
+RPT-00220,2022-07-07,SEG_009,Mechanical Damage,Moderate,Repair ASAP,2022-08-04,INS-843,ILI
+RPT-00221,2022-07-22,SEG_010,Mechanical Damage,Moderate,Immediate Shutdown,,INS-596,ILI
+RPT-00222,2022-07-04,SEG_011,Coating Damage,Minor,Repair ASAP,2022-07-11,INS-951,ILI
+RPT-00223,2022-07-24,SEG_012,Corrosion,Minor,Monitor,,INS-659,ILI
+RPT-00224,2022-07-13,SEG_013,Vegetation Encroachment,Minor,Clear Area,,INS-719,ILI
+RPT-00225,2022-07-17,SEG_014,Coating Damage,Minor,Monitor,,INS-508,ILI
+RPT-00226,2022-07-31,SEG_015,Third-Party Interference,Moderate,Repair ASAP,2022-08-14,INS-796,ILI
+RPT-00227,2022-07-26,SEG_016,Third-Party Interference,Major,Repair ASAP,2022-08-03,INS-358,ILI
+RPT-00228,2022-07-09,SEG_017,Vegetation Encroachment,Minor,Monitor,,INS-397,ILI
+RPT-00229,2022-07-28,SEG_018,Coating Damage,Minor,Repair ASAP,2022-08-27,INS-888,ILI
+RPT-00230,2022-07-24,SEG_019,Coating Damage,Moderate,Repair ASAP,2022-08-02,INS-816,ILI
+RPT-00231,2022-07-01,SEG_020,Vegetation Encroachment,Minor,Clear Area,,INS-928,ILI
+RPT-00232,2022-07-19,SEG_021,Coating Damage,Minor,Monitor,,INS-995,ILI
+RPT-00233,2022-07-29,SEG_022,Coating Damage,Minor,Monitor,,INS-630,ILI
+RPT-00234,2022-07-06,SEG_023,Mechanical Damage,Major,Immediate Shutdown,2022-07-31,INS-389,ILI
+RPT-00235,2022-07-15,SEG_024,Vegetation Encroachment,Minor,Clear Area,,INS-369,ILI
+RPT-00236,2022-07-26,SEG_025,No Issues,None,Routine Maintenance,,INS-476,ILI
+RPT-00237,2022-07-30,SEG_026,Mechanical Damage,Major,Immediate Shutdown,2022-08-16,INS-442,ILI
+RPT-00238,2022-07-05,SEG_027,Mechanical Damage,Critical,Repair ASAP,2022-07-29,INS-517,ILI
+RPT-00239,2022-07-10,SEG_028,Mechanical Damage,Major,Repair ASAP,2022-07-23,INS-842,ILI
+RPT-00240,2022-07-01,SEG_029,Vegetation Encroachment,Minor,Clear Area,,INS-324,ILI
+RPT-00241,2022-07-04,SEG_030,No Issues,None,Routine Maintenance,,INS-974,ILI
+RPT-00242,2022-07-28,SEG_031,Mechanical Damage,Major,Immediate Shutdown,2022-08-10,INS-880,ILI
+RPT-00243,2022-07-02,SEG_032,Third-Party Interference,Moderate,Investigate,,INS-957,ILI
+RPT-00244,2022-07-01,SEG_033,Corrosion,Major,Immediate Shutdown,2022-07-08,INS-293,ILI
+RPT-00245,2022-07-25,SEG_034,Third-Party Interference,Moderate,Repair ASAP,2022-07-30,INS-652,ILI
+RPT-00246,2022-07-05,SEG_035,Corrosion,Major,Repair ASAP,2022-07-07,INS-125,ILI
+RPT-00247,2022-07-23,SEG_036,Third-Party Interference,Moderate,Investigate,,INS-109,ILI
+RPT-00248,2022-07-06,SEG_037,Third-Party Interference,Moderate,Repair ASAP,2022-07-07,INS-415,ILI
+RPT-00249,2022-07-20,SEG_038,Corrosion,Major,Immediate Shutdown,2022-08-02,INS-367,ILI
+RPT-00250,2022-07-17,SEG_039,No Issues,None,Routine Maintenance,,INS-709,ILI
+RPT-00251,2022-07-15,SEG_040,Mechanical Damage,Major,Repair ASAP,2022-08-10,INS-287,ILI
+RPT-00252,2022-07-08,SEG_041,Mechanical Damage,Major,Immediate Shutdown,2022-07-29,INS-548,ILI
+RPT-00253,2022-07-21,SEG_042,Third-Party Interference,Major,Repair ASAP,2022-07-26,INS-101,ILI
+RPT-00254,2022-07-25,SEG_043,Vegetation Encroachment,Minor,Monitor,,INS-191,ILI
+RPT-00255,2022-07-02,SEG_044,Third-Party Interference,Moderate,Investigate,,INS-644,ILI
+RPT-00256,2022-07-01,SEG_045,Vegetation Encroachment,Minor,Monitor,,INS-618,ILI
+RPT-00257,2022-07-08,SEG_046,Coating Damage,Minor,Repair ASAP,2022-08-01,INS-157,ILI
+RPT-00258,2022-07-07,SEG_047,Third-Party Interference,Moderate,Investigate,,INS-264,ILI
+RPT-00259,2022-07-19,SEG_048,Coating Damage,Minor,Repair ASAP,2022-07-26,INS-260,ILI
+RPT-00260,2022-07-18,SEG_049,Mechanical Damage,Critical,Immediate Shutdown,2022-07-22,INS-549,ILI
+RPT-00261,2022-07-21,SEG_050,Third-Party Interference,Moderate,Investigate,,INS-385,ILI
+RPT-00262,2022-07-05,SEG_051,Coating Damage,Moderate,Repair ASAP,2022-08-04,INS-894,ILI
+RPT-00263,2022-07-13,SEG_052,Corrosion,Critical,Monitor,2022-07-23,INS-267,ILI
+RPT-00264,2022-07-05,SEG_053,Mechanical Damage,Major,Immediate Shutdown,2022-08-02,INS-159,ILI
+RPT-00265,2022-07-11,SEG_054,Vegetation Encroachment,Minor,Clear Area,,INS-712,ILI
+RPT-00266,2022-07-03,SEG_055,No Issues,None,Routine Maintenance,,INS-984,ILI
+RPT-00267,2022-07-25,SEG_056,Corrosion,Moderate,Immediate Shutdown,,INS-690,ILI
+RPT-00268,2022-07-30,SEG_057,No Issues,None,Routine Maintenance,,INS-609,ILI
+RPT-00269,2022-07-17,SEG_058,Mechanical Damage,Major,Immediate Shutdown,2022-08-12,INS-404,ILI
+RPT-00270,2022-07-25,SEG_059,Corrosion,Minor,Immediate Shutdown,,INS-961,ILI
+RPT-00271,2022-07-12,SEG_060,Coating Damage,Moderate,Repair ASAP,2022-07-18,INS-565,ILI
+RPT-00272,2022-07-31,SEG_061,No Issues,None,Routine Maintenance,,INS-545,ILI
+RPT-00273,2022-07-25,SEG_062,No Issues,None,Routine Maintenance,,INS-581,ILI
+RPT-00274,2022-07-26,SEG_063,Mechanical Damage,Critical,Immediate Shutdown,2022-08-20,INS-308,ILI
+RPT-00275,2022-07-04,SEG_064,Mechanical Damage,Major,Repair ASAP,2022-07-09,INS-371,ILI
+RPT-00276,2022-07-30,SEG_065,Coating Damage,Moderate,Monitor,,INS-435,ILI
+RPT-00277,2022-07-09,SEG_066,Third-Party Interference,Moderate,Investigate,,INS-504,ILI
+RPT-00278,2022-07-10,SEG_067,Third-Party Interference,Moderate,Investigate,,INS-847,ILI
+RPT-00279,2022-07-22,SEG_068,Vegetation Encroachment,Minor,Clear Area,,INS-973,ILI
+RPT-00280,2022-07-23,SEG_069,Vegetation Encroachment,Minor,Monitor,,INS-789,ILI
+RPT-00281,2022-07-22,SEG_070,No Issues,None,Routine Maintenance,,INS-376,ILI
+RPT-00282,2022-07-20,SEG_071,Vegetation Encroachment,Minor,Monitor,,INS-637,ILI
+RPT-00283,2022-07-25,SEG_072,Mechanical Damage,Moderate,Repair ASAP,2022-08-13,INS-167,ILI
+RPT-00284,2022-07-27,SEG_073,Third-Party Interference,Moderate,Investigate,,INS-651,ILI
+RPT-00285,2022-07-17,SEG_074,Coating Damage,Moderate,Repair ASAP,2022-07-24,INS-181,ILI
+RPT-00286,2022-07-01,SEG_075,Third-Party Interference,Major,Investigate,2022-07-23,INS-801,ILI
+RPT-00287,2022-07-04,SEG_076,Third-Party Interference,Moderate,Repair ASAP,2022-07-16,INS-277,ILI
+RPT-00288,2022-07-14,SEG_077,Coating Damage,Minor,Repair ASAP,2022-08-10,INS-173,ILI
+RPT-00289,2022-07-25,SEG_078,Vegetation Encroachment,Minor,Clear Area,,INS-866,ILI
+RPT-00290,2022-07-18,SEG_079,Coating Damage,Moderate,Repair ASAP,2022-08-01,INS-821,ILI
+RPT-00291,2022-07-17,SEG_080,Mechanical Damage,Major,Repair ASAP,2022-08-11,INS-641,ILI
+RPT-00292,2022-07-28,SEG_081,Vegetation Encroachment,Minor,Clear Area,,INS-372,ILI
+RPT-00293,2022-07-19,SEG_082,Vegetation Encroachment,Minor,Clear Area,,INS-261,ILI
+RPT-00294,2022-07-09,SEG_083,Third-Party Interference,Major,Investigate,2022-07-30,INS-350,ILI
+RPT-00295,2022-07-30,SEG_084,Coating Damage,Minor,Monitor,,INS-523,ILI
+RPT-00296,2022-07-17,SEG_085,Vegetation Encroachment,Minor,Clear Area,,INS-924,ILI
+RPT-00297,2022-07-04,SEG_009,Coating Damage,Minor,Repair ASAP,2022-08-01,INS-748,ROW Patrol
+RPT-00298,2022-07-04,SEG_022,No Issues,None,Routine Maintenance,,INS-114,Visual
+RPT-00299,2022-07-04,SEG_032,Mechanical Damage,Major,Repair ASAP,2022-07-15,INS-988,Hydrotest
+RPT-00300,2022-07-04,SEG_017,No Issues,None,Routine Maintenance,,INS-278,Visual
+RPT-00301,2022-07-04,SEG_049,No Issues,None,Routine Maintenance,,INS-988,ROW Patrol
+RPT-00302,2022-07-04,SEG_053,Vegetation Encroachment,Minor,Clear Area,,INS-730,Hydrotest
+RPT-00303,2022-07-04,SEG_066,No Issues,None,Routine Maintenance,,INS-287,Visual
+RPT-00304,2022-07-04,SEG_072,No Issues,None,Routine Maintenance,,INS-235,Visual
+RPT-00305,2022-07-11,SEG_000,No Issues,None,Routine Maintenance,,INS-561,Visual
+RPT-00306,2022-07-11,SEG_048,Coating Damage,Minor,Repair ASAP,2022-08-07,INS-765,Hydrotest
+RPT-00307,2022-07-11,SEG_008,Vegetation Encroachment,Minor,Clear Area,,INS-955,Visual
+RPT-00308,2022-07-11,SEG_019,Third-Party Interference,Major,Investigate,2022-08-06,INS-925,Hydrotest
+RPT-00309,2022-07-11,SEG_032,Vegetation Encroachment,Minor,Clear Area,,INS-899,ROW Patrol
+RPT-00310,2022-07-11,SEG_045,No Issues,None,Routine Maintenance,,INS-409,ROW Patrol
+RPT-00311,2022-07-11,SEG_026,Mechanical Damage,Critical,Immediate Shutdown,2022-08-03,INS-375,ILI
+RPT-00312,2022-07-11,SEG_025,No Issues,None,Routine Maintenance,,INS-791,Visual
+RPT-00313,2022-07-18,SEG_039,Third-Party Interference,Moderate,Investigate,,INS-810,ILI
+RPT-00314,2022-07-18,SEG_077,No Issues,None,Routine Maintenance,,INS-195,ILI
+RPT-00315,2022-07-18,SEG_072,Corrosion,Critical,Monitor,2022-07-26,INS-370,Hydrotest
+RPT-00316,2022-07-18,SEG_060,No Issues,None,Routine Maintenance,,INS-130,Visual
+RPT-00317,2022-07-18,SEG_013,Third-Party Interference,Moderate,Repair ASAP,2022-08-12,INS-808,ILI
+RPT-00318,2022-07-18,SEG_030,Third-Party Interference,Major,Repair ASAP,2022-08-11,INS-392,ILI
+RPT-00319,2022-07-18,SEG_033,No Issues,None,Routine Maintenance,,INS-633,ROW Patrol
+RPT-00320,2022-07-18,SEG_000,Corrosion,Critical,Monitor,2022-07-31,INS-397,ILI
+RPT-00321,2022-07-25,SEG_085,Vegetation Encroachment,Minor,Clear Area,,INS-279,ILI
+RPT-00322,2022-07-25,SEG_023,Vegetation Encroachment,Minor,Monitor,,INS-661,ROW Patrol
+RPT-00323,2022-07-25,SEG_068,Third-Party Interference,Major,Investigate,2022-08-09,INS-630,Visual
+RPT-00324,2022-07-25,SEG_075,Vegetation Encroachment,Minor,Clear Area,,INS-668,Visual
+RPT-00325,2022-07-25,SEG_030,Vegetation Encroachment,Minor,Monitor,,INS-410,UT
+RPT-00326,2022-07-25,SEG_077,Vegetation Encroachment,Minor,Clear Area,,INS-786,ROW Patrol
+RPT-00327,2022-07-25,SEG_011,No Issues,None,Routine Maintenance,,INS-968,ROW Patrol
+RPT-00328,2022-07-25,SEG_043,Third-Party Interference,Major,Repair ASAP,2022-08-11,INS-479,ILI
+RPT-00329,2022-07-28,SEG_040,Coating Damage,Moderate,Monitor,,INS-944,UT
+RPT-00330,2022-08-01,SEG_009,No Issues,None,Routine Maintenance,,INS-887,Visual
+RPT-00331,2022-08-01,SEG_022,Vegetation Encroachment,Minor,Monitor,,INS-813,UT
+RPT-00332,2022-08-01,SEG_079,Corrosion,Major,Immediate Shutdown,2022-08-27,INS-444,ILI
+RPT-00333,2022-08-01,SEG_039,Mechanical Damage,Major,Repair ASAP,2022-08-11,INS-326,UT
+RPT-00334,2022-08-01,SEG_063,Mechanical Damage,Major,Repair ASAP,2022-08-16,INS-766,ILI
+RPT-00335,2022-08-01,SEG_010,Coating Damage,Minor,Repair ASAP,2022-08-27,INS-238,UT
+RPT-00336,2022-08-01,SEG_029,No Issues,None,Routine Maintenance,,INS-118,Visual
+RPT-00337,2022-08-01,SEG_075,Vegetation Encroachment,Minor,Monitor,,INS-106,ROW Patrol
+RPT-00338,2022-08-08,SEG_046,Third-Party Interference,Major,Investigate,2022-08-12,INS-400,ILI
+RPT-00339,2022-08-08,SEG_017,Third-Party Interference,Major,Investigate,2022-08-11,INS-783,UT
+RPT-00340,2022-08-08,SEG_083,No Issues,None,Routine Maintenance,,INS-479,Visual
+RPT-00341,2022-08-08,SEG_069,No Issues,None,Routine Maintenance,,INS-336,Visual
+RPT-00342,2022-08-08,SEG_018,Coating Damage,Minor,Repair ASAP,2022-08-21,INS-252,ILI
+RPT-00343,2022-08-08,SEG_080,No Issues,None,Routine Maintenance,,INS-442,ILI
+RPT-00344,2022-08-08,SEG_001,Corrosion,Critical,Monitor,2022-08-21,INS-584,Hydrotest
+RPT-00345,2022-08-08,SEG_079,Mechanical Damage,Major,Immediate Shutdown,2022-08-13,INS-479,ILI
+RPT-00346,2022-08-15,SEG_007,Third-Party Interference,Moderate,Investigate,,INS-608,UT
+RPT-00347,2022-08-15,SEG_013,Coating Damage,Minor,Repair ASAP,2022-09-05,INS-552,UT
+RPT-00348,2022-08-15,SEG_083,Corrosion,Minor,Immediate Shutdown,,INS-653,Visual
+RPT-00349,2022-08-15,SEG_004,Vegetation Encroachment,Minor,Clear Area,,INS-647,Visual
+RPT-00350,2022-08-15,SEG_016,Mechanical Damage,Critical,Immediate Shutdown,2022-08-16,INS-135,Hydrotest
+RPT-00351,2022-08-15,SEG_042,No Issues,None,Routine Maintenance,,INS-455,Visual
+RPT-00352,2022-08-15,SEG_003,Third-Party Interference,Moderate,Investigate,,INS-904,ILI
+RPT-00353,2022-08-15,SEG_079,Mechanical Damage,Critical,Immediate Shutdown,2022-09-14,INS-556,ILI
+RPT-00354,2022-08-22,SEG_041,Vegetation Encroachment,Minor,Clear Area,,INS-899,ILI
+RPT-00355,2022-08-22,SEG_031,Third-Party Interference,Major,Investigate,2022-08-30,INS-974,Hydrotest
+RPT-00356,2022-08-22,SEG_027,Third-Party Interference,Major,Investigate,2022-09-18,INS-672,Hydrotest
+RPT-00357,2022-08-22,SEG_013,Vegetation Encroachment,Minor,Monitor,,INS-324,ILI
+RPT-00358,2022-08-22,SEG_012,No Issues,None,Routine Maintenance,,INS-818,ROW Patrol
+RPT-00359,2022-08-22,SEG_072,No Issues,None,Routine Maintenance,,INS-910,ROW Patrol
+RPT-00360,2022-08-22,SEG_005,Third-Party Interference,Major,Investigate,2022-09-06,INS-505,Visual
+RPT-00361,2022-08-22,SEG_083,Corrosion,Minor,Immediate Shutdown,,INS-830,UT
+RPT-00362,2022-08-29,SEG_070,Mechanical Damage,Major,Repair ASAP,2022-09-13,INS-293,UT
+RPT-00363,2022-08-29,SEG_026,Coating Damage,Minor,Repair ASAP,2022-09-10,INS-312,UT
+RPT-00364,2022-08-29,SEG_000,Mechanical Damage,Major,Repair ASAP,2022-09-24,INS-180,UT
+RPT-00365,2022-08-29,SEG_006,No Issues,None,Routine Maintenance,,INS-681,ILI
+RPT-00366,2022-08-29,SEG_013,Coating Damage,Minor,Monitor,,INS-198,ILI
+RPT-00367,2022-08-29,SEG_016,Mechanical Damage,Critical,Repair ASAP,2022-09-04,INS-640,Hydrotest
+RPT-00368,2022-08-29,SEG_072,Corrosion,Major,Repair ASAP,2022-09-05,INS-811,ILI
+RPT-00369,2022-08-29,SEG_052,Vegetation Encroachment,Minor,Monitor,,INS-894,UT
+RPT-00370,2022-09-05,SEG_016,No Issues,None,Routine Maintenance,,INS-582,ROW Patrol
+RPT-00371,2022-09-05,SEG_060,Vegetation Encroachment,Minor,Monitor,,INS-576,ROW Patrol
+RPT-00372,2022-09-05,SEG_049,No Issues,None,Routine Maintenance,,INS-326,ROW Patrol
+RPT-00373,2022-09-05,SEG_013,Coating Damage,Moderate,Repair ASAP,2022-09-28,INS-344,UT
+RPT-00374,2022-09-05,SEG_010,Coating Damage,Minor,Monitor,,INS-360,ILI
+RPT-00375,2022-09-05,SEG_068,No Issues,None,Routine Maintenance,,INS-127,Visual
+RPT-00376,2022-09-05,SEG_014,Coating Damage,Moderate,Repair ASAP,2022-09-18,INS-681,ROW Patrol
+RPT-00377,2022-09-05,SEG_045,Mechanical Damage,Major,Immediate Shutdown,2022-09-06,INS-241,Hydrotest
+RPT-00378,2022-09-12,SEG_047,Coating Damage,Minor,Repair ASAP,2022-09-16,INS-216,Hydrotest
+RPT-00379,2022-09-12,SEG_056,Vegetation Encroachment,Minor,Monitor,,INS-817,ILI
+RPT-00380,2022-09-12,SEG_057,No Issues,None,Routine Maintenance,,INS-551,Visual
+RPT-00381,2022-09-12,SEG_084,No Issues,None,Routine Maintenance,,INS-178,ROW Patrol
+RPT-00382,2022-09-12,SEG_052,Coating Damage,Moderate,Monitor,,INS-408,Hydrotest
+RPT-00383,2022-09-12,SEG_033,Third-Party Interference,Major,Investigate,2022-10-09,INS-650,ROW Patrol
+RPT-00384,2022-09-12,SEG_074,Vegetation Encroachment,Minor,Clear Area,,INS-900,UT
+RPT-00385,2022-09-12,SEG_015,No Issues,None,Routine Maintenance,,INS-964,ROW Patrol
+RPT-00386,2022-09-19,SEG_018,No Issues,None,Routine Maintenance,,INS-141,Visual
+RPT-00387,2022-09-19,SEG_065,Corrosion,Critical,Monitor,2022-09-25,INS-507,ILI
+RPT-00388,2022-09-19,SEG_041,Vegetation Encroachment,Minor,Monitor,,INS-759,UT
+RPT-00389,2022-09-19,SEG_074,Third-Party Interference,Major,Investigate,2022-09-29,INS-586,Visual
+RPT-00390,2022-09-19,SEG_020,Third-Party Interference,Major,Repair ASAP,2022-10-09,INS-607,Hydrotest
+RPT-00391,2022-09-19,SEG_008,Mechanical Damage,Moderate,Repair ASAP,2022-10-07,INS-505,UT
+RPT-00392,2022-09-19,SEG_039,No Issues,None,Routine Maintenance,,INS-476,ROW Patrol
+RPT-00393,2022-09-19,SEG_038,Vegetation Encroachment,Minor,Clear Area,,INS-172,ROW Patrol
+RPT-00394,2022-09-26,SEG_032,No Issues,None,Routine Maintenance,,INS-526,ROW Patrol
+RPT-00395,2022-09-26,SEG_012,Third-Party Interference,Major,Investigate,2022-10-23,INS-506,UT
+RPT-00396,2022-09-26,SEG_063,No Issues,None,Routine Maintenance,,INS-816,ROW Patrol
+RPT-00397,2022-09-26,SEG_014,No Issues,None,Routine Maintenance,,INS-788,ROW Patrol
+RPT-00398,2022-09-26,SEG_019,Third-Party Interference,Major,Repair ASAP,2022-09-27,INS-214,Hydrotest
+RPT-00399,2022-09-26,SEG_081,Corrosion,Minor,Immediate Shutdown,,INS-818,UT
+RPT-00400,2022-09-26,SEG_038,Coating Damage,Minor,Monitor,,INS-245,Visual
+RPT-00401,2022-09-26,SEG_057,Vegetation Encroachment,Minor,Monitor,,INS-600,Hydrotest
+RPT-00402,2022-10-03,SEG_026,No Issues,None,Routine Maintenance,,INS-814,ROW Patrol
+RPT-00403,2022-10-03,SEG_036,Coating Damage,Moderate,Monitor,,INS-524,UT
+RPT-00404,2022-10-03,SEG_078,Coating Damage,Moderate,Monitor,,INS-497,UT
+RPT-00405,2022-10-03,SEG_050,Corrosion,Minor,Immediate Shutdown,,INS-672,ROW Patrol
+RPT-00406,2022-10-03,SEG_081,Vegetation Encroachment,Minor,Clear Area,,INS-436,Hydrotest
+RPT-00407,2022-10-03,SEG_017,Corrosion,Minor,Monitor,,INS-743,Hydrotest
+RPT-00408,2022-10-03,SEG_034,No Issues,None,Routine Maintenance,,INS-926,Visual
+RPT-00409,2022-10-03,SEG_058,Coating Damage,Moderate,Repair ASAP,2022-10-24,INS-627,UT
+RPT-00410,2022-10-10,SEG_042,Third-Party Interference,Major,Investigate,2022-11-02,INS-298,Visual
+RPT-00411,2022-10-10,SEG_085,Corrosion,Critical,Monitor,2022-10-24,INS-544,Hydrotest
+RPT-00412,2022-10-10,SEG_028,Coating Damage,Moderate,Monitor,,INS-554,Visual
+RPT-00413,2022-10-10,SEG_057,Vegetation Encroachment,Minor,Clear Area,,INS-540,UT
+RPT-00414,2022-10-10,SEG_053,No Issues,None,Routine Maintenance,,INS-182,ROW Patrol
+RPT-00415,2022-10-10,SEG_054,No Issues,None,Routine Maintenance,,INS-715,Visual
+RPT-00416,2022-10-10,SEG_041,Third-Party Interference,Moderate,Investigate,,INS-720,ILI
+RPT-00417,2022-10-10,SEG_064,Mechanical Damage,Major,Repair ASAP,2022-10-18,INS-893,Hydrotest
+RPT-00418,2022-10-17,SEG_043,Vegetation Encroachment,Minor,Monitor,,INS-315,ROW Patrol
+RPT-00419,2022-10-17,SEG_075,Corrosion,Minor,Immediate Shutdown,,INS-976,ILI
+RPT-00420,2022-10-17,SEG_063,Vegetation Encroachment,Minor,Monitor,,INS-280,UT
+RPT-00421,2022-10-17,SEG_058,Third-Party Interference,Major,Repair ASAP,2022-11-02,INS-549,Visual
+RPT-00422,2022-10-17,SEG_064,Mechanical Damage,Critical,Immediate Shutdown,2022-11-08,INS-321,UT
+RPT-00423,2022-10-17,SEG_037,Vegetation Encroachment,Minor,Monitor,,INS-649,Visual
+RPT-00424,2022-10-17,SEG_007,Mechanical Damage,Major,Immediate Shutdown,2022-11-07,INS-361,ROW Patrol
+RPT-00425,2022-10-17,SEG_051,Coating Damage,Minor,Repair ASAP,2022-11-12,INS-820,Hydrotest
+RPT-00426,2022-10-24,SEG_006,No Issues,None,Routine Maintenance,,INS-803,ILI
+RPT-00427,2022-10-24,SEG_081,Mechanical Damage,Moderate,Repair ASAP,2022-11-10,INS-265,UT
+RPT-00428,2022-10-24,SEG_058,Corrosion,Major,Monitor,2022-11-23,INS-904,Hydrotest
+RPT-00429,2022-10-24,SEG_067,Third-Party Interference,Major,Investigate,2022-11-09,INS-347,ILI
+RPT-00430,2022-10-24,SEG_079,Mechanical Damage,Major,Repair ASAP,2022-11-23,INS-625,ILI
+RPT-00431,2022-10-24,SEG_026,No Issues,None,Routine Maintenance,,INS-348,ROW Patrol
+RPT-00432,2022-10-24,SEG_043,Third-Party Interference,Major,Investigate,2022-11-10,INS-520,UT
+RPT-00433,2022-10-24,SEG_013,Vegetation Encroachment,Minor,Clear Area,,INS-847,Visual
+RPT-00434,2022-10-31,SEG_022,No Issues,None,Routine Maintenance,,INS-212,ROW Patrol
+RPT-00435,2022-10-31,SEG_003,Vegetation Encroachment,Minor,Monitor,,INS-221,Hydrotest
+RPT-00436,2022-10-31,SEG_056,Third-Party Interference,Major,Investigate,2022-11-30,INS-418,Hydrotest
+RPT-00437,2022-10-31,SEG_085,Mechanical Damage,Moderate,Immediate Shutdown,,INS-771,ILI
+RPT-00438,2022-10-31,SEG_073,Coating Damage,Minor,Monitor,,INS-605,Hydrotest
+RPT-00439,2022-10-31,SEG_031,Mechanical Damage,Critical,Immediate Shutdown,2022-11-13,INS-827,UT
+RPT-00440,2022-10-31,SEG_044,Coating Damage,Minor,Monitor,,INS-690,Hydrotest
+RPT-00441,2022-10-31,SEG_063,Coating Damage,Moderate,Repair ASAP,2022-11-13,INS-917,ILI
+RPT-00442,2022-11-07,SEG_050,Corrosion,Minor,Monitor,,INS-169,UT
+RPT-00443,2022-11-07,SEG_075,No Issues,None,Routine Maintenance,,INS-981,ROW Patrol
+RPT-00444,2022-11-07,SEG_084,Vegetation Encroachment,Minor,Monitor,,INS-452,Hydrotest
+RPT-00445,2022-11-07,SEG_024,No Issues,None,Routine Maintenance,,INS-132,ILI
+RPT-00446,2022-11-07,SEG_028,No Issues,None,Routine Maintenance,,INS-679,Visual
+RPT-00447,2022-11-07,SEG_038,Vegetation Encroachment,Minor,Monitor,,INS-868,UT
+RPT-00448,2022-11-07,SEG_073,No Issues,None,Routine Maintenance,,INS-814,ROW Patrol
+RPT-00449,2022-11-07,SEG_077,Third-Party Interference,Major,Investigate,2022-11-09,INS-880,ROW Patrol
+RPT-00450,2022-11-14,SEG_075,No Issues,None,Routine Maintenance,,INS-476,ILI
+RPT-00451,2022-11-14,SEG_074,Third-Party Interference,Major,Repair ASAP,2022-11-18,INS-469,ILI
+RPT-00452,2022-11-14,SEG_054,No Issues,None,Routine Maintenance,,INS-518,Visual
+RPT-00453,2022-11-14,SEG_001,Vegetation Encroachment,Minor,Monitor,,INS-326,ILI
+RPT-00454,2022-11-14,SEG_030,No Issues,None,Routine Maintenance,,INS-705,ROW Patrol
+RPT-00455,2022-11-14,SEG_014,Coating Damage,Minor,Repair ASAP,2022-12-04,INS-700,Hydrotest
+RPT-00456,2022-11-14,SEG_053,No Issues,None,Routine Maintenance,,INS-606,Visual
+RPT-00457,2022-11-14,SEG_057,Vegetation Encroachment,Minor,Monitor,,INS-364,Hydrotest
+RPT-00458,2022-11-21,SEG_035,Mechanical Damage,Critical,Repair ASAP,2022-11-28,INS-468,UT
+RPT-00459,2022-11-21,SEG_020,Third-Party Interference,Major,Repair ASAP,2022-12-05,INS-794,ILI
+RPT-00460,2022-11-21,SEG_038,Coating Damage,Minor,Repair ASAP,2022-12-20,INS-285,ILI
+RPT-00461,2022-11-21,SEG_003,Mechanical Damage,Moderate,Immediate Shutdown,,INS-476,ROW Patrol
+RPT-00462,2022-11-21,SEG_076,No Issues,None,Routine Maintenance,,INS-741,Visual
+RPT-00463,2022-11-21,SEG_042,Third-Party Interference,Major,Investigate,2022-12-02,INS-958,Hydrotest
+RPT-00464,2022-11-21,SEG_051,Corrosion,Minor,Immediate Shutdown,,INS-507,ILI
+RPT-00465,2022-11-21,SEG_044,Corrosion,Minor,Immediate Shutdown,,INS-248,ILI
+RPT-00466,2022-11-26,SEG_085,Corrosion,Critical,Monitor,2022-12-04,INS-501,Visual
+RPT-00467,2022-11-28,SEG_044,No Issues,None,Routine Maintenance,,INS-329,ROW Patrol
+RPT-00468,2022-11-28,SEG_039,Vegetation Encroachment,Minor,Clear Area,,INS-727,UT
+RPT-00469,2022-11-28,SEG_065,Third-Party Interference,Moderate,Investigate,,INS-453,Hydrotest
+RPT-00470,2022-11-28,SEG_041,Mechanical Damage,Critical,Repair ASAP,2022-12-20,INS-286,ILI
+RPT-00471,2022-11-28,SEG_061,Corrosion,Minor,Immediate Shutdown,,INS-459,Hydrotest
+RPT-00472,2022-11-28,SEG_067,No Issues,None,Routine Maintenance,,INS-160,Visual
+RPT-00473,2022-11-28,SEG_005,Mechanical Damage,Major,Immediate Shutdown,2022-12-11,INS-148,ILI
+RPT-00474,2022-11-28,SEG_037,No Issues,None,Routine Maintenance,,INS-293,ROW Patrol
+RPT-00475,2022-12-05,SEG_041,Third-Party Interference,Moderate,Repair ASAP,2022-12-12,INS-988,Hydrotest
+RPT-00476,2022-12-05,SEG_056,Corrosion,Minor,Monitor,,INS-109,Hydrotest
+RPT-00477,2022-12-05,SEG_084,Vegetation Encroachment,Minor,Clear Area,,INS-509,UT
+RPT-00478,2022-12-05,SEG_061,Vegetation Encroachment,Minor,Clear Area,,INS-923,UT
+RPT-00479,2022-12-05,SEG_044,Third-Party Interference,Major,Repair ASAP,2022-12-23,INS-972,UT
+RPT-00480,2022-12-05,SEG_036,No Issues,None,Routine Maintenance,,INS-224,ROW Patrol
+RPT-00481,2022-12-05,SEG_030,Mechanical Damage,Major,Immediate Shutdown,2022-12-19,INS-884,Visual
+RPT-00482,2022-12-05,SEG_080,No Issues,None,Routine Maintenance,,INS-322,ROW Patrol
+RPT-00483,2022-12-12,SEG_069,Third-Party Interference,Moderate,Investigate,,INS-622,ILI
+RPT-00484,2022-12-12,SEG_078,Vegetation Encroachment,Minor,Clear Area,,INS-497,Visual
+RPT-00485,2022-12-12,SEG_032,Coating Damage,Moderate,Repair ASAP,2022-12-18,INS-304,Hydrotest
+RPT-00486,2022-12-12,SEG_031,No Issues,None,Routine Maintenance,,INS-348,ROW Patrol
+RPT-00487,2022-12-12,SEG_068,Vegetation Encroachment,Minor,Clear Area,,INS-409,UT
+RPT-00488,2022-12-12,SEG_050,Coating Damage,Moderate,Monitor,,INS-197,Visual
+RPT-00489,2022-12-12,SEG_023,Mechanical Damage,Major,Repair ASAP,2023-01-02,INS-528,Visual
+RPT-00490,2022-12-12,SEG_014,No Issues,None,Routine Maintenance,,INS-233,ROW Patrol
+RPT-00491,2022-12-19,SEG_074,Vegetation Encroachment,Minor,Clear Area,,INS-327,Visual
+RPT-00492,2022-12-19,SEG_084,Mechanical Damage,Moderate,Repair ASAP,2022-12-22,INS-605,ILI
+RPT-00493,2022-12-19,SEG_056,No Issues,None,Routine Maintenance,,INS-564,Visual
+RPT-00494,2022-12-19,SEG_029,Coating Damage,Moderate,Monitor,,INS-883,ROW Patrol
+RPT-00495,2022-12-19,SEG_007,Mechanical Damage,Critical,Repair ASAP,2022-12-25,INS-507,Hydrotest
+RPT-00496,2022-12-19,SEG_008,Third-Party Interference,Moderate,Investigate,,INS-502,Visual
+RPT-00497,2022-12-19,SEG_068,No Issues,None,Routine Maintenance,,INS-252,ROW Patrol
+RPT-00498,2022-12-19,SEG_035,No Issues,None,Routine Maintenance,,INS-794,ROW Patrol
+RPT-00499,2022-12-26,SEG_084,No Issues,None,Routine Maintenance,,INS-617,Visual
+RPT-00500,2022-12-26,SEG_052,Vegetation Encroachment,Minor,Monitor,,INS-903,ILI
+RPT-00501,2022-12-26,SEG_036,Coating Damage,Minor,Repair ASAP,2023-01-14,INS-708,ROW Patrol
+RPT-00502,2022-12-26,SEG_012,Coating Damage,Minor,Monitor,,INS-924,UT
+RPT-00503,2022-12-26,SEG_008,No Issues,None,Routine Maintenance,,INS-681,Visual
+RPT-00504,2022-12-26,SEG_013,No Issues,None,Routine Maintenance,,INS-470,Visual
+RPT-00505,2022-12-26,SEG_035,No Issues,None,Routine Maintenance,,INS-928,ROW Patrol
+RPT-00506,2022-12-26,SEG_039,Third-Party Interference,Moderate,Investigate,,INS-259,Visual
+RPT-00507,2023-01-02,SEG_005,Coating Damage,Moderate,Monitor,,INS-267,UT
+RPT-00508,2023-01-02,SEG_018,No Issues,None,Routine Maintenance,,INS-509,ROW Patrol
+RPT-00509,2023-01-02,SEG_048,Vegetation Encroachment,Minor,Clear Area,,INS-518,Hydrotest
+RPT-00510,2023-01-02,SEG_065,Vegetation Encroachment,Minor,Monitor,,INS-929,Hydrotest
+RPT-00511,2023-01-02,SEG_064,No Issues,None,Routine Maintenance,,INS-701,Visual
+RPT-00512,2023-01-02,SEG_012,No Issues,None,Routine Maintenance,,INS-334,Visual
+RPT-00513,2023-01-02,SEG_072,Coating Damage,Minor,Repair ASAP,2023-01-20,INS-204,Visual
+RPT-00514,2023-01-02,SEG_082,Coating Damage,Moderate,Repair ASAP,2023-01-22,INS-498,UT
+RPT-00515,2023-01-09,SEG_024,Coating Damage,Minor,Repair ASAP,2023-02-07,INS-258,UT
+RPT-00516,2023-01-09,SEG_034,Mechanical Damage,Moderate,Immediate Shutdown,,INS-143,Visual
+RPT-00517,2023-01-09,SEG_038,Mechanical Damage,Critical,Repair ASAP,2023-01-17,INS-501,Hydrotest
+RPT-00518,2023-01-09,SEG_010,Mechanical Damage,Moderate,Repair ASAP,2023-01-12,INS-236,UT
+RPT-00519,2023-01-09,SEG_059,Coating Damage,Moderate,Monitor,,INS-796,UT
+RPT-00520,2023-01-09,SEG_073,No Issues,None,Routine Maintenance,,INS-577,Visual
+RPT-00521,2023-01-09,SEG_052,No Issues,None,Routine Maintenance,,INS-982,ILI
+RPT-00522,2023-01-09,SEG_006,Mechanical Damage,Critical,Immediate Shutdown,2023-02-01,INS-222,UT
+RPT-00523,2023-01-16,SEG_030,Coating Damage,Moderate,Monitor,,INS-731,UT
+RPT-00524,2023-01-16,SEG_046,Vegetation Encroachment,Minor,Monitor,,INS-268,ILI
+RPT-00525,2023-01-16,SEG_024,No Issues,None,Routine Maintenance,,INS-143,ILI
+RPT-00526,2023-01-16,SEG_042,No Issues,None,Routine Maintenance,,INS-521,ROW Patrol
+RPT-00527,2023-01-16,SEG_029,No Issues,None,Routine Maintenance,,INS-157,Visual
+RPT-00528,2023-01-16,SEG_076,Mechanical Damage,Major,Repair ASAP,2023-02-10,INS-971,UT
+RPT-00529,2023-01-16,SEG_047,No Issues,None,Routine Maintenance,,INS-760,Visual
+RPT-00530,2023-01-16,SEG_072,Vegetation Encroachment,Minor,Clear Area,,INS-290,Hydrotest
+RPT-00531,2023-01-23,SEG_053,Mechanical Damage,Major,Repair ASAP,2023-02-04,INS-320,UT
+RPT-00532,2023-01-23,SEG_066,No Issues,None,Routine Maintenance,,INS-866,ILI
+RPT-00533,2023-01-23,SEG_052,No Issues,None,Routine Maintenance,,INS-352,Visual
+RPT-00534,2023-01-23,SEG_011,Corrosion,Minor,Monitor,,INS-770,UT
+RPT-00535,2023-01-23,SEG_067,No Issues,None,Routine Maintenance,,INS-531,ROW Patrol
+RPT-00536,2023-01-23,SEG_056,Vegetation Encroachment,Minor,Clear Area,,INS-830,ILI
+RPT-00537,2023-01-23,SEG_064,No Issues,None,Routine Maintenance,,INS-394,Visual
+RPT-00538,2023-01-23,SEG_044,Coating Damage,Minor,Repair ASAP,2023-02-20,INS-685,UT
+RPT-00539,2023-01-30,SEG_053,No Issues,None,Routine Maintenance,,INS-755,Visual
+RPT-00540,2023-01-30,SEG_014,No Issues,None,Routine Maintenance,,INS-925,ILI
+RPT-00541,2023-01-30,SEG_041,Third-Party Interference,Major,Repair ASAP,2023-02-19,INS-270,Hydrotest
+RPT-00542,2023-01-30,SEG_054,No Issues,None,Routine Maintenance,,INS-970,ROW Patrol
+RPT-00543,2023-01-30,SEG_038,Third-Party Interference,Moderate,Investigate,,INS-644,ROW Patrol
+RPT-00544,2023-01-30,SEG_062,No Issues,None,Routine Maintenance,,INS-175,ROW Patrol
+RPT-00545,2023-01-30,SEG_045,Vegetation Encroachment,Minor,Clear Area,,INS-539,UT
+RPT-00546,2023-01-30,SEG_044,Vegetation Encroachment,Minor,Clear Area,,INS-135,ILI
+RPT-00547,2023-02-06,SEG_024,Vegetation Encroachment,Minor,Clear Area,,INS-806,ROW Patrol
+RPT-00548,2023-02-06,SEG_084,Coating Damage,Minor,Repair ASAP,2023-03-02,INS-213,ILI
+RPT-00549,2023-02-06,SEG_063,Mechanical Damage,Critical,Repair ASAP,2023-02-20,INS-126,ROW Patrol
+RPT-00550,2023-02-06,SEG_074,No Issues,None,Routine Maintenance,,INS-888,ILI
+RPT-00551,2023-02-06,SEG_076,Mechanical Damage,Moderate,Immediate Shutdown,,INS-194,Hydrotest
+RPT-00552,2023-02-06,SEG_040,Corrosion,Moderate,Monitor,,INS-249,Visual
+RPT-00553,2023-02-06,SEG_049,Third-Party Interference,Moderate,Repair ASAP,2023-02-19,INS-436,UT
+RPT-00554,2023-02-06,SEG_067,No Issues,None,Routine Maintenance,,INS-291,ROW Patrol
+RPT-00555,2023-02-13,SEG_009,Vegetation Encroachment,Minor,Clear Area,,INS-383,Hydrotest
+RPT-00556,2023-02-13,SEG_080,No Issues,None,Routine Maintenance,,INS-777,ROW Patrol
+RPT-00557,2023-02-13,SEG_036,Corrosion,Major,Immediate Shutdown,2023-03-11,INS-698,Hydrotest
+RPT-00558,2023-02-13,SEG_017,Corrosion,Major,Monitor,2023-02-16,INS-901,ILI
+RPT-00559,2023-02-13,SEG_052,No Issues,None,Routine Maintenance,,INS-114,ROW Patrol
+RPT-00560,2023-02-13,SEG_016,Coating Damage,Moderate,Repair ASAP,2023-03-11,INS-896,ROW Patrol
+RPT-00561,2023-02-13,SEG_050,Coating Damage,Moderate,Repair ASAP,2023-03-04,INS-105,ROW Patrol
+RPT-00562,2023-02-13,SEG_082,Corrosion,Moderate,Immediate Shutdown,,INS-568,Visual
+RPT-00563,2023-02-20,SEG_026,Vegetation Encroachment,Minor,Monitor,,INS-588,ROW Patrol
+RPT-00564,2023-02-20,SEG_056,No Issues,None,Routine Maintenance,,INS-181,Visual
+RPT-00565,2023-02-20,SEG_030,Vegetation Encroachment,Minor,Clear Area,,INS-471,ILI
+RPT-00566,2023-02-20,SEG_018,Mechanical Damage,Major,Immediate Shutdown,2023-02-27,INS-537,Visual
+RPT-00567,2023-02-20,SEG_069,Corrosion,Minor,Immediate Shutdown,,INS-905,UT
+RPT-00568,2023-02-20,SEG_077,No Issues,None,Routine Maintenance,,INS-592,ROW Patrol
+RPT-00569,2023-02-20,SEG_007,Mechanical Damage,Major,Repair ASAP,2023-02-24,INS-405,UT
+RPT-00570,2023-02-20,SEG_058,Vegetation Encroachment,Minor,Monitor,,INS-557,UT
+RPT-00571,2023-02-27,SEG_005,Vegetation Encroachment,Minor,Clear Area,,INS-345,ROW Patrol
+RPT-00572,2023-02-27,SEG_083,Third-Party Interference,Moderate,Investigate,,INS-321,Visual
+RPT-00573,2023-02-27,SEG_021,Mechanical Damage,Moderate,Repair ASAP,2023-03-09,INS-666,UT
+RPT-00574,2023-02-27,SEG_030,Vegetation Encroachment,Minor,Monitor,,INS-994,ILI
+RPT-00575,2023-02-27,SEG_028,Third-Party Interference,Major,Repair ASAP,2023-02-28,INS-724,UT
+RPT-00576,2023-02-27,SEG_013,Vegetation Encroachment,Minor,Clear Area,,INS-755,ROW Patrol
+RPT-00577,2023-02-27,SEG_018,Coating Damage,Minor,Repair ASAP,2023-03-14,INS-262,UT
+RPT-00578,2023-02-27,SEG_056,Mechanical Damage,Major,Repair ASAP,2023-03-07,INS-329,ROW Patrol
+RPT-00579,2023-03-06,SEG_074,Coating Damage,Moderate,Repair ASAP,2023-03-07,INS-668,ILI
+RPT-00580,2023-03-06,SEG_058,Mechanical Damage,Moderate,Immediate Shutdown,,INS-305,UT
+RPT-00581,2023-03-06,SEG_007,No Issues,None,Routine Maintenance,,INS-740,Visual
+RPT-00582,2023-03-06,SEG_067,Third-Party Interference,Moderate,Repair ASAP,2023-03-31,INS-359,Hydrotest
+RPT-00583,2023-03-06,SEG_063,No Issues,None,Routine Maintenance,,INS-794,ROW Patrol
+RPT-00584,2023-03-06,SEG_019,No Issues,None,Routine Maintenance,,INS-514,ROW Patrol
+RPT-00585,2023-03-06,SEG_041,Mechanical Damage,Critical,Immediate Shutdown,2023-03-23,INS-325,Visual
+RPT-00586,2023-03-06,SEG_015,Vegetation Encroachment,Minor,Clear Area,,INS-373,ILI
+RPT-00587,2023-03-13,SEG_065,Mechanical Damage,Critical,Repair ASAP,2023-04-08,INS-814,UT
+RPT-00588,2023-03-13,SEG_074,Corrosion,Critical,Immediate Shutdown,2023-03-14,INS-437,Hydrotest
+RPT-00589,2023-03-13,SEG_042,Third-Party Interference,Moderate,Investigate,,INS-267,Hydrotest
+RPT-00590,2023-03-13,SEG_007,Mechanical Damage,Moderate,Immediate Shutdown,,INS-955,Hydrotest
+RPT-00591,2023-03-13,SEG_021,No Issues,None,Routine Maintenance,,INS-468,ROW Patrol
+RPT-00592,2023-03-13,SEG_043,Corrosion,Critical,Immediate Shutdown,2023-04-01,INS-595,UT
+RPT-00593,2023-03-13,SEG_037,No Issues,None,Routine Maintenance,,INS-443,ILI
+RPT-00594,2023-03-13,SEG_084,No Issues,None,Routine Maintenance,,INS-680,ROW Patrol
+RPT-00595,2023-03-20,SEG_070,No Issues,None,Routine Maintenance,,INS-688,ILI
+RPT-00596,2023-03-20,SEG_057,Corrosion,Critical,Monitor,2023-04-05,INS-985,Hydrotest
+RPT-00597,2023-03-20,SEG_027,Corrosion,Critical,Repair ASAP,2023-03-24,INS-384,ILI
+RPT-00598,2023-03-20,SEG_085,Mechanical Damage,Critical,Repair ASAP,2023-04-06,INS-539,Hydrotest
+RPT-00599,2023-03-20,SEG_050,No Issues,None,Routine Maintenance,,INS-929,ROW Patrol
+RPT-00600,2023-03-20,SEG_046,Coating Damage,Moderate,Monitor,,INS-116,Hydrotest
+RPT-00601,2023-03-20,SEG_036,No Issues,None,Routine Maintenance,,INS-492,Visual
+RPT-00602,2023-03-20,SEG_021,Mechanical Damage,Major,Immediate Shutdown,2023-04-18,INS-438,UT
+RPT-00603,2023-03-27,SEG_039,Third-Party Interference,Moderate,Investigate,,INS-674,UT
+RPT-00604,2023-03-27,SEG_057,No Issues,None,Routine Maintenance,,INS-178,ILI
+RPT-00605,2023-03-27,SEG_022,Vegetation Encroachment,Minor,Clear Area,,INS-597,Hydrotest
+RPT-00606,2023-03-27,SEG_028,Third-Party Interference,Moderate,Repair ASAP,2023-03-29,INS-146,Hydrotest
+RPT-00607,2023-03-27,SEG_040,Vegetation Encroachment,Minor,Monitor,,INS-431,ILI
+RPT-00608,2023-03-27,SEG_007,Mechanical Damage,Major,Immediate Shutdown,2023-04-16,INS-741,Visual
+RPT-00609,2023-03-27,SEG_055,No Issues,None,Routine Maintenance,,INS-721,ROW Patrol
+RPT-00610,2023-03-27,SEG_050,Mechanical Damage,Critical,Repair ASAP,2023-03-30,INS-877,Hydrotest
+RPT-00611,2023-04-03,SEG_029,Coating Damage,Moderate,Monitor,,INS-982,Hydrotest
+RPT-00612,2023-04-03,SEG_043,Corrosion,Moderate,Monitor,,INS-628,Visual
+RPT-00613,2023-04-03,SEG_053,Coating Damage,Moderate,Monitor,,INS-554,ILI
+RPT-00614,2023-04-03,SEG_076,No Issues,None,Routine Maintenance,,INS-271,Visual
+RPT-00615,2023-04-03,SEG_030,Third-Party Interference,Major,Investigate,2023-04-11,INS-701,Visual
+RPT-00616,2023-04-03,SEG_011,Third-Party Interference,Moderate,Repair ASAP,2023-04-30,INS-739,Hydrotest
+RPT-00617,2023-04-03,SEG_065,No Issues,None,Routine Maintenance,,INS-821,Visual
+RPT-00618,2023-04-03,SEG_015,Mechanical Damage,Moderate,Immediate Shutdown,,INS-804,Hydrotest
+RPT-00619,2023-04-10,SEG_051,Mechanical Damage,Critical,Immediate Shutdown,2023-04-25,INS-861,Visual
+RPT-00620,2023-04-10,SEG_043,No Issues,None,Routine Maintenance,,INS-498,ROW Patrol
+RPT-00621,2023-04-10,SEG_030,Vegetation Encroachment,Minor,Clear Area,,INS-610,Hydrotest
+RPT-00622,2023-04-10,SEG_036,Corrosion,Minor,Repair ASAP,2023-04-16,INS-390,ROW Patrol
+RPT-00623,2023-04-10,SEG_019,No Issues,None,Routine Maintenance,,INS-494,ROW Patrol
+RPT-00624,2023-04-10,SEG_052,Vegetation Encroachment,Minor,Monitor,,INS-586,ILI
+RPT-00625,2023-04-10,SEG_006,Vegetation Encroachment,Minor,Monitor,,INS-587,Hydrotest
+RPT-00626,2023-04-10,SEG_067,No Issues,None,Routine Maintenance,,INS-938,Visual
+RPT-00627,2023-04-17,SEG_085,Mechanical Damage,Moderate,Repair ASAP,2023-04-26,INS-925,ROW Patrol
+RPT-00628,2023-04-17,SEG_004,No Issues,None,Routine Maintenance,,INS-609,ILI
+RPT-00629,2023-04-17,SEG_035,Vegetation Encroachment,Minor,Monitor,,INS-785,Hydrotest
+RPT-00630,2023-04-17,SEG_041,Vegetation Encroachment,Minor,Clear Area,,INS-387,Hydrotest
+RPT-00631,2023-04-17,SEG_055,Corrosion,Major,Repair ASAP,2023-04-26,INS-799,UT
+RPT-00632,2023-04-17,SEG_080,Third-Party Interference,Major,Investigate,2023-04-29,INS-678,UT
+RPT-00633,2023-04-17,SEG_045,Vegetation Encroachment,Minor,Clear Area,,INS-639,ILI
+RPT-00634,2023-04-17,SEG_057,Corrosion,Moderate,Monitor,,INS-711,UT
+RPT-00635,2023-04-24,SEG_028,Corrosion,Minor,Repair ASAP,2023-05-22,INS-385,Hydrotest
+RPT-00636,2023-04-24,SEG_015,Corrosion,Moderate,Repair ASAP,2023-05-23,INS-219,ILI
+RPT-00637,2023-04-24,SEG_081,Corrosion,Major,Repair ASAP,2023-04-26,INS-914,UT
+RPT-00638,2023-04-24,SEG_051,No Issues,None,Routine Maintenance,,INS-596,Visual
+RPT-00639,2023-04-24,SEG_061,No Issues,None,Routine Maintenance,,INS-752,ROW Patrol
+RPT-00640,2023-04-24,SEG_008,No Issues,None,Routine Maintenance,,INS-710,Visual
+RPT-00641,2023-04-24,SEG_054,Third-Party Interference,Major,Repair ASAP,2023-05-06,INS-120,Visual
+RPT-00642,2023-04-24,SEG_033,Vegetation Encroachment,Minor,Clear Area,,INS-147,Visual
+RPT-00643,2023-05-01,SEG_033,Corrosion,Moderate,Immediate Shutdown,,INS-172,ILI
+RPT-00644,2023-05-01,SEG_066,Corrosion,Major,Monitor,2023-05-07,INS-463,ROW Patrol
+RPT-00645,2023-05-01,SEG_044,Coating Damage,Minor,Monitor,,INS-735,Hydrotest
+RPT-00646,2023-05-01,SEG_070,Third-Party Interference,Moderate,Investigate,,INS-365,UT
+RPT-00647,2023-05-01,SEG_041,Third-Party Interference,Major,Investigate,2023-05-27,INS-376,Hydrotest
+RPT-00648,2023-05-01,SEG_042,Corrosion,Major,Monitor,2023-05-09,INS-334,ILI
+RPT-00649,2023-05-01,SEG_046,No Issues,None,Routine Maintenance,,INS-396,ILI
+RPT-00650,2023-05-01,SEG_030,Coating Damage,Moderate,Repair ASAP,2023-05-16,INS-835,Visual
+RPT-00651,2023-05-08,SEG_031,No Issues,None,Routine Maintenance,,INS-498,Visual
+RPT-00652,2023-05-08,SEG_073,Third-Party Interference,Moderate,Repair ASAP,2023-05-18,INS-518,ROW Patrol
+RPT-00653,2023-05-08,SEG_012,Third-Party Interference,Moderate,Repair ASAP,2023-06-06,INS-947,Hydrotest
+RPT-00654,2023-05-08,SEG_061,No Issues,None,Routine Maintenance,,INS-903,ROW Patrol
+RPT-00655,2023-05-08,SEG_080,Vegetation Encroachment,Minor,Clear Area,,INS-553,UT
+RPT-00656,2023-05-08,SEG_036,Corrosion,Major,Monitor,2023-05-11,INS-555,UT
+RPT-00657,2023-05-08,SEG_055,Vegetation Encroachment,Minor,Clear Area,,INS-318,Visual
+RPT-00658,2023-05-08,SEG_027,No Issues,None,Routine Maintenance,,INS-844,Visual
+RPT-00659,2023-05-15,SEG_083,Vegetation Encroachment,Minor,Monitor,,INS-145,UT
+RPT-00660,2023-05-15,SEG_035,No Issues,None,Routine Maintenance,,INS-302,ROW Patrol
+RPT-00661,2023-05-15,SEG_050,Corrosion,Minor,Monitor,,INS-963,ILI
+RPT-00662,2023-05-15,SEG_068,Vegetation Encroachment,Minor,Monitor,,INS-765,UT
+RPT-00663,2023-05-15,SEG_037,No Issues,None,Routine Maintenance,,INS-326,ROW Patrol
+RPT-00664,2023-05-15,SEG_053,Mechanical Damage,Major,Repair ASAP,2023-06-06,INS-289,Visual
+RPT-00665,2023-05-15,SEG_025,Corrosion,Major,Repair ASAP,2023-05-23,INS-397,ILI
+RPT-00666,2023-05-15,SEG_011,Third-Party Interference,Moderate,Repair ASAP,2023-05-31,INS-417,Visual
+RPT-00667,2023-05-22,SEG_051,No Issues,None,Routine Maintenance,,INS-377,Visual
+RPT-00668,2023-05-22,SEG_073,Corrosion,Major,Monitor,2023-06-04,INS-533,Visual
+RPT-00669,2023-05-22,SEG_053,No Issues,None,Routine Maintenance,,INS-908,ROW Patrol
+RPT-00670,2023-05-22,SEG_011,Vegetation Encroachment,Minor,Clear Area,,INS-252,Visual
+RPT-00671,2023-05-22,SEG_005,Coating Damage,Moderate,Repair ASAP,2023-06-15,INS-990,UT
+RPT-00672,2023-05-22,SEG_024,No Issues,None,Routine Maintenance,,INS-760,ROW Patrol
+RPT-00673,2023-05-22,SEG_026,Corrosion,Minor,Repair ASAP,2023-05-24,INS-797,Hydrotest
+RPT-00674,2023-05-22,SEG_078,Mechanical Damage,Major,Repair ASAP,2023-06-15,INS-354,UT
+RPT-00675,2023-05-29,SEG_016,Vegetation Encroachment,Minor,Monitor,,INS-421,Hydrotest
+RPT-00676,2023-05-29,SEG_029,Mechanical Damage,Moderate,Repair ASAP,2023-05-31,INS-947,UT
+RPT-00677,2023-05-29,SEG_053,Third-Party Interference,Major,Investigate,2023-06-28,INS-295,UT
+RPT-00678,2023-05-29,SEG_050,Corrosion,Major,Monitor,2023-06-27,INS-570,Hydrotest
+RPT-00679,2023-05-29,SEG_012,No Issues,None,Routine Maintenance,,INS-861,Visual
+RPT-00680,2023-05-29,SEG_031,Third-Party Interference,Moderate,Investigate,,INS-171,ROW Patrol
+RPT-00681,2023-05-29,SEG_079,Mechanical Damage,Major,Repair ASAP,2023-06-17,INS-346,Hydrotest
+RPT-00682,2023-05-29,SEG_084,Third-Party Interference,Major,Investigate,2023-06-03,INS-118,ILI
+RPT-00683,2023-06-05,SEG_060,Vegetation Encroachment,Minor,Monitor,,INS-219,Hydrotest
+RPT-00684,2023-06-05,SEG_042,No Issues,None,Routine Maintenance,,INS-814,Visual
+RPT-00685,2023-06-05,SEG_079,No Issues,None,Routine Maintenance,,INS-646,ILI
+RPT-00686,2023-06-05,SEG_013,No Issues,None,Routine Maintenance,,INS-701,Visual
+RPT-00687,2023-06-05,SEG_085,Corrosion,Major,Monitor,2023-06-16,INS-221,Visual
+RPT-00688,2023-06-05,SEG_077,Corrosion,Critical,Monitor,2023-07-01,INS-959,ILI
+RPT-00689,2023-06-05,SEG_033,Mechanical Damage,Critical,Immediate Shutdown,2023-06-14,INS-456,Visual
+RPT-00690,2023-06-05,SEG_061,Coating Damage,Moderate,Repair ASAP,2023-06-07,INS-525,Hydrotest
+RPT-00691,2023-06-12,SEG_053,Vegetation Encroachment,Minor,Clear Area,,INS-547,UT
+RPT-00692,2023-06-12,SEG_050,Coating Damage,Moderate,Monitor,,INS-930,Visual
+RPT-00693,2023-06-12,SEG_033,Coating Damage,Moderate,Repair ASAP,2023-06-23,INS-271,ILI
+RPT-00694,2023-06-12,SEG_006,Vegetation Encroachment,Minor,Clear Area,,INS-965,UT
+RPT-00695,2023-06-12,SEG_058,Vegetation Encroachment,Minor,Monitor,,INS-904,UT
+RPT-00696,2023-06-12,SEG_012,No Issues,None,Routine Maintenance,,INS-285,ROW Patrol
+RPT-00697,2023-06-12,SEG_055,No Issues,None,Routine Maintenance,,INS-540,ROW Patrol
+RPT-00698,2023-06-12,SEG_035,Corrosion,Minor,Monitor,,INS-843,ROW Patrol
+RPT-00699,2023-06-19,SEG_053,Third-Party Interference,Moderate,Repair ASAP,2023-07-06,INS-550,ILI
+RPT-00700,2023-06-19,SEG_040,No Issues,None,Routine Maintenance,,INS-576,Visual
+RPT-00701,2023-06-19,SEG_079,No Issues,None,Routine Maintenance,,INS-766,ROW Patrol
+RPT-00702,2023-06-19,SEG_000,No Issues,None,Routine Maintenance,,INS-226,ROW Patrol
+RPT-00703,2023-06-19,SEG_043,No Issues,None,Routine Maintenance,,INS-522,ROW Patrol
+RPT-00704,2023-06-19,SEG_068,No Issues,None,Routine Maintenance,,INS-426,ROW Patrol
+RPT-00705,2023-06-19,SEG_023,Third-Party Interference,Moderate,Investigate,,INS-612,ILI
+RPT-00706,2023-06-19,SEG_064,Third-Party Interference,Major,Repair ASAP,2023-07-01,INS-219,Hydrotest
+RPT-00707,2023-06-26,SEG_078,No Issues,None,Routine Maintenance,,INS-764,ROW Patrol
+RPT-00708,2023-06-26,SEG_013,Vegetation Encroachment,Minor,Clear Area,,INS-557,ROW Patrol
+RPT-00709,2023-06-26,SEG_055,Vegetation Encroachment,Minor,Clear Area,,INS-464,UT
+RPT-00710,2023-06-26,SEG_032,Third-Party Interference,Major,Repair ASAP,2023-07-08,INS-814,UT
+RPT-00711,2023-06-26,SEG_027,Coating Damage,Minor,Monitor,,INS-351,Hydrotest
+RPT-00712,2023-06-26,SEG_039,Third-Party Interference,Moderate,Investigate,,INS-244,Hydrotest
+RPT-00713,2023-06-26,SEG_051,Mechanical Damage,Critical,Immediate Shutdown,2023-07-17,INS-347,ILI
+RPT-00714,2023-06-26,SEG_025,No Issues,None,Routine Maintenance,,INS-595,ILI
+RPT-00715,2023-07-08,SEG_000,Mechanical Damage,Major,Immediate Shutdown,2023-07-21,INS-236,ILI
+RPT-00716,2023-07-07,SEG_001,Third-Party Interference,Moderate,Investigate,,INS-803,ILI
+RPT-00717,2023-07-23,SEG_002,Third-Party Interference,Major,Investigate,2023-07-29,INS-480,ILI
+RPT-00718,2023-07-27,SEG_003,Coating Damage,Minor,Monitor,,INS-678,ILI
+RPT-00719,2023-07-28,SEG_004,Vegetation Encroachment,Minor,Clear Area,,INS-837,ILI
+RPT-00720,2023-07-05,SEG_005,Corrosion,Moderate,Monitor,,INS-893,ILI
+RPT-00721,2023-07-19,SEG_006,Mechanical Damage,Critical,Immediate Shutdown,2023-08-05,INS-647,ILI
+RPT-00722,2023-07-03,SEG_007,Third-Party Interference,Moderate,Investigate,,INS-422,ILI
+RPT-00723,2023-07-29,SEG_008,Corrosion,Moderate,Monitor,,INS-725,ILI
+RPT-00724,2023-07-25,SEG_009,Coating Damage,Minor,Repair ASAP,2023-08-09,INS-961,ILI
+RPT-00725,2023-07-28,SEG_010,Mechanical Damage,Major,Repair ASAP,2023-07-31,INS-359,ILI
+RPT-00726,2023-07-26,SEG_011,Corrosion,Major,Monitor,2023-07-29,INS-650,ILI
+RPT-00727,2023-07-31,SEG_012,Mechanical Damage,Major,Immediate Shutdown,2023-08-08,INS-929,ILI
+RPT-00728,2023-07-03,SEG_013,Mechanical Damage,Critical,Repair ASAP,2023-07-18,INS-362,ILI
+RPT-00729,2023-07-27,SEG_014,Vegetation Encroachment,Minor,Clear Area,,INS-836,ILI
+RPT-00730,2023-07-08,SEG_015,Coating Damage,Minor,Repair ASAP,2023-07-16,INS-440,ILI
+RPT-00731,2023-07-03,SEG_016,Mechanical Damage,Moderate,Immediate Shutdown,,INS-379,ILI
+RPT-00732,2023-07-05,SEG_017,No Issues,None,Routine Maintenance,,INS-573,ILI
+RPT-00733,2023-07-01,SEG_018,Third-Party Interference,Major,Repair ASAP,2023-07-06,INS-128,ILI
+RPT-00734,2023-07-29,SEG_019,Mechanical Damage,Critical,Immediate Shutdown,2023-08-14,INS-708,ILI
+RPT-00735,2023-07-24,SEG_020,Corrosion,Moderate,Immediate Shutdown,,INS-996,ILI
+RPT-00736,2023-07-06,SEG_021,Vegetation Encroachment,Minor,Clear Area,,INS-454,ILI
+RPT-00737,2023-07-10,SEG_022,Mechanical Damage,Major,Immediate Shutdown,2023-07-14,INS-657,ILI
+RPT-00738,2023-07-23,SEG_023,Third-Party Interference,Moderate,Repair ASAP,2023-07-29,INS-457,ILI
+RPT-00739,2023-07-10,SEG_024,Third-Party Interference,Moderate,Repair ASAP,2023-08-03,INS-436,ILI
+RPT-00740,2023-07-29,SEG_025,Mechanical Damage,Critical,Repair ASAP,2023-08-21,INS-961,ILI
+RPT-00741,2023-07-19,SEG_026,Mechanical Damage,Major,Repair ASAP,2023-07-30,INS-930,ILI
+RPT-00742,2023-07-20,SEG_027,Third-Party Interference,Moderate,Repair ASAP,2023-07-24,INS-100,ILI
+RPT-00743,2023-07-10,SEG_028,Third-Party Interference,Major,Repair ASAP,2023-07-16,INS-152,ILI
+RPT-00744,2023-07-04,SEG_029,Vegetation Encroachment,Minor,Clear Area,,INS-138,ILI
+RPT-00745,2023-07-11,SEG_030,Vegetation Encroachment,Minor,Clear Area,,INS-916,ILI
+RPT-00746,2023-07-05,SEG_031,Coating Damage,Minor,Repair ASAP,2023-07-29,INS-822,ILI
+RPT-00747,2023-07-26,SEG_032,No Issues,None,Routine Maintenance,,INS-113,ILI
+RPT-00748,2023-07-10,SEG_033,Vegetation Encroachment,Minor,Clear Area,,INS-340,ILI
+RPT-00749,2023-07-14,SEG_034,Coating Damage,Minor,Repair ASAP,2023-08-03,INS-503,ILI
+RPT-00750,2023-07-05,SEG_035,Corrosion,Moderate,Immediate Shutdown,,INS-932,ILI
+RPT-00751,2023-07-11,SEG_036,Coating Damage,Moderate,Monitor,,INS-129,ILI
+RPT-00752,2023-07-29,SEG_037,Coating Damage,Moderate,Repair ASAP,2023-08-05,INS-683,ILI
+RPT-00753,2023-07-10,SEG_038,Mechanical Damage,Critical,Immediate Shutdown,2023-08-07,INS-781,ILI
+RPT-00754,2023-07-08,SEG_039,Vegetation Encroachment,Minor,Clear Area,,INS-174,ILI
+RPT-00755,2023-07-12,SEG_040,Corrosion,Major,Monitor,2023-08-08,INS-928,ILI
+RPT-00756,2023-07-25,SEG_041,No Issues,None,Routine Maintenance,,INS-383,ILI
+RPT-00757,2023-07-09,SEG_042,No Issues,None,Routine Maintenance,,INS-395,ILI
+RPT-00758,2023-07-12,SEG_043,No Issues,None,Routine Maintenance,,INS-168,ILI
+RPT-00759,2023-07-18,SEG_044,Corrosion,Moderate,Monitor,,INS-838,ILI
+RPT-00760,2023-07-12,SEG_045,Mechanical Damage,Moderate,Repair ASAP,2023-07-29,INS-712,ILI
+RPT-00761,2023-07-08,SEG_046,Coating Damage,Moderate,Monitor,,INS-608,ILI
+RPT-00762,2023-07-18,SEG_047,Mechanical Damage,Major,Repair ASAP,2023-08-10,INS-755,ILI
+RPT-00763,2023-07-15,SEG_048,Third-Party Interference,Major,Repair ASAP,2023-08-09,INS-573,ILI
+RPT-00764,2023-07-08,SEG_049,Third-Party Interference,Moderate,Repair ASAP,2023-07-19,INS-714,ILI
+RPT-00765,2023-07-29,SEG_050,Corrosion,Critical,Monitor,2023-08-20,INS-800,ILI
+RPT-00766,2023-07-05,SEG_051,Vegetation Encroachment,Minor,Clear Area,,INS-398,ILI
+RPT-00767,2023-07-31,SEG_052,Third-Party Interference,Major,Investigate,2023-08-20,INS-185,ILI
+RPT-00768,2023-07-29,SEG_053,Coating Damage,Minor,Monitor,,INS-945,ILI
+RPT-00769,2023-07-06,SEG_054,Corrosion,Moderate,Repair ASAP,2023-07-24,INS-345,ILI
+RPT-00770,2023-07-08,SEG_055,Vegetation Encroachment,Minor,Monitor,,INS-482,ILI
+RPT-00771,2023-07-19,SEG_056,Corrosion,Critical,Immediate Shutdown,2023-08-16,INS-239,ILI
+RPT-00772,2023-07-27,SEG_057,Mechanical Damage,Major,Repair ASAP,2023-07-30,INS-244,ILI
+RPT-00773,2023-07-12,SEG_058,Coating Damage,Minor,Monitor,,INS-532,ILI
+RPT-00774,2023-07-17,SEG_059,Coating Damage,Minor,Repair ASAP,2023-08-15,INS-672,ILI
+RPT-00775,2023-07-20,SEG_060,Corrosion,Major,Repair ASAP,2023-07-30,INS-694,ILI
+RPT-00776,2023-07-06,SEG_061,Third-Party Interference,Moderate,Repair ASAP,2023-07-27,INS-773,ILI
+RPT-00777,2023-07-21,SEG_062,Third-Party Interference,Moderate,Repair ASAP,2023-08-03,INS-669,ILI
+RPT-00778,2023-07-09,SEG_063,Third-Party Interference,Major,Investigate,2023-08-04,INS-996,ILI
+RPT-00779,2023-07-18,SEG_064,Vegetation Encroachment,Minor,Clear Area,,INS-186,ILI
+RPT-00780,2023-07-01,SEG_065,Mechanical Damage,Moderate,Immediate Shutdown,,INS-493,ILI
+RPT-00781,2023-07-23,SEG_066,Corrosion,Minor,Repair ASAP,2023-08-10,INS-779,ILI
+RPT-00782,2023-07-13,SEG_067,Third-Party Interference,Major,Repair ASAP,2023-07-25,INS-239,ILI
+RPT-00783,2023-07-15,SEG_068,Third-Party Interference,Moderate,Investigate,,INS-631,ILI
+RPT-00784,2023-07-28,SEG_069,Corrosion,Major,Immediate Shutdown,2023-08-02,INS-516,ILI
+RPT-00785,2023-07-14,SEG_070,Coating Damage,Minor,Monitor,,INS-826,ILI
+RPT-00786,2023-07-19,SEG_071,Mechanical Damage,Major,Repair ASAP,2023-07-30,INS-355,ILI
+RPT-00787,2023-07-20,SEG_072,Vegetation Encroachment,Minor,Clear Area,,INS-183,ILI
+RPT-00788,2023-07-12,SEG_073,Coating Damage,Minor,Repair ASAP,2023-07-28,INS-630,ILI
+RPT-00789,2023-07-26,SEG_074,Mechanical Damage,Critical,Repair ASAP,2023-08-21,INS-326,ILI
+RPT-00790,2023-07-06,SEG_075,Third-Party Interference,Moderate,Investigate,,INS-404,ILI
+RPT-00791,2023-07-25,SEG_076,Mechanical Damage,Moderate,Repair ASAP,2023-08-04,INS-582,ILI
+RPT-00792,2023-07-02,SEG_077,Third-Party Interference,Major,Investigate,2023-07-18,INS-963,ILI
+RPT-00793,2023-07-27,SEG_078,Vegetation Encroachment,Minor,Clear Area,,INS-513,ILI
+RPT-00794,2023-07-31,SEG_079,Mechanical Damage,Moderate,Repair ASAP,2023-08-30,INS-532,ILI
+RPT-00795,2023-07-01,SEG_080,Coating Damage,Moderate,Repair ASAP,2023-07-31,INS-854,ILI
+RPT-00796,2023-07-09,SEG_081,Corrosion,Minor,Monitor,,INS-803,ILI
+RPT-00797,2023-07-24,SEG_082,Third-Party Interference,Major,Repair ASAP,2023-08-13,INS-152,ILI
+RPT-00798,2023-07-30,SEG_083,Mechanical Damage,Major,Immediate Shutdown,2023-08-18,INS-347,ILI
+RPT-00799,2023-07-27,SEG_084,Coating Damage,Moderate,Repair ASAP,2023-08-15,INS-211,ILI
+RPT-00800,2023-07-05,SEG_085,Corrosion,Critical,Repair ASAP,2023-07-15,INS-321,ILI
+RPT-00801,2023-07-03,SEG_013,Coating Damage,Minor,Monitor,,INS-619,Hydrotest
+RPT-00802,2023-07-03,SEG_060,Third-Party Interference,Moderate,Repair ASAP,2023-07-04,INS-925,Hydrotest
+RPT-00803,2023-07-03,SEG_017,Third-Party Interference,Major,Investigate,2023-07-16,INS-899,Hydrotest
+RPT-00804,2023-07-03,SEG_031,No Issues,None,Routine Maintenance,,INS-979,Visual
+RPT-00805,2023-07-03,SEG_074,No Issues,None,Routine Maintenance,,INS-984,Visual
+RPT-00806,2023-07-03,SEG_055,No Issues,None,Routine Maintenance,,INS-712,ROW Patrol
+RPT-00807,2023-07-03,SEG_063,Third-Party Interference,Major,Investigate,2023-07-23,INS-797,ILI
+RPT-00808,2023-07-03,SEG_085,Third-Party Interference,Major,Investigate,2023-07-09,INS-164,Hydrotest
+RPT-00809,2023-07-10,SEG_023,No Issues,None,Routine Maintenance,,INS-462,ROW Patrol
+RPT-00810,2023-07-10,SEG_081,Vegetation Encroachment,Minor,Monitor,,INS-588,ROW Patrol
+RPT-00811,2023-07-10,SEG_027,No Issues,None,Routine Maintenance,,INS-567,Visual
+RPT-00812,2023-07-10,SEG_084,Third-Party Interference,Moderate,Investigate,,INS-869,Hydrotest
+RPT-00813,2023-07-10,SEG_064,Corrosion,Major,Repair ASAP,2023-08-03,INS-233,ILI
+RPT-00814,2023-07-10,SEG_055,No Issues,None,Routine Maintenance,,INS-446,Visual
+RPT-00815,2023-07-10,SEG_008,No Issues,None,Routine Maintenance,,INS-761,ROW Patrol
+RPT-00816,2023-07-10,SEG_014,Third-Party Interference,Moderate,Repair ASAP,2023-08-07,INS-990,Hydrotest
+RPT-00817,2023-07-17,SEG_048,Coating Damage,Minor,Monitor,,INS-498,ROW Patrol
+RPT-00818,2023-07-17,SEG_020,Third-Party Interference,Major,Investigate,2023-07-25,INS-760,ILI
+RPT-00819,2023-07-17,SEG_079,No Issues,None,Routine Maintenance,,INS-954,ROW Patrol
+RPT-00820,2023-07-17,SEG_002,Corrosion,Major,Monitor,2023-07-31,INS-365,Hydrotest
+RPT-00821,2023-07-17,SEG_034,Third-Party Interference,Major,Investigate,2023-07-31,INS-214,Hydrotest
+RPT-00822,2023-07-17,SEG_015,Third-Party Interference,Moderate,Investigate,,INS-745,UT
+RPT-00823,2023-07-17,SEG_001,No Issues,None,Routine Maintenance,,INS-202,ILI
+RPT-00824,2023-07-17,SEG_045,Third-Party Interference,Moderate,Investigate,,INS-362,ILI
+RPT-00825,2023-07-18,SEG_075,No Issues,None,Routine Maintenance,,INS-729,Visual
+RPT-00826,2023-07-24,SEG_037,No Issues,None,Routine Maintenance,,INS-402,ROW Patrol
+RPT-00827,2023-07-24,SEG_034,Third-Party Interference,Major,Investigate,2023-08-11,INS-923,ILI
+RPT-00828,2023-07-24,SEG_020,Corrosion,Major,Repair ASAP,2023-08-21,INS-246,Visual
+RPT-00829,2023-07-24,SEG_050,Corrosion,Major,Monitor,2023-08-15,INS-449,Hydrotest
+RPT-00830,2023-07-24,SEG_031,Coating Damage,Moderate,Monitor,,INS-889,ILI
+RPT-00831,2023-07-24,SEG_072,No Issues,None,Routine Maintenance,,INS-314,ROW Patrol
+RPT-00832,2023-07-24,SEG_058,No Issues,None,Routine Maintenance,,INS-802,ROW Patrol
+RPT-00833,2023-07-24,SEG_067,No Issues,None,Routine Maintenance,,INS-644,ROW Patrol
+RPT-00834,2023-07-31,SEG_013,Third-Party Interference,Major,Investigate,2023-08-04,INS-145,Hydrotest
+RPT-00835,2023-07-31,SEG_065,Third-Party Interference,Moderate,Investigate,,INS-718,ROW Patrol
+RPT-00836,2023-07-31,SEG_017,No Issues,None,Routine Maintenance,,INS-947,ROW Patrol
+RPT-00837,2023-07-31,SEG_018,No Issues,None,Routine Maintenance,,INS-673,Visual
+RPT-00838,2023-07-31,SEG_080,No Issues,None,Routine Maintenance,,INS-227,ILI
+RPT-00839,2023-07-31,SEG_058,No Issues,None,Routine Maintenance,,INS-820,Visual
+RPT-00840,2023-07-31,SEG_055,Mechanical Damage,Moderate,Repair ASAP,2023-08-19,INS-387,Hydrotest
+RPT-00841,2023-07-31,SEG_059,No Issues,None,Routine Maintenance,,INS-508,Visual
+RPT-00842,2023-08-07,SEG_040,Vegetation Encroachment,Minor,Monitor,,INS-394,Hydrotest
+RPT-00843,2023-08-07,SEG_063,Mechanical Damage,Critical,Repair ASAP,2023-08-16,INS-169,Hydrotest
+RPT-00844,2023-08-07,SEG_009,No Issues,None,Routine Maintenance,,INS-274,ROW Patrol
+RPT-00845,2023-08-07,SEG_085,Third-Party Interference,Major,Investigate,2023-08-27,INS-518,Visual
+RPT-00846,2023-08-07,SEG_043,Corrosion,Major,Monitor,2023-09-03,INS-182,ILI
+RPT-00847,2023-08-07,SEG_078,No Issues,None,Routine Maintenance,,INS-284,ROW Patrol
+RPT-00848,2023-08-07,SEG_077,Corrosion,Minor,Repair ASAP,2023-08-22,INS-739,UT
+RPT-00849,2023-08-07,SEG_051,Corrosion,Major,Repair ASAP,2023-08-18,INS-388,UT
+RPT-00850,2023-08-14,SEG_056,Corrosion,Moderate,Monitor,,INS-725,Hydrotest
+RPT-00851,2023-08-14,SEG_037,No Issues,None,Routine Maintenance,,INS-820,ROW Patrol
+RPT-00852,2023-08-14,SEG_010,Corrosion,Major,Monitor,2023-08-18,INS-487,Hydrotest
+RPT-00853,2023-08-14,SEG_035,Third-Party Interference,Moderate,Investigate,,INS-820,Visual
+RPT-00854,2023-08-14,SEG_041,No Issues,None,Routine Maintenance,,INS-857,ILI
+RPT-00855,2023-08-14,SEG_007,Third-Party Interference,Moderate,Investigate,,INS-232,UT
+RPT-00856,2023-08-14,SEG_004,Coating Damage,Minor,Repair ASAP,2023-09-07,INS-334,Visual
+RPT-00857,2023-08-14,SEG_024,No Issues,None,Routine Maintenance,,INS-157,ROW Patrol
+RPT-00858,2023-08-21,SEG_009,No Issues,None,Routine Maintenance,,INS-329,ROW Patrol
+RPT-00859,2023-08-21,SEG_031,No Issues,None,Routine Maintenance,,INS-144,Visual
+RPT-00860,2023-08-21,SEG_033,Coating Damage,Minor,Repair ASAP,2023-09-01,INS-301,Hydrotest
+RPT-00861,2023-08-21,SEG_077,No Issues,None,Routine Maintenance,,INS-670,ROW Patrol
+RPT-00862,2023-08-21,SEG_037,No Issues,None,Routine Maintenance,,INS-892,Visual
+RPT-00863,2023-08-21,SEG_034,Third-Party Interference,Moderate,Investigate,,INS-456,ROW Patrol
+RPT-00864,2023-08-21,SEG_039,Vegetation Encroachment,Minor,Monitor,,INS-232,ILI
+RPT-00865,2023-08-21,SEG_065,No Issues,None,Routine Maintenance,,INS-110,ILI
+RPT-00866,2023-08-28,SEG_004,No Issues,None,Routine Maintenance,,INS-983,ROW Patrol
+RPT-00867,2023-08-28,SEG_070,No Issues,None,Routine Maintenance,,INS-751,ILI
+RPT-00868,2023-08-28,SEG_026,Corrosion,Minor,Repair ASAP,2023-09-20,INS-550,Hydrotest
+RPT-00869,2023-08-28,SEG_042,No Issues,None,Routine Maintenance,,INS-974,ROW Patrol
+RPT-00870,2023-08-28,SEG_063,Corrosion,Moderate,Immediate Shutdown,,INS-382,UT
+RPT-00871,2023-08-28,SEG_020,Vegetation Encroachment,Minor,Clear Area,,INS-296,Visual
+RPT-00872,2023-08-28,SEG_034,Coating Damage,Moderate,Monitor,,INS-142,Hydrotest
+RPT-00873,2023-08-28,SEG_018,Corrosion,Critical,Monitor,2023-09-18,INS-370,Hydrotest
+RPT-00874,2023-09-04,SEG_038,Coating Damage,Moderate,Monitor,,INS-449,ILI
+RPT-00875,2023-09-04,SEG_030,Corrosion,Minor,Monitor,,INS-276,UT
+RPT-00876,2023-09-04,SEG_052,Corrosion,Moderate,Monitor,,INS-664,UT
+RPT-00877,2023-09-04,SEG_083,No Issues,None,Routine Maintenance,,INS-736,Visual
+RPT-00878,2023-09-04,SEG_005,Coating Damage,Moderate,Monitor,,INS-804,UT
+RPT-00879,2023-09-04,SEG_039,No Issues,None,Routine Maintenance,,INS-839,ILI
+RPT-00880,2023-09-04,SEG_046,Corrosion,Major,Monitor,2023-09-28,INS-101,Visual
+RPT-00881,2023-09-04,SEG_043,Mechanical Damage,Major,Immediate Shutdown,2023-09-15,INS-665,Hydrotest
+RPT-00882,2023-09-05,SEG_061,Corrosion,Moderate,Repair ASAP,2023-09-23,INS-428,UT
+RPT-00883,2023-09-11,SEG_035,No Issues,None,Routine Maintenance,,INS-514,ROW Patrol
+RPT-00884,2023-09-11,SEG_070,No Issues,None,Routine Maintenance,,INS-745,Visual
+RPT-00885,2023-09-11,SEG_045,Mechanical Damage,Critical,Immediate Shutdown,2023-09-21,INS-497,UT
+RPT-00886,2023-09-11,SEG_054,No Issues,None,Routine Maintenance,,INS-894,ROW Patrol
+RPT-00887,2023-09-11,SEG_068,No Issues,None,Routine Maintenance,,INS-595,Visual
+RPT-00888,2023-09-11,SEG_032,Coating Damage,Minor,Repair ASAP,2023-09-21,INS-226,ILI
+RPT-00889,2023-09-11,SEG_028,Mechanical Damage,Major,Repair ASAP,2023-09-29,INS-721,ILI
+RPT-00890,2023-09-11,SEG_007,Corrosion,Minor,Monitor,,INS-375,UT
+RPT-00891,2023-09-18,SEG_062,No Issues,None,Routine Maintenance,,INS-663,Visual
+RPT-00892,2023-09-18,SEG_034,No Issues,None,Routine Maintenance,,INS-762,ROW Patrol
+RPT-00893,2023-09-18,SEG_031,No Issues,None,Routine Maintenance,,INS-239,ILI
+RPT-00894,2023-09-18,SEG_068,No Issues,None,Routine Maintenance,,INS-674,ROW Patrol
+RPT-00895,2023-09-18,SEG_072,Mechanical Damage,Critical,Repair ASAP,2023-10-10,INS-824,Visual
+RPT-00896,2023-09-18,SEG_033,Coating Damage,Moderate,Repair ASAP,2023-10-06,INS-787,ILI
+RPT-00897,2023-09-18,SEG_032,Coating Damage,Minor,Repair ASAP,2023-10-01,INS-869,ROW Patrol
+RPT-00898,2023-09-18,SEG_081,No Issues,None,Routine Maintenance,,INS-863,ROW Patrol
+RPT-00899,2023-09-25,SEG_051,Corrosion,Major,Repair ASAP,2023-10-16,INS-494,UT
+RPT-00900,2023-09-25,SEG_050,Third-Party Interference,Major,Investigate,2023-10-20,INS-226,Visual
+RPT-00901,2023-09-25,SEG_085,Corrosion,Minor,Monitor,,INS-753,ROW Patrol
+RPT-00902,2023-09-25,SEG_066,Vegetation Encroachment,Minor,Clear Area,,INS-144,ROW Patrol
+RPT-00903,2023-09-25,SEG_029,Vegetation Encroachment,Minor,Monitor,,INS-474,UT
+RPT-00904,2023-09-25,SEG_004,Mechanical Damage,Moderate,Immediate Shutdown,,INS-552,Visual
+RPT-00905,2023-09-25,SEG_053,Mechanical Damage,Critical,Immediate Shutdown,2023-10-14,INS-131,Hydrotest
+RPT-00906,2023-09-25,SEG_002,Corrosion,Minor,Immediate Shutdown,,INS-674,ROW Patrol
+RPT-00907,2023-10-02,SEG_050,No Issues,None,Routine Maintenance,,INS-714,Visual
+RPT-00908,2023-10-02,SEG_005,Mechanical Damage,Major,Repair ASAP,2023-10-15,INS-332,ILI
+RPT-00909,2023-10-02,SEG_067,No Issues,None,Routine Maintenance,,INS-787,Visual
+RPT-00910,2023-10-02,SEG_074,Corrosion,Moderate,Monitor,,INS-270,UT
+RPT-00911,2023-10-02,SEG_052,Vegetation Encroachment,Minor,Monitor,,INS-815,UT
+RPT-00912,2023-10-02,SEG_071,Vegetation Encroachment,Minor,Clear Area,,INS-233,UT
+RPT-00913,2023-10-02,SEG_022,Vegetation Encroachment,Minor,Monitor,,INS-794,ROW Patrol
+RPT-00914,2023-10-02,SEG_070,No Issues,None,Routine Maintenance,,INS-590,ROW Patrol
+RPT-00915,2023-10-09,SEG_035,Third-Party Interference,Moderate,Repair ASAP,2023-10-23,INS-251,ILI
+RPT-00916,2023-10-09,SEG_080,Corrosion,Major,Monitor,2023-11-06,INS-133,ILI
+RPT-00917,2023-10-09,SEG_053,Coating Damage,Moderate,Repair ASAP,2023-10-28,INS-257,UT
+RPT-00918,2023-10-09,SEG_039,No Issues,None,Routine Maintenance,,INS-927,ILI
+RPT-00919,2023-10-09,SEG_012,No Issues,None,Routine Maintenance,,INS-810,ROW Patrol
+RPT-00920,2023-10-09,SEG_027,No Issues,None,Routine Maintenance,,INS-383,ROW Patrol
+RPT-00921,2023-10-09,SEG_065,Mechanical Damage,Major,Immediate Shutdown,2023-11-07,INS-965,UT
+RPT-00922,2023-10-09,SEG_051,No Issues,None,Routine Maintenance,,INS-839,ILI
+RPT-00923,2023-10-16,SEG_066,Vegetation Encroachment,Minor,Monitor,,INS-598,Hydrotest
+RPT-00924,2023-10-16,SEG_020,No Issues,None,Routine Maintenance,,INS-774,ROW Patrol
+RPT-00925,2023-10-16,SEG_079,No Issues,None,Routine Maintenance,,INS-981,ROW Patrol
+RPT-00926,2023-10-16,SEG_071,Corrosion,Major,Repair ASAP,2023-10-22,INS-278,UT
+RPT-00927,2023-10-16,SEG_063,Third-Party Interference,Moderate,Repair ASAP,2023-11-08,INS-286,Hydrotest
+RPT-00928,2023-10-16,SEG_025,Vegetation Encroachment,Minor,Monitor,,INS-168,Visual
+RPT-00929,2023-10-16,SEG_052,Third-Party Interference,Moderate,Investigate,,INS-981,Hydrotest
+RPT-00930,2023-10-16,SEG_028,No Issues,None,Routine Maintenance,,INS-338,Visual
+RPT-00931,2023-10-21,SEG_005,Mechanical Damage,Major,Repair ASAP,2023-11-14,INS-443,Visual
+RPT-00932,2023-10-23,SEG_041,No Issues,None,Routine Maintenance,,INS-880,ROW Patrol
+RPT-00933,2023-10-23,SEG_011,No Issues,None,Routine Maintenance,,INS-804,Visual
+RPT-00934,2023-10-23,SEG_044,Mechanical Damage,Critical,Immediate Shutdown,2023-11-03,INS-773,ILI
+RPT-00935,2023-10-23,SEG_071,Vegetation Encroachment,Minor,Clear Area,,INS-901,UT
+RPT-00936,2023-10-23,SEG_081,Corrosion,Moderate,Repair ASAP,2023-11-04,INS-247,Visual
+RPT-00937,2023-10-23,SEG_002,No Issues,None,Routine Maintenance,,INS-460,ROW Patrol
+RPT-00938,2023-10-23,SEG_056,No Issues,None,Routine Maintenance,,INS-320,Visual
+RPT-00939,2023-10-23,SEG_077,No Issues,None,Routine Maintenance,,INS-177,ROW Patrol
+RPT-00940,2023-10-30,SEG_044,Coating Damage,Minor,Repair ASAP,2023-11-17,INS-803,UT
+RPT-00941,2023-10-30,SEG_084,No Issues,None,Routine Maintenance,,INS-313,Visual
+RPT-00942,2023-10-30,SEG_004,Third-Party Interference,Moderate,Repair ASAP,2023-11-01,INS-318,Hydrotest
+RPT-00943,2023-10-30,SEG_062,Mechanical Damage,Moderate,Immediate Shutdown,,INS-190,Visual
+RPT-00944,2023-10-30,SEG_070,Coating Damage,Minor,Repair ASAP,2023-11-15,INS-963,UT
+RPT-00945,2023-10-30,SEG_008,Vegetation Encroachment,Minor,Monitor,,INS-224,Hydrotest
+RPT-00946,2023-10-30,SEG_032,Coating Damage,Minor,Monitor,,INS-201,Hydrotest
+RPT-00947,2023-10-30,SEG_000,No Issues,None,Routine Maintenance,,INS-178,Visual
+RPT-00948,2023-11-06,SEG_022,No Issues,None,Routine Maintenance,,INS-470,Visual
+RPT-00949,2023-11-06,SEG_059,No Issues,None,Routine Maintenance,,INS-916,ROW Patrol
+RPT-00950,2023-11-06,SEG_006,Coating Damage,Moderate,Repair ASAP,2023-12-01,INS-119,ILI
+RPT-00951,2023-11-06,SEG_078,No Issues,None,Routine Maintenance,,INS-239,Visual
+RPT-00952,2023-11-06,SEG_017,Third-Party Interference,Major,Repair ASAP,2023-11-30,INS-346,Hydrotest
+RPT-00953,2023-11-06,SEG_012,No Issues,None,Routine Maintenance,,INS-212,ILI
+RPT-00954,2023-11-06,SEG_048,No Issues,None,Routine Maintenance,,INS-307,Visual
+RPT-00955,2023-11-06,SEG_045,No Issues,None,Routine Maintenance,,INS-462,ILI
+RPT-00956,2023-11-13,SEG_036,No Issues,None,Routine Maintenance,,INS-468,ILI
+RPT-00957,2023-11-13,SEG_063,Coating Damage,Moderate,Repair ASAP,2023-11-16,INS-170,Hydrotest
+RPT-00958,2023-11-13,SEG_021,Vegetation Encroachment,Minor,Monitor,,INS-585,UT
+RPT-00959,2023-11-13,SEG_061,Third-Party Interference,Moderate,Investigate,,INS-632,ILI
+RPT-00960,2023-11-13,SEG_013,No Issues,None,Routine Maintenance,,INS-502,Visual
+RPT-00961,2023-11-13,SEG_065,Corrosion,Minor,Repair ASAP,2023-11-23,INS-439,UT
+RPT-00962,2023-11-13,SEG_073,Coating Damage,Minor,Monitor,,INS-562,Visual
+RPT-00963,2023-11-13,SEG_080,Vegetation Encroachment,Minor,Clear Area,,INS-361,ILI
+RPT-00964,2023-11-20,SEG_002,No Issues,None,Routine Maintenance,,INS-442,Visual
+RPT-00965,2023-11-20,SEG_076,No Issues,None,Routine Maintenance,,INS-189,Visual
+RPT-00966,2023-11-20,SEG_084,Coating Damage,Moderate,Monitor,,INS-430,UT
+RPT-00967,2023-11-20,SEG_019,Vegetation Encroachment,Minor,Clear Area,,INS-656,UT
+RPT-00968,2023-11-20,SEG_067,Vegetation Encroachment,Minor,Clear Area,,INS-939,Hydrotest
+RPT-00969,2023-11-20,SEG_021,Third-Party Interference,Moderate,Repair ASAP,2023-12-04,INS-855,Visual
+RPT-00970,2023-11-20,SEG_012,Coating Damage,Moderate,Monitor,,INS-157,ILI
+RPT-00971,2023-11-20,SEG_054,Coating Damage,Minor,Monitor,,INS-174,Hydrotest
+RPT-00972,2023-11-27,SEG_076,No Issues,None,Routine Maintenance,,INS-462,Visual
+RPT-00973,2023-11-27,SEG_002,No Issues,None,Routine Maintenance,,INS-935,ROW Patrol
+RPT-00974,2023-11-27,SEG_045,Coating Damage,Minor,Repair ASAP,2023-12-20,INS-437,UT
+RPT-00975,2023-11-27,SEG_055,Mechanical Damage,Critical,Immediate Shutdown,2023-11-30,INS-598,Hydrotest
+RPT-00976,2023-11-27,SEG_017,Mechanical Damage,Moderate,Repair ASAP,2023-12-15,INS-394,ROW Patrol
+RPT-00977,2023-11-27,SEG_074,Coating Damage,Moderate,Monitor,,INS-347,Visual
+RPT-00978,2023-11-27,SEG_075,Corrosion,Moderate,Repair ASAP,2023-12-13,INS-249,UT
+RPT-00979,2023-11-27,SEG_016,No Issues,None,Routine Maintenance,,INS-373,ILI
+RPT-00980,2023-12-04,SEG_049,No Issues,None,Routine Maintenance,,INS-471,ROW Patrol
+RPT-00981,2023-12-04,SEG_081,Third-Party Interference,Moderate,Investigate,,INS-406,ROW Patrol
+RPT-00982,2023-12-04,SEG_004,No Issues,None,Routine Maintenance,,INS-513,ILI
+RPT-00983,2023-12-04,SEG_057,Corrosion,Minor,Repair ASAP,2023-12-25,INS-633,ILI
+RPT-00984,2023-12-04,SEG_074,No Issues,None,Routine Maintenance,,INS-866,ROW Patrol
+RPT-00985,2023-12-04,SEG_065,Mechanical Damage,Moderate,Immediate Shutdown,,INS-863,UT
+RPT-00986,2023-12-04,SEG_046,Coating Damage,Moderate,Monitor,,INS-800,UT
+RPT-00987,2023-12-04,SEG_018,Third-Party Interference,Major,Investigate,2023-12-28,INS-174,Visual
+RPT-00988,2023-12-11,SEG_003,Coating Damage,Moderate,Monitor,,INS-580,Visual
+RPT-00989,2023-12-11,SEG_007,No Issues,None,Routine Maintenance,,INS-794,ROW Patrol
+RPT-00990,2023-12-11,SEG_056,Third-Party Interference,Moderate,Repair ASAP,2023-12-27,INS-832,Hydrotest
+RPT-00991,2023-12-11,SEG_009,Coating Damage,Minor,Repair ASAP,2023-12-12,INS-307,UT
+RPT-00992,2023-12-11,SEG_077,No Issues,None,Routine Maintenance,,INS-587,ROW Patrol
+RPT-00993,2023-12-11,SEG_049,No Issues,None,Routine Maintenance,,INS-675,Visual
+RPT-00994,2023-12-11,SEG_022,Mechanical Damage,Moderate,Immediate Shutdown,,INS-140,Hydrotest
+RPT-00995,2023-12-11,SEG_025,Coating Damage,Minor,Monitor,,INS-829,UT
+RPT-00996,2023-12-18,SEG_030,No Issues,None,Routine Maintenance,,INS-513,ROW Patrol
+RPT-00997,2023-12-18,SEG_043,Mechanical Damage,Moderate,Repair ASAP,2024-01-10,INS-377,ILI
+RPT-00998,2023-12-18,SEG_001,Vegetation Encroachment,Minor,Clear Area,,INS-489,Hydrotest
+RPT-00999,2023-12-18,SEG_024,Mechanical Damage,Critical,Immediate Shutdown,2024-01-16,INS-159,Hydrotest
+RPT-01000,2023-12-18,SEG_066,Vegetation Encroachment,Minor,Clear Area,,INS-371,UT
+RPT-01001,2023-12-18,SEG_036,Third-Party Interference,Major,Repair ASAP,2024-01-12,INS-144,ILI
+RPT-01002,2023-12-18,SEG_047,No Issues,None,Routine Maintenance,,INS-365,ROW Patrol
+RPT-01003,2023-12-18,SEG_051,Third-Party Interference,Major,Repair ASAP,2023-12-20,INS-429,ROW Patrol
+RPT-01004,2023-12-20,SEG_026,Vegetation Encroachment,Minor,Clear Area,,INS-124,UT
+RPT-01005,2023-12-25,SEG_027,No Issues,None,Routine Maintenance,,INS-729,ROW Patrol
+RPT-01006,2023-12-25,SEG_061,Mechanical Damage,Major,Repair ASAP,2024-01-13,INS-173,Hydrotest
+RPT-01007,2023-12-25,SEG_012,Coating Damage,Moderate,Repair ASAP,2023-12-30,INS-782,ROW Patrol
+RPT-01008,2023-12-25,SEG_079,Third-Party Interference,Moderate,Repair ASAP,2023-12-30,INS-515,ILI
+RPT-01009,2023-12-25,SEG_021,Coating Damage,Minor,Monitor,,INS-752,Hydrotest
+RPT-01010,2023-12-25,SEG_072,Corrosion,Minor,Monitor,,INS-568,UT
+RPT-01011,2023-12-25,SEG_075,Vegetation Encroachment,Minor,Monitor,,INS-469,Hydrotest
+RPT-01012,2023-12-25,SEG_059,Mechanical Damage,Major,Repair ASAP,2024-01-02,INS-526,Hydrotest
+RPT-01013,2024-01-01,SEG_052,Coating Damage,Minor,Repair ASAP,2024-01-25,INS-268,UT
+RPT-01014,2024-01-01,SEG_045,Mechanical Damage,Critical,Immediate Shutdown,2024-01-19,INS-808,Visual
+RPT-01015,2024-01-01,SEG_029,Mechanical Damage,Critical,Repair ASAP,2024-01-25,INS-798,Hydrotest
+RPT-01016,2024-01-01,SEG_078,No Issues,None,Routine Maintenance,,INS-671,Visual
+RPT-01017,2024-01-01,SEG_021,Third-Party Interference,Moderate,Investigate,,INS-827,ILI
+RPT-01018,2024-01-01,SEG_016,Mechanical Damage,Moderate,Repair ASAP,2024-01-09,INS-134,UT
+RPT-01019,2024-01-01,SEG_040,No Issues,None,Routine Maintenance,,INS-776,Visual
+RPT-01020,2024-01-01,SEG_049,Coating Damage,Minor,Repair ASAP,2024-01-21,INS-292,ILI
+RPT-01021,2024-01-08,SEG_069,Corrosion,Minor,Immediate Shutdown,,INS-407,UT
+RPT-01022,2024-01-08,SEG_035,No Issues,None,Routine Maintenance,,INS-128,ILI
+RPT-01023,2024-01-08,SEG_006,Mechanical Damage,Major,Immediate Shutdown,2024-01-31,INS-531,ILI
+RPT-01024,2024-01-08,SEG_079,Coating Damage,Minor,Repair ASAP,2024-01-15,INS-166,Hydrotest
+RPT-01025,2024-01-08,SEG_026,No Issues,None,Routine Maintenance,,INS-638,ILI
+RPT-01026,2024-01-08,SEG_011,No Issues,None,Routine Maintenance,,INS-655,ROW Patrol
+RPT-01027,2024-01-08,SEG_062,Third-Party Interference,Major,Investigate,2024-01-23,INS-873,Visual
+RPT-01028,2024-01-08,SEG_060,Coating Damage,Moderate,Repair ASAP,2024-01-17,INS-790,ILI
+RPT-01029,2024-01-15,SEG_027,Corrosion,Moderate,Monitor,,INS-645,Hydrotest
+RPT-01030,2024-01-15,SEG_047,No Issues,None,Routine Maintenance,,INS-704,Visual
+RPT-01031,2024-01-15,SEG_008,No Issues,None,Routine Maintenance,,INS-816,ROW Patrol
+RPT-01032,2024-01-15,SEG_030,Third-Party Interference,Major,Investigate,2024-01-22,INS-245,ROW Patrol
+RPT-01033,2024-01-15,SEG_059,Mechanical Damage,Critical,Immediate Shutdown,2024-02-11,INS-934,UT
+RPT-01034,2024-01-15,SEG_085,Corrosion,Minor,Monitor,,INS-413,ILI
+RPT-01035,2024-01-15,SEG_041,No Issues,None,Routine Maintenance,,INS-921,Visual
+RPT-01036,2024-01-15,SEG_075,No Issues,None,Routine Maintenance,,INS-669,ROW Patrol
+RPT-01037,2024-01-22,SEG_035,No Issues,None,Routine Maintenance,,INS-531,ROW Patrol
+RPT-01038,2024-01-22,SEG_053,Mechanical Damage,Moderate,Repair ASAP,2024-02-06,INS-783,ILI
+RPT-01039,2024-01-22,SEG_036,Coating Damage,Minor,Repair ASAP,2024-02-03,INS-706,Hydrotest
+RPT-01040,2024-01-22,SEG_039,Third-Party Interference,Major,Repair ASAP,2024-02-11,INS-848,UT
+RPT-01041,2024-01-22,SEG_008,Coating Damage,Moderate,Repair ASAP,2024-01-25,INS-768,Hydrotest
+RPT-01042,2024-01-22,SEG_049,Corrosion,Minor,Immediate Shutdown,,INS-302,ILI
+RPT-01043,2024-01-22,SEG_047,No Issues,None,Routine Maintenance,,INS-909,ILI
+RPT-01044,2024-01-22,SEG_025,Coating Damage,Moderate,Repair ASAP,2024-02-19,INS-176,Hydrotest
+RPT-01045,2024-01-29,SEG_053,Third-Party Interference,Major,Repair ASAP,2024-02-18,INS-438,UT
+RPT-01046,2024-01-29,SEG_020,Third-Party Interference,Moderate,Repair ASAP,2024-02-15,INS-546,UT
+RPT-01047,2024-01-29,SEG_059,No Issues,None,Routine Maintenance,,INS-231,ROW Patrol
+RPT-01048,2024-01-29,SEG_005,Coating Damage,Minor,Repair ASAP,2024-02-14,INS-788,UT
+RPT-01049,2024-01-29,SEG_018,No Issues,None,Routine Maintenance,,INS-691,ROW Patrol
+RPT-01050,2024-01-29,SEG_052,Mechanical Damage,Major,Immediate Shutdown,2024-02-14,INS-639,UT
+RPT-01051,2024-01-29,SEG_012,Third-Party Interference,Moderate,Repair ASAP,2024-01-31,INS-440,ROW Patrol
+RPT-01052,2024-01-29,SEG_069,Vegetation Encroachment,Minor,Clear Area,,INS-290,UT
+RPT-01053,2024-02-05,SEG_076,No Issues,None,Routine Maintenance,,INS-639,Visual
+RPT-01054,2024-02-05,SEG_003,Coating Damage,Minor,Repair ASAP,2024-02-07,INS-174,ROW Patrol
+RPT-01055,2024-02-05,SEG_079,Mechanical Damage,Major,Repair ASAP,2024-02-06,INS-419,ILI
+RPT-01056,2024-02-05,SEG_039,No Issues,None,Routine Maintenance,,INS-116,Visual
+RPT-01057,2024-02-05,SEG_019,No Issues,None,Routine Maintenance,,INS-812,Visual
+RPT-01058,2024-02-05,SEG_059,Third-Party Interference,Major,Investigate,2024-02-23,INS-868,Hydrotest
+RPT-01059,2024-02-05,SEG_056,Mechanical Damage,Critical,Immediate Shutdown,2024-02-27,INS-202,Hydrotest
+RPT-01060,2024-02-05,SEG_012,Coating Damage,Moderate,Repair ASAP,2024-02-27,INS-319,ROW Patrol
+RPT-01061,2024-02-12,SEG_053,Vegetation Encroachment,Minor,Monitor,,INS-652,Visual
+RPT-01062,2024-02-12,SEG_065,Corrosion,Major,Immediate Shutdown,2024-03-11,INS-853,UT
+RPT-01063,2024-02-12,SEG_000,Mechanical Damage,Critical,Repair ASAP,2024-02-21,INS-667,Visual
+RPT-01064,2024-02-12,SEG_024,No Issues,None,Routine Maintenance,,INS-140,ROW Patrol
+RPT-01065,2024-02-12,SEG_042,Mechanical Damage,Moderate,Immediate Shutdown,,INS-748,Hydrotest
+RPT-01066,2024-02-12,SEG_064,Vegetation Encroachment,Minor,Monitor,,INS-898,Visual
+RPT-01067,2024-02-12,SEG_029,Third-Party Interference,Moderate,Repair ASAP,2024-03-05,INS-143,UT
+RPT-01068,2024-02-12,SEG_073,Corrosion,Moderate,Immediate Shutdown,,INS-241,Hydrotest
+RPT-01069,2024-02-19,SEG_035,Coating Damage,Moderate,Monitor,,INS-667,ROW Patrol
+RPT-01070,2024-02-19,SEG_074,Vegetation Encroachment,Minor,Clear Area,,INS-278,UT
+RPT-01071,2024-02-19,SEG_069,Corrosion,Major,Repair ASAP,2024-03-10,INS-233,ILI
+RPT-01072,2024-02-19,SEG_016,Vegetation Encroachment,Minor,Monitor,,INS-859,UT
+RPT-01073,2024-02-19,SEG_013,No Issues,None,Routine Maintenance,,INS-335,ROW Patrol
+RPT-01074,2024-02-19,SEG_009,Third-Party Interference,Major,Repair ASAP,2024-03-05,INS-546,Hydrotest
+RPT-01075,2024-02-19,SEG_076,No Issues,None,Routine Maintenance,,INS-408,ILI
+RPT-01076,2024-02-19,SEG_066,Coating Damage,Moderate,Repair ASAP,2024-03-18,INS-448,Hydrotest
+RPT-01077,2024-02-26,SEG_038,Third-Party Interference,Major,Investigate,2024-03-22,INS-768,Visual
+RPT-01078,2024-02-26,SEG_053,Corrosion,Major,Monitor,2024-03-14,INS-798,UT
+RPT-01079,2024-02-26,SEG_016,Corrosion,Critical,Monitor,2024-03-19,INS-927,Hydrotest
+RPT-01080,2024-02-26,SEG_047,Vegetation Encroachment,Minor,Clear Area,,INS-791,ILI
+RPT-01081,2024-02-26,SEG_082,No Issues,None,Routine Maintenance,,INS-629,Visual
+RPT-01082,2024-02-26,SEG_061,Mechanical Damage,Critical,Repair ASAP,2024-03-07,INS-344,Hydrotest
+RPT-01083,2024-02-26,SEG_031,Coating Damage,Moderate,Repair ASAP,2024-03-11,INS-563,Hydrotest
+RPT-01084,2024-02-26,SEG_034,No Issues,None,Routine Maintenance,,INS-276,Visual
+RPT-01085,2024-03-04,SEG_019,Mechanical Damage,Major,Immediate Shutdown,2024-04-03,INS-338,ILI
+RPT-01086,2024-03-04,SEG_004,Corrosion,Critical,Immediate Shutdown,2024-03-08,INS-428,Hydrotest
+RPT-01087,2024-03-04,SEG_071,Third-Party Interference,Moderate,Investigate,,INS-633,ILI
+RPT-01088,2024-03-04,SEG_041,Coating Damage,Moderate,Repair ASAP,2024-03-21,INS-722,UT
+RPT-01089,2024-03-04,SEG_050,Coating Damage,Minor,Repair ASAP,2024-03-31,INS-205,Visual
+RPT-01090,2024-03-04,SEG_033,Coating Damage,Moderate,Repair ASAP,2024-03-06,INS-811,UT
+RPT-01091,2024-03-04,SEG_065,No Issues,None,Routine Maintenance,,INS-694,ROW Patrol
+RPT-01092,2024-03-04,SEG_063,Vegetation Encroachment,Minor,Clear Area,,INS-724,UT
+RPT-01093,2024-03-11,SEG_067,Coating Damage,Moderate,Repair ASAP,2024-03-29,INS-853,UT
+RPT-01094,2024-03-11,SEG_019,Coating Damage,Minor,Monitor,,INS-625,Hydrotest
+RPT-01095,2024-03-11,SEG_045,Mechanical Damage,Major,Immediate Shutdown,2024-04-09,INS-103,UT
+RPT-01096,2024-03-11,SEG_050,No Issues,None,Routine Maintenance,,INS-744,ROW Patrol
+RPT-01097,2024-03-11,SEG_073,No Issues,None,Routine Maintenance,,INS-849,Visual
+RPT-01098,2024-03-11,SEG_005,Vegetation Encroachment,Minor,Clear Area,,INS-475,ILI
+RPT-01099,2024-03-11,SEG_053,Mechanical Damage,Major,Immediate Shutdown,2024-03-29,INS-406,UT
+RPT-01100,2024-03-11,SEG_037,No Issues,None,Routine Maintenance,,INS-281,Visual
+RPT-01101,2024-03-18,SEG_014,Coating Damage,Minor,Monitor,,INS-519,Hydrotest
+RPT-01102,2024-03-18,SEG_012,Third-Party Interference,Moderate,Investigate,,INS-617,UT
+RPT-01103,2024-03-18,SEG_047,Vegetation Encroachment,Minor,Clear Area,,INS-823,ILI
+RPT-01104,2024-03-18,SEG_085,Mechanical Damage,Major,Repair ASAP,2024-03-20,INS-452,ROW Patrol
+RPT-01105,2024-03-18,SEG_052,No Issues,None,Routine Maintenance,,INS-466,Visual
+RPT-01106,2024-03-18,SEG_031,Coating Damage,Moderate,Monitor,,INS-437,UT
+RPT-01107,2024-03-18,SEG_058,Coating Damage,Moderate,Repair ASAP,2024-04-05,INS-580,ROW Patrol
+RPT-01108,2024-03-18,SEG_011,No Issues,None,Routine Maintenance,,INS-657,ILI
+RPT-01109,2024-03-23,SEG_003,Coating Damage,Minor,Repair ASAP,2024-04-15,INS-715,UT
+RPT-01110,2024-03-25,SEG_058,Mechanical Damage,Major,Immediate Shutdown,2024-04-04,INS-944,UT
+RPT-01111,2024-03-25,SEG_007,Coating Damage,Moderate,Repair ASAP,2024-04-09,INS-195,ROW Patrol
+RPT-01112,2024-03-25,SEG_057,Vegetation Encroachment,Minor,Clear Area,,INS-237,UT
+RPT-01113,2024-03-25,SEG_019,Coating Damage,Minor,Monitor,,INS-176,Visual
+RPT-01114,2024-03-25,SEG_077,Vegetation Encroachment,Minor,Monitor,,INS-257,UT
+RPT-01115,2024-03-25,SEG_020,Vegetation Encroachment,Minor,Clear Area,,INS-520,ILI
+RPT-01116,2024-03-25,SEG_046,Vegetation Encroachment,Minor,Monitor,,INS-777,Hydrotest
+RPT-01117,2024-03-25,SEG_000,No Issues,None,Routine Maintenance,,INS-706,ROW Patrol
+RPT-01118,2024-04-01,SEG_007,Corrosion,Major,Repair ASAP,2024-04-14,INS-583,Visual
+RPT-01119,2024-04-01,SEG_075,No Issues,None,Routine Maintenance,,INS-819,ROW Patrol
+RPT-01120,2024-04-01,SEG_022,Third-Party Interference,Major,Repair ASAP,2024-04-08,INS-794,UT
+RPT-01121,2024-04-01,SEG_010,Corrosion,Critical,Immediate Shutdown,2024-04-11,INS-404,Hydrotest
+RPT-01122,2024-04-01,SEG_026,No Issues,None,Routine Maintenance,,INS-471,ROW Patrol
+RPT-01123,2024-04-01,SEG_071,Third-Party Interference,Major,Investigate,2024-04-02,INS-779,UT
+RPT-01124,2024-04-01,SEG_013,No Issues,None,Routine Maintenance,,INS-734,ROW Patrol
+RPT-01125,2024-04-01,SEG_072,Third-Party Interference,Moderate,Investigate,,INS-123,ILI
+RPT-01126,2024-04-08,SEG_072,Mechanical Damage,Major,Immediate Shutdown,2024-05-03,INS-180,ILI
+RPT-01127,2024-04-08,SEG_038,No Issues,None,Routine Maintenance,,INS-753,ROW Patrol
+RPT-01128,2024-04-08,SEG_067,Mechanical Damage,Critical,Immediate Shutdown,2024-04-09,INS-525,UT
+RPT-01129,2024-04-08,SEG_050,Coating Damage,Moderate,Repair ASAP,2024-04-16,INS-758,UT
+RPT-01130,2024-04-08,SEG_007,Third-Party Interference,Moderate,Repair ASAP,2024-04-16,INS-889,UT
+RPT-01131,2024-04-08,SEG_033,No Issues,None,Routine Maintenance,,INS-662,ILI
+RPT-01132,2024-04-08,SEG_001,No Issues,None,Routine Maintenance,,INS-400,ILI
+RPT-01133,2024-04-08,SEG_075,Coating Damage,Minor,Repair ASAP,2024-04-19,INS-628,UT
+RPT-01134,2024-04-15,SEG_021,No Issues,None,Routine Maintenance,,INS-546,ROW Patrol
+RPT-01135,2024-04-15,SEG_028,Coating Damage,Moderate,Repair ASAP,2024-05-08,INS-700,UT
+RPT-01136,2024-04-15,SEG_059,Corrosion,Major,Repair ASAP,2024-04-28,INS-241,Hydrotest
+RPT-01137,2024-04-15,SEG_084,No Issues,None,Routine Maintenance,,INS-806,ROW Patrol
+RPT-01138,2024-04-15,SEG_012,Vegetation Encroachment,Minor,Clear Area,,INS-352,ILI
+RPT-01139,2024-04-15,SEG_063,Third-Party Interference,Major,Repair ASAP,2024-05-10,INS-881,ROW Patrol
+RPT-01140,2024-04-15,SEG_027,Third-Party Interference,Moderate,Repair ASAP,2024-05-11,INS-324,Hydrotest
+RPT-01141,2024-04-15,SEG_068,Third-Party Interference,Major,Repair ASAP,2024-05-04,INS-183,ILI
+RPT-01142,2024-04-22,SEG_046,Coating Damage,Moderate,Repair ASAP,2024-05-05,INS-442,ILI
+RPT-01143,2024-04-22,SEG_035,No Issues,None,Routine Maintenance,,INS-634,ROW Patrol
+RPT-01144,2024-04-22,SEG_010,Vegetation Encroachment,Minor,Monitor,,INS-532,Hydrotest
+RPT-01145,2024-04-22,SEG_064,Coating Damage,Moderate,Monitor,,INS-153,UT
+RPT-01146,2024-04-22,SEG_065,No Issues,None,Routine Maintenance,,INS-767,Visual
+RPT-01147,2024-04-22,SEG_022,No Issues,None,Routine Maintenance,,INS-594,ROW Patrol
+RPT-01148,2024-04-22,SEG_027,No Issues,None,Routine Maintenance,,INS-853,ILI
+RPT-01149,2024-04-22,SEG_045,Coating Damage,Moderate,Repair ASAP,2024-04-26,INS-384,ILI
+RPT-01150,2024-04-25,SEG_076,Third-Party Interference,Moderate,Investigate,,INS-617,UT
+RPT-01151,2024-04-29,SEG_035,No Issues,None,Routine Maintenance,,INS-947,ILI
+RPT-01152,2024-04-29,SEG_010,No Issues,None,Routine Maintenance,,INS-769,ROW Patrol
+RPT-01153,2024-04-29,SEG_059,Corrosion,Minor,Immediate Shutdown,,INS-151,UT
+RPT-01154,2024-04-29,SEG_078,No Issues,None,Routine Maintenance,,INS-198,Visual
+RPT-01155,2024-04-29,SEG_050,Corrosion,Critical,Repair ASAP,2024-05-06,INS-193,ILI
+RPT-01156,2024-04-29,SEG_030,Corrosion,Moderate,Immediate Shutdown,,INS-884,UT
+RPT-01157,2024-04-29,SEG_048,Coating Damage,Minor,Repair ASAP,2024-05-13,INS-817,ROW Patrol
+RPT-01158,2024-04-29,SEG_070,Third-Party Interference,Moderate,Repair ASAP,2024-05-29,INS-941,Hydrotest
+RPT-01159,2024-05-06,SEG_038,Corrosion,Moderate,Monitor,,INS-750,UT
+RPT-01160,2024-05-06,SEG_065,Corrosion,Major,Repair ASAP,2024-05-28,INS-816,ROW Patrol
+RPT-01161,2024-05-06,SEG_056,Coating Damage,Minor,Monitor,,INS-810,ILI
+RPT-01162,2024-05-06,SEG_071,Mechanical Damage,Moderate,Repair ASAP,2024-06-02,INS-339,UT
+RPT-01163,2024-05-06,SEG_063,Vegetation Encroachment,Minor,Monitor,,INS-126,Visual
+RPT-01164,2024-05-06,SEG_045,No Issues,None,Routine Maintenance,,INS-280,Visual
+RPT-01165,2024-05-06,SEG_064,Third-Party Interference,Major,Investigate,2024-06-04,INS-554,UT
+RPT-01166,2024-05-06,SEG_033,No Issues,None,Routine Maintenance,,INS-890,Visual
+RPT-01167,2024-05-13,SEG_049,Third-Party Interference,Major,Repair ASAP,2024-06-09,INS-650,ILI
+RPT-01168,2024-05-13,SEG_074,Third-Party Interference,Moderate,Investigate,,INS-674,ILI
+RPT-01169,2024-05-13,SEG_075,No Issues,None,Routine Maintenance,,INS-969,ROW Patrol
+RPT-01170,2024-05-13,SEG_070,Third-Party Interference,Major,Repair ASAP,2024-05-21,INS-736,Hydrotest
+RPT-01171,2024-05-13,SEG_002,Vegetation Encroachment,Minor,Clear Area,,INS-961,Hydrotest
+RPT-01172,2024-05-13,SEG_025,Vegetation Encroachment,Minor,Clear Area,,INS-947,UT
+RPT-01173,2024-05-13,SEG_018,No Issues,None,Routine Maintenance,,INS-617,ROW Patrol
+RPT-01174,2024-05-13,SEG_084,Coating Damage,Moderate,Monitor,,INS-275,Hydrotest
+RPT-01175,2024-05-20,SEG_072,Corrosion,Moderate,Immediate Shutdown,,INS-301,ILI
+RPT-01176,2024-05-20,SEG_001,Coating Damage,Moderate,Repair ASAP,2024-05-26,INS-876,UT
+RPT-01177,2024-05-20,SEG_019,Coating Damage,Moderate,Repair ASAP,2024-05-22,INS-304,UT
+RPT-01178,2024-05-20,SEG_061,Mechanical Damage,Moderate,Immediate Shutdown,,INS-656,Hydrotest
+RPT-01179,2024-05-20,SEG_018,No Issues,None,Routine Maintenance,,INS-277,Visual
+RPT-01180,2024-05-20,SEG_084,No Issues,None,Routine Maintenance,,INS-355,ROW Patrol
+RPT-01181,2024-05-20,SEG_005,Vegetation Encroachment,Minor,Clear Area,,INS-255,Hydrotest
+RPT-01182,2024-05-20,SEG_056,Coating Damage,Moderate,Repair ASAP,2024-06-10,INS-627,UT
+RPT-01183,2024-05-27,SEG_000,Mechanical Damage,Critical,Immediate Shutdown,2024-06-08,INS-642,Visual
+RPT-01184,2024-05-27,SEG_078,Vegetation Encroachment,Minor,Clear Area,,INS-831,ROW Patrol
+RPT-01185,2024-05-27,SEG_038,Mechanical Damage,Moderate,Immediate Shutdown,,INS-575,UT
+RPT-01186,2024-05-27,SEG_013,No Issues,None,Routine Maintenance,,INS-333,ILI
+RPT-01187,2024-05-27,SEG_007,Corrosion,Critical,Repair ASAP,2024-06-02,INS-470,ILI
+RPT-01188,2024-05-27,SEG_077,Vegetation Encroachment,Minor,Monitor,,INS-639,Visual
+RPT-01189,2024-05-27,SEG_045,Coating Damage,Minor,Repair ASAP,2024-06-07,INS-582,UT
+RPT-01190,2024-05-27,SEG_037,Mechanical Damage,Moderate,Immediate Shutdown,,INS-367,UT
+RPT-01191,2024-06-03,SEG_034,Third-Party Interference,Major,Investigate,2024-06-16,INS-908,UT
+RPT-01192,2024-06-03,SEG_072,Coating Damage,Minor,Repair ASAP,2024-06-21,INS-137,ROW Patrol
+RPT-01193,2024-06-03,SEG_013,Coating Damage,Moderate,Repair ASAP,2024-06-22,INS-582,Hydrotest
+RPT-01194,2024-06-03,SEG_035,Third-Party Interference,Moderate,Repair ASAP,2024-06-15,INS-992,Visual
+RPT-01195,2024-06-03,SEG_052,Third-Party Interference,Moderate,Investigate,,INS-877,Hydrotest
+RPT-01196,2024-06-03,SEG_053,No Issues,None,Routine Maintenance,,INS-883,Visual
+RPT-01197,2024-06-03,SEG_044,Coating Damage,Moderate,Monitor,,INS-557,ILI
+RPT-01198,2024-06-03,SEG_064,Third-Party Interference,Moderate,Investigate,,INS-330,UT
+RPT-01199,2024-06-10,SEG_047,Corrosion,Minor,Immediate Shutdown,,INS-223,ILI
+RPT-01200,2024-06-10,SEG_016,Coating Damage,Moderate,Repair ASAP,2024-07-04,INS-448,ILI
+RPT-01201,2024-06-10,SEG_018,Corrosion,Critical,Immediate Shutdown,2024-07-01,INS-426,ILI
+RPT-01202,2024-06-10,SEG_053,Corrosion,Moderate,Immediate Shutdown,,INS-211,UT
+RPT-01203,2024-06-10,SEG_040,No Issues,None,Routine Maintenance,,INS-592,ROW Patrol
+RPT-01204,2024-06-10,SEG_056,Vegetation Encroachment,Minor,Monitor,,INS-508,Hydrotest
+RPT-01205,2024-06-10,SEG_007,Corrosion,Major,Monitor,2024-06-16,INS-110,Visual
+RPT-01206,2024-06-10,SEG_058,Third-Party Interference,Moderate,Investigate,,INS-245,UT
+RPT-01207,2024-06-17,SEG_031,Mechanical Damage,Moderate,Immediate Shutdown,,INS-780,UT
+RPT-01208,2024-06-17,SEG_081,No Issues,None,Routine Maintenance,,INS-234,ROW Patrol
+RPT-01209,2024-06-17,SEG_084,Third-Party Interference,Moderate,Investigate,,INS-312,Visual
+RPT-01210,2024-06-17,SEG_080,Third-Party Interference,Moderate,Repair ASAP,2024-07-06,INS-232,ILI
+RPT-01211,2024-06-17,SEG_077,No Issues,None,Routine Maintenance,,INS-334,Visual
+RPT-01212,2024-06-17,SEG_049,No Issues,None,Routine Maintenance,,INS-976,Visual
+RPT-01213,2024-06-17,SEG_072,Coating Damage,Minor,Repair ASAP,2024-07-11,INS-234,ROW Patrol
+RPT-01214,2024-06-17,SEG_035,No Issues,None,Routine Maintenance,,INS-777,Visual
+RPT-01215,2024-06-24,SEG_004,No Issues,None,Routine Maintenance,,INS-670,ILI
+RPT-01216,2024-06-24,SEG_053,No Issues,None,Routine Maintenance,,INS-535,ROW Patrol
+RPT-01217,2024-06-24,SEG_010,No Issues,None,Routine Maintenance,,INS-955,ROW Patrol
+RPT-01218,2024-06-24,SEG_079,Mechanical Damage,Critical,Repair ASAP,2024-07-24,INS-752,Hydrotest
+RPT-01219,2024-06-24,SEG_016,No Issues,None,Routine Maintenance,,INS-417,Visual
+RPT-01220,2024-06-24,SEG_060,Mechanical Damage,Moderate,Repair ASAP,2024-07-01,INS-138,ILI
+RPT-01221,2024-06-24,SEG_043,No Issues,None,Routine Maintenance,,INS-887,Visual
+RPT-01222,2024-06-24,SEG_075,Third-Party Interference,Major,Repair ASAP,2024-06-25,INS-886,ILI
+RPT-01223,2024-07-01,SEG_058,No Issues,None,Routine Maintenance,,INS-658,ROW Patrol
+RPT-01224,2024-07-01,SEG_025,Third-Party Interference,Major,Investigate,2024-07-30,INS-716,Hydrotest
+RPT-01225,2024-07-01,SEG_060,Corrosion,Major,Repair ASAP,2024-07-27,INS-653,ROW Patrol
+RPT-01226,2024-07-01,SEG_053,Third-Party Interference,Major,Repair ASAP,2024-07-17,INS-287,ILI
+RPT-01227,2024-07-01,SEG_066,No Issues,None,Routine Maintenance,,INS-632,Visual
+RPT-01228,2024-07-01,SEG_063,Coating Damage,Moderate,Repair ASAP,2024-07-30,INS-779,ILI
+RPT-01229,2024-07-01,SEG_046,Third-Party Interference,Moderate,Repair ASAP,2024-07-23,INS-903,Hydrotest
+RPT-01230,2024-07-01,SEG_007,Mechanical Damage,Critical,Immediate Shutdown,2024-07-26,INS-573,UT
+RPT-01231,2024-07-03,SEG_000,Third-Party Interference,Major,Repair ASAP,2024-07-11,INS-723,ILI
+RPT-01232,2024-07-29,SEG_001,Coating Damage,Moderate,Repair ASAP,2024-08-11,INS-887,ILI
+RPT-01233,2024-07-07,SEG_002,Mechanical Damage,Major,Immediate Shutdown,2024-07-23,INS-289,ILI
+RPT-01234,2024-07-25,SEG_003,Coating Damage,Moderate,Repair ASAP,2024-08-03,INS-229,ILI
+RPT-01235,2024-07-01,SEG_004,Vegetation Encroachment,Minor,Clear Area,,INS-264,ILI
+RPT-01236,2024-07-29,SEG_005,Third-Party Interference,Major,Investigate,2024-08-28,INS-631,ILI
+RPT-01237,2024-07-17,SEG_006,No Issues,None,Routine Maintenance,,INS-477,ILI
+RPT-01238,2024-07-13,SEG_007,Corrosion,Minor,Immediate Shutdown,,INS-340,ILI
+RPT-01239,2024-07-16,SEG_008,Vegetation Encroachment,Minor,Monitor,,INS-391,ILI
+RPT-01240,2024-07-04,SEG_009,Corrosion,Minor,Repair ASAP,2024-07-13,INS-910,ILI
+RPT-01241,2024-07-06,SEG_010,No Issues,None,Routine Maintenance,,INS-706,ILI
+RPT-01242,2024-07-27,SEG_011,Third-Party Interference,Major,Repair ASAP,2024-07-28,INS-406,ILI
+RPT-01243,2024-07-31,SEG_012,Mechanical Damage,Critical,Immediate Shutdown,2024-08-17,INS-717,ILI
+RPT-01244,2024-07-12,SEG_013,Vegetation Encroachment,Minor,Clear Area,,INS-551,ILI
+RPT-01245,2024-07-06,SEG_014,Corrosion,Major,Repair ASAP,2024-07-28,INS-878,ILI
+RPT-01246,2024-07-11,SEG_015,Coating Damage,Moderate,Monitor,,INS-918,ILI
+RPT-01247,2024-07-14,SEG_016,Mechanical Damage,Moderate,Immediate Shutdown,,INS-915,ILI
+RPT-01248,2024-07-29,SEG_017,Coating Damage,Minor,Repair ASAP,2024-08-27,INS-568,ILI
+RPT-01249,2024-07-31,SEG_018,Third-Party Interference,Moderate,Repair ASAP,2024-08-10,INS-187,ILI
+RPT-01250,2024-07-23,SEG_019,Third-Party Interference,Moderate,Repair ASAP,2024-07-29,INS-857,ILI
+RPT-01251,2024-07-25,SEG_020,Mechanical Damage,Critical,Immediate Shutdown,2024-07-26,INS-838,ILI
+RPT-01252,2024-07-30,SEG_021,Third-Party Interference,Moderate,Repair ASAP,2024-08-10,INS-898,ILI
+RPT-01253,2024-07-07,SEG_022,Vegetation Encroachment,Minor,Monitor,,INS-750,ILI
+RPT-01254,2024-07-26,SEG_023,Vegetation Encroachment,Minor,Clear Area,,INS-742,ILI
+RPT-01255,2024-07-20,SEG_024,Vegetation Encroachment,Minor,Clear Area,,INS-388,ILI
+RPT-01256,2024-07-30,SEG_025,Third-Party Interference,Moderate,Investigate,,INS-459,ILI
+RPT-01257,2024-07-20,SEG_026,Vegetation Encroachment,Minor,Clear Area,,INS-937,ILI
+RPT-01258,2024-07-30,SEG_027,No Issues,None,Routine Maintenance,,INS-971,ILI
+RPT-01259,2024-07-09,SEG_028,Coating Damage,Moderate,Monitor,,INS-390,ILI
+RPT-01260,2024-07-31,SEG_029,Coating Damage,Moderate,Repair ASAP,2024-08-24,INS-207,ILI
+RPT-01261,2024-07-30,SEG_030,Coating Damage,Minor,Repair ASAP,2024-08-01,INS-924,ILI
+RPT-01262,2024-07-31,SEG_031,Coating Damage,Moderate,Monitor,,INS-358,ILI
+RPT-01263,2024-07-31,SEG_032,Coating Damage,Minor,Monitor,,INS-315,ILI
+RPT-01264,2024-07-04,SEG_033,Coating Damage,Minor,Monitor,,INS-532,ILI
+RPT-01265,2024-07-23,SEG_034,Mechanical Damage,Moderate,Repair ASAP,2024-08-20,INS-512,ILI
+RPT-01266,2024-07-09,SEG_035,Mechanical Damage,Moderate,Repair ASAP,2024-08-05,INS-268,ILI
+RPT-01267,2024-07-01,SEG_036,Coating Damage,Moderate,Monitor,,INS-447,ILI
+RPT-01268,2024-07-10,SEG_037,Mechanical Damage,Moderate,Immediate Shutdown,,INS-491,ILI
+RPT-01269,2024-07-22,SEG_038,Corrosion,Minor,Monitor,,INS-705,ILI
+RPT-01270,2024-07-10,SEG_039,Vegetation Encroachment,Minor,Clear Area,,INS-596,ILI
+RPT-01271,2024-07-30,SEG_040,Corrosion,Major,Immediate Shutdown,2024-08-06,INS-752,ILI
+RPT-01272,2024-07-03,SEG_041,Corrosion,Moderate,Immediate Shutdown,,INS-151,ILI
+RPT-01273,2024-07-17,SEG_042,Vegetation Encroachment,Minor,Monitor,,INS-738,ILI
+RPT-01274,2024-07-14,SEG_043,Vegetation Encroachment,Minor,Monitor,,INS-529,ILI
+RPT-01275,2024-07-11,SEG_044,Corrosion,Moderate,Immediate Shutdown,,INS-491,ILI
+RPT-01276,2024-07-24,SEG_045,Third-Party Interference,Moderate,Investigate,,INS-833,ILI
+RPT-01277,2024-07-11,SEG_046,Corrosion,Minor,Monitor,,INS-990,ILI
+RPT-01278,2024-07-02,SEG_047,Mechanical Damage,Moderate,Repair ASAP,2024-07-21,INS-872,ILI
+RPT-01279,2024-07-15,SEG_048,Vegetation Encroachment,Minor,Clear Area,,INS-736,ILI
+RPT-01280,2024-07-18,SEG_049,Mechanical Damage,Major,Repair ASAP,2024-07-25,INS-854,ILI
+RPT-01281,2024-07-27,SEG_050,Coating Damage,Moderate,Monitor,,INS-657,ILI
+RPT-01282,2024-07-14,SEG_051,No Issues,None,Routine Maintenance,,INS-579,ILI
+RPT-01283,2024-07-02,SEG_052,Corrosion,Major,Immediate Shutdown,2024-07-06,INS-498,ILI
+RPT-01284,2024-07-06,SEG_053,Vegetation Encroachment,Minor,Monitor,,INS-837,ILI
+RPT-01285,2024-07-11,SEG_054,Mechanical Damage,Critical,Repair ASAP,2024-07-20,INS-260,ILI
+RPT-01286,2024-07-31,SEG_055,Vegetation Encroachment,Minor,Monitor,,INS-348,ILI
+RPT-01287,2024-07-17,SEG_056,No Issues,None,Routine Maintenance,,INS-806,ILI
+RPT-01288,2024-07-21,SEG_057,No Issues,None,Routine Maintenance,,INS-300,ILI
+RPT-01289,2024-07-11,SEG_058,No Issues,None,Routine Maintenance,,INS-881,ILI
+RPT-01290,2024-07-18,SEG_059,Coating Damage,Minor,Repair ASAP,2024-08-04,INS-655,ILI
+RPT-01291,2024-07-04,SEG_060,Third-Party Interference,Major,Repair ASAP,2024-07-30,INS-698,ILI
+RPT-01292,2024-07-10,SEG_061,Third-Party Interference,Major,Repair ASAP,2024-07-30,INS-168,ILI
+RPT-01293,2024-07-19,SEG_062,Mechanical Damage,Critical,Repair ASAP,2024-07-23,INS-719,ILI
+RPT-01294,2024-07-26,SEG_063,Mechanical Damage,Critical,Repair ASAP,2024-08-07,INS-534,ILI
+RPT-01295,2024-07-09,SEG_064,Corrosion,Minor,Monitor,,INS-641,ILI
+RPT-01296,2024-07-04,SEG_065,Corrosion,Critical,Repair ASAP,2024-07-13,INS-743,ILI
+RPT-01297,2024-07-22,SEG_066,Vegetation Encroachment,Minor,Monitor,,INS-695,ILI
+RPT-01298,2024-07-02,SEG_067,Vegetation Encroachment,Minor,Monitor,,INS-912,ILI
+RPT-01299,2024-07-13,SEG_068,Mechanical Damage,Critical,Repair ASAP,2024-08-01,INS-279,ILI
+RPT-01300,2024-07-26,SEG_069,Coating Damage,Minor,Repair ASAP,2024-08-03,INS-963,ILI
+RPT-01301,2024-07-27,SEG_070,Coating Damage,Minor,Repair ASAP,2024-08-21,INS-264,ILI
+RPT-01302,2024-07-30,SEG_071,Corrosion,Major,Repair ASAP,2024-08-17,INS-624,ILI
+RPT-01303,2024-07-06,SEG_072,Coating Damage,Minor,Monitor,,INS-510,ILI
+RPT-01304,2024-07-03,SEG_073,Third-Party Interference,Moderate,Investigate,,INS-937,ILI
+RPT-01305,2024-07-11,SEG_074,Third-Party Interference,Major,Repair ASAP,2024-07-12,INS-221,ILI
+RPT-01306,2024-07-14,SEG_075,Corrosion,Moderate,Monitor,,INS-200,ILI
+RPT-01307,2024-07-22,SEG_076,Mechanical Damage,Moderate,Repair ASAP,2024-08-03,INS-581,ILI
+RPT-01308,2024-07-27,SEG_077,Vegetation Encroachment,Minor,Clear Area,,INS-582,ILI
+RPT-01309,2024-07-09,SEG_078,Mechanical Damage,Critical,Repair ASAP,2024-07-10,INS-444,ILI
+RPT-01310,2024-07-01,SEG_079,Corrosion,Critical,Monitor,2024-07-03,INS-841,ILI
+RPT-01311,2024-07-11,SEG_080,No Issues,None,Routine Maintenance,,INS-720,ILI
+RPT-01312,2024-07-04,SEG_081,Third-Party Interference,Moderate,Investigate,,INS-916,ILI
+RPT-01313,2024-07-12,SEG_082,Mechanical Damage,Critical,Immediate Shutdown,2024-08-08,INS-932,ILI
+RPT-01314,2024-07-09,SEG_083,Mechanical Damage,Critical,Immediate Shutdown,2024-08-01,INS-319,ILI
+RPT-01315,2024-07-23,SEG_084,Vegetation Encroachment,Minor,Monitor,,INS-933,ILI
+RPT-01316,2024-07-08,SEG_085,Coating Damage,Moderate,Repair ASAP,2024-07-12,INS-938,ILI
+RPT-01317,2024-07-08,SEG_070,No Issues,None,Routine Maintenance,,INS-958,Visual
+RPT-01318,2024-07-08,SEG_013,Vegetation Encroachment,Minor,Monitor,,INS-185,Hydrotest
+RPT-01319,2024-07-08,SEG_043,Mechanical Damage,Moderate,Immediate Shutdown,,INS-901,UT
+RPT-01320,2024-07-08,SEG_073,No Issues,None,Routine Maintenance,,INS-298,ILI
+RPT-01321,2024-07-08,SEG_019,Third-Party Interference,Major,Repair ASAP,2024-07-16,INS-758,Visual
+RPT-01322,2024-07-08,SEG_026,Mechanical Damage,Critical,Immediate Shutdown,2024-07-17,INS-145,ILI
+RPT-01323,2024-07-08,SEG_071,Corrosion,Major,Immediate Shutdown,2024-07-19,INS-456,ILI
+RPT-01324,2024-07-08,SEG_021,Vegetation Encroachment,Minor,Monitor,,INS-577,ILI
+RPT-01325,2024-07-15,SEG_052,Mechanical Damage,Critical,Immediate Shutdown,2024-08-11,INS-858,UT
+RPT-01326,2024-07-15,SEG_002,Third-Party Interference,Major,Investigate,2024-07-22,INS-677,Hydrotest
+RPT-01327,2024-07-15,SEG_047,Vegetation Encroachment,Minor,Monitor,,INS-740,ILI
+RPT-01328,2024-07-15,SEG_025,No Issues,None,Routine Maintenance,,INS-471,ILI
+RPT-01329,2024-07-15,SEG_007,Vegetation Encroachment,Minor,Monitor,,INS-981,Visual
+RPT-01330,2024-07-15,SEG_027,Vegetation Encroachment,Minor,Clear Area,,INS-442,Hydrotest
+RPT-01331,2024-07-15,SEG_032,No Issues,None,Routine Maintenance,,INS-740,ILI
+RPT-01332,2024-07-15,SEG_076,No Issues,None,Routine Maintenance,,INS-249,Visual
+RPT-01333,2024-07-22,SEG_069,No Issues,None,Routine Maintenance,,INS-366,Visual
+RPT-01334,2024-07-22,SEG_054,No Issues,None,Routine Maintenance,,INS-576,ILI
+RPT-01335,2024-07-22,SEG_074,Third-Party Interference,Major,Repair ASAP,2024-08-10,INS-597,ILI
+RPT-01336,2024-07-22,SEG_000,No Issues,None,Routine Maintenance,,INS-161,ROW Patrol
+RPT-01337,2024-07-22,SEG_048,Mechanical Damage,Moderate,Immediate Shutdown,,INS-750,ROW Patrol
+RPT-01338,2024-07-22,SEG_052,Vegetation Encroachment,Minor,Clear Area,,INS-943,Hydrotest
+RPT-01339,2024-07-22,SEG_046,Mechanical Damage,Major,Repair ASAP,2024-08-13,INS-709,UT
+RPT-01340,2024-07-22,SEG_081,Corrosion,Moderate,Immediate Shutdown,,INS-667,Hydrotest
+RPT-01341,2024-07-29,SEG_009,No Issues,None,Routine Maintenance,,INS-155,ILI
+RPT-01342,2024-07-29,SEG_019,Corrosion,Moderate,Monitor,,INS-269,ROW Patrol
+RPT-01343,2024-07-29,SEG_038,No Issues,None,Routine Maintenance,,INS-922,ROW Patrol
+RPT-01344,2024-07-29,SEG_002,Vegetation Encroachment,Minor,Clear Area,,INS-915,Visual
+RPT-01345,2024-07-29,SEG_041,No Issues,None,Routine Maintenance,,INS-658,ROW Patrol
+RPT-01346,2024-07-29,SEG_084,Third-Party Interference,Moderate,Repair ASAP,2024-08-18,INS-677,UT
+RPT-01347,2024-07-29,SEG_042,Third-Party Interference,Major,Investigate,2024-08-06,INS-419,ROW Patrol
+RPT-01348,2024-07-29,SEG_057,No Issues,None,Routine Maintenance,,INS-147,ILI
+RPT-01349,2024-08-05,SEG_017,Third-Party Interference,Major,Investigate,2024-08-15,INS-281,ILI
+RPT-01350,2024-08-05,SEG_084,Corrosion,Major,Immediate Shutdown,2024-08-18,INS-465,UT
+RPT-01351,2024-08-05,SEG_049,Third-Party Interference,Moderate,Investigate,,INS-872,Visual
+RPT-01352,2024-08-05,SEG_061,Corrosion,Critical,Immediate Shutdown,2024-08-08,INS-148,Hydrotest
+RPT-01353,2024-08-05,SEG_036,No Issues,None,Routine Maintenance,,INS-368,Visual
+RPT-01354,2024-08-05,SEG_069,Vegetation Encroachment,Minor,Clear Area,,INS-516,ROW Patrol
+RPT-01355,2024-08-05,SEG_058,No Issues,None,Routine Maintenance,,INS-406,ROW Patrol
+RPT-01356,2024-08-05,SEG_066,No Issues,None,Routine Maintenance,,INS-973,Visual
+RPT-01357,2024-08-12,SEG_038,Third-Party Interference,Major,Investigate,2024-09-05,INS-639,ROW Patrol
+RPT-01358,2024-08-12,SEG_001,Corrosion,Moderate,Repair ASAP,2024-08-31,INS-486,Visual
+RPT-01359,2024-08-12,SEG_044,Mechanical Damage,Moderate,Repair ASAP,2024-08-16,INS-872,UT
+RPT-01360,2024-08-12,SEG_066,No Issues,None,Routine Maintenance,,INS-122,ILI
+RPT-01361,2024-08-12,SEG_027,Third-Party Interference,Major,Repair ASAP,2024-08-28,INS-248,UT
+RPT-01362,2024-08-12,SEG_052,Third-Party Interference,Major,Investigate,2024-08-21,INS-513,ROW Patrol
+RPT-01363,2024-08-12,SEG_022,Vegetation Encroachment,Minor,Clear Area,,INS-983,UT
+RPT-01364,2024-08-12,SEG_058,Corrosion,Critical,Repair ASAP,2024-09-05,INS-933,Hydrotest
+RPT-01365,2024-08-19,SEG_083,No Issues,None,Routine Maintenance,,INS-827,Visual
+RPT-01366,2024-08-19,SEG_039,No Issues,None,Routine Maintenance,,INS-485,ROW Patrol
+RPT-01367,2024-08-19,SEG_040,Vegetation Encroachment,Minor,Clear Area,,INS-361,Hydrotest
+RPT-01368,2024-08-19,SEG_045,Corrosion,Moderate,Immediate Shutdown,,INS-814,ILI
+RPT-01369,2024-08-19,SEG_035,No Issues,None,Routine Maintenance,,INS-186,Visual
+RPT-01370,2024-08-19,SEG_031,No Issues,None,Routine Maintenance,,INS-599,Visual
+RPT-01371,2024-08-19,SEG_003,Mechanical Damage,Critical,Repair ASAP,2024-09-06,INS-208,Hydrotest
+RPT-01372,2024-08-19,SEG_068,Mechanical Damage,Moderate,Repair ASAP,2024-09-14,INS-351,ILI
+RPT-01373,2024-08-26,SEG_057,Mechanical Damage,Critical,Immediate Shutdown,2024-08-29,INS-663,Hydrotest
+RPT-01374,2024-08-26,SEG_062,No Issues,None,Routine Maintenance,,INS-921,ILI
+RPT-01375,2024-08-26,SEG_043,Mechanical Damage,Critical,Immediate Shutdown,2024-09-05,INS-730,Hydrotest
+RPT-01376,2024-08-26,SEG_011,Coating Damage,Moderate,Monitor,,INS-937,Hydrotest
+RPT-01377,2024-08-26,SEG_012,Corrosion,Critical,Monitor,2024-09-21,INS-557,Hydrotest
+RPT-01378,2024-08-26,SEG_005,Mechanical Damage,Moderate,Immediate Shutdown,,INS-686,UT
+RPT-01379,2024-08-26,SEG_015,Vegetation Encroachment,Minor,Clear Area,,INS-468,ROW Patrol
+RPT-01380,2024-08-26,SEG_031,Vegetation Encroachment,Minor,Clear Area,,INS-608,Hydrotest
+RPT-01381,2024-09-02,SEG_062,Coating Damage,Minor,Repair ASAP,2024-09-15,INS-989,UT
+RPT-01382,2024-09-02,SEG_065,No Issues,None,Routine Maintenance,,INS-682,ROW Patrol
+RPT-01383,2024-09-02,SEG_004,Coating Damage,Moderate,Monitor,,INS-930,ROW Patrol
+RPT-01384,2024-09-02,SEG_066,Mechanical Damage,Major,Repair ASAP,2024-09-11,INS-919,Hydrotest
+RPT-01385,2024-09-02,SEG_021,Corrosion,Critical,Monitor,2024-09-10,INS-239,ROW Patrol
+RPT-01386,2024-09-02,SEG_079,No Issues,None,Routine Maintenance,,INS-740,Visual
+RPT-01387,2024-09-02,SEG_007,No Issues,None,Routine Maintenance,,INS-704,ROW Patrol
+RPT-01388,2024-09-02,SEG_028,Vegetation Encroachment,Minor,Clear Area,,INS-444,Hydrotest
+RPT-01389,2024-09-09,SEG_029,Vegetation Encroachment,Minor,Monitor,,INS-813,Hydrotest
+RPT-01390,2024-09-09,SEG_085,Third-Party Interference,Major,Investigate,2024-09-19,INS-575,Hydrotest
+RPT-01391,2024-09-09,SEG_041,No Issues,None,Routine Maintenance,,INS-455,ILI
+RPT-01392,2024-09-09,SEG_028,Mechanical Damage,Moderate,Repair ASAP,2024-10-06,INS-885,UT
+RPT-01393,2024-09-09,SEG_016,Third-Party Interference,Major,Investigate,2024-09-23,INS-699,Hydrotest
+RPT-01394,2024-09-09,SEG_042,No Issues,None,Routine Maintenance,,INS-460,ROW Patrol
+RPT-01395,2024-09-09,SEG_007,Mechanical Damage,Moderate,Repair ASAP,2024-09-18,INS-459,Hydrotest
+RPT-01396,2024-09-09,SEG_060,Mechanical Damage,Major,Immediate Shutdown,2024-09-19,INS-134,Hydrotest
+RPT-01397,2024-09-16,SEG_053,Coating Damage,Minor,Monitor,,INS-796,UT
+RPT-01398,2024-09-16,SEG_059,No Issues,None,Routine Maintenance,,INS-128,ROW Patrol
+RPT-01399,2024-09-16,SEG_069,No Issues,None,Routine Maintenance,,INS-194,Visual
+RPT-01400,2024-09-16,SEG_067,No Issues,None,Routine Maintenance,,INS-526,ILI
+RPT-01401,2024-09-16,SEG_008,Mechanical Damage,Major,Repair ASAP,2024-09-20,INS-239,UT
+RPT-01402,2024-09-16,SEG_040,Corrosion,Major,Monitor,2024-10-04,INS-829,ILI
+RPT-01403,2024-09-16,SEG_011,No Issues,None,Routine Maintenance,,INS-845,Visual
+RPT-01404,2024-09-16,SEG_015,Coating Damage,Moderate,Repair ASAP,2024-09-22,INS-837,Hydrotest
+RPT-01405,2024-09-23,SEG_000,Mechanical Damage,Moderate,Repair ASAP,2024-09-28,INS-356,UT
+RPT-01406,2024-09-23,SEG_019,Coating Damage,Minor,Monitor,,INS-906,UT
+RPT-01407,2024-09-23,SEG_062,Corrosion,Moderate,Repair ASAP,2024-10-13,INS-824,ILI
+RPT-01408,2024-09-23,SEG_039,No Issues,None,Routine Maintenance,,INS-759,ROW Patrol
+RPT-01409,2024-09-23,SEG_076,Vegetation Encroachment,Minor,Monitor,,INS-789,ROW Patrol
+RPT-01410,2024-09-23,SEG_013,Coating Damage,Minor,Monitor,,INS-860,UT
+RPT-01411,2024-09-23,SEG_001,No Issues,None,Routine Maintenance,,INS-262,ILI
+RPT-01412,2024-09-23,SEG_084,No Issues,None,Routine Maintenance,,INS-342,ILI
+RPT-01413,2024-09-30,SEG_064,No Issues,None,Routine Maintenance,,INS-667,ILI
+RPT-01414,2024-09-30,SEG_085,No Issues,None,Routine Maintenance,,INS-777,ROW Patrol
+RPT-01415,2024-09-30,SEG_079,Third-Party Interference,Major,Repair ASAP,2024-10-04,INS-665,ROW Patrol
+RPT-01416,2024-09-30,SEG_032,Coating Damage,Minor,Repair ASAP,2024-10-16,INS-406,Hydrotest
+RPT-01417,2024-09-30,SEG_033,No Issues,None,Routine Maintenance,,INS-577,ILI
+RPT-01418,2024-09-30,SEG_043,Vegetation Encroachment,Minor,Monitor,,INS-124,Hydrotest
+RPT-01419,2024-09-30,SEG_071,No Issues,None,Routine Maintenance,,INS-125,Visual
+RPT-01420,2024-09-30,SEG_025,No Issues,None,Routine Maintenance,,INS-784,Visual
+RPT-01421,2024-10-07,SEG_023,No Issues,None,Routine Maintenance,,INS-516,Visual
+RPT-01422,2024-10-07,SEG_074,Coating Damage,Moderate,Repair ASAP,2024-10-08,INS-863,Hydrotest
+RPT-01423,2024-10-07,SEG_022,Third-Party Interference,Moderate,Investigate,,INS-329,ILI
+RPT-01424,2024-10-07,SEG_084,Coating Damage,Moderate,Repair ASAP,2024-11-01,INS-630,Visual
+RPT-01425,2024-10-07,SEG_081,No Issues,None,Routine Maintenance,,INS-639,Visual
+RPT-01426,2024-10-07,SEG_077,Third-Party Interference,Major,Investigate,2024-10-21,INS-435,UT
+RPT-01427,2024-10-07,SEG_046,No Issues,None,Routine Maintenance,,INS-181,Visual
+RPT-01428,2024-10-07,SEG_040,No Issues,None,Routine Maintenance,,INS-309,ROW Patrol
+RPT-01429,2024-10-14,SEG_056,Corrosion,Critical,Monitor,2024-10-16,INS-865,UT
+RPT-01430,2024-10-14,SEG_060,No Issues,None,Routine Maintenance,,INS-250,ROW Patrol
+RPT-01431,2024-10-14,SEG_037,Mechanical Damage,Critical,Repair ASAP,2024-11-07,INS-321,UT
+RPT-01432,2024-10-14,SEG_031,No Issues,None,Routine Maintenance,,INS-758,Visual
+RPT-01433,2024-10-14,SEG_018,Third-Party Interference,Moderate,Investigate,,INS-706,ILI
+RPT-01434,2024-10-14,SEG_005,Coating Damage,Minor,Monitor,,INS-517,Hydrotest
+RPT-01435,2024-10-14,SEG_068,Coating Damage,Moderate,Repair ASAP,2024-11-09,INS-881,UT
+RPT-01436,2024-10-14,SEG_047,No Issues,None,Routine Maintenance,,INS-441,ILI
+RPT-01437,2024-10-21,SEG_066,Corrosion,Moderate,Monitor,,INS-736,UT
+RPT-01438,2024-10-21,SEG_044,Coating Damage,Minor,Monitor,,INS-130,UT
+RPT-01439,2024-10-21,SEG_057,Third-Party Interference,Moderate,Repair ASAP,2024-10-30,INS-608,Hydrotest
+RPT-01440,2024-10-21,SEG_036,No Issues,None,Routine Maintenance,,INS-876,ILI
+RPT-01441,2024-10-21,SEG_014,Coating Damage,Moderate,Repair ASAP,2024-11-13,INS-173,Visual
+RPT-01442,2024-10-21,SEG_037,No Issues,None,Routine Maintenance,,INS-875,Visual
+RPT-01443,2024-10-21,SEG_026,Coating Damage,Moderate,Monitor,,INS-358,UT
+RPT-01444,2024-10-21,SEG_080,Vegetation Encroachment,Minor,Monitor,,INS-210,Hydrotest
+RPT-01445,2024-10-28,SEG_034,Vegetation Encroachment,Minor,Clear Area,,INS-625,Hydrotest
+RPT-01446,2024-10-28,SEG_001,Corrosion,Minor,Monitor,,INS-544,UT
+RPT-01447,2024-10-28,SEG_027,Vegetation Encroachment,Minor,Clear Area,,INS-736,Hydrotest
+RPT-01448,2024-10-28,SEG_071,Mechanical Damage,Critical,Repair ASAP,2024-11-17,INS-482,ILI
+RPT-01449,2024-10-28,SEG_033,No Issues,None,Routine Maintenance,,INS-366,Visual
+RPT-01450,2024-10-28,SEG_022,Mechanical Damage,Major,Repair ASAP,2024-11-01,INS-380,ILI
+RPT-01451,2024-10-28,SEG_077,No Issues,None,Routine Maintenance,,INS-618,Visual
+RPT-01452,2024-10-28,SEG_017,Third-Party Interference,Major,Repair ASAP,2024-10-29,INS-977,Visual
+RPT-01453,2024-11-04,SEG_070,Corrosion,Critical,Monitor,2024-11-27,INS-730,UT
+RPT-01454,2024-11-04,SEG_063,Third-Party Interference,Major,Repair ASAP,2024-11-29,INS-103,ILI
+RPT-01455,2024-11-04,SEG_084,No Issues,None,Routine Maintenance,,INS-155,Visual
+RPT-01456,2024-11-04,SEG_068,No Issues,None,Routine Maintenance,,INS-646,Visual
+RPT-01457,2024-11-04,SEG_083,Third-Party Interference,Moderate,Investigate,,INS-605,ROW Patrol
+RPT-01458,2024-11-04,SEG_037,Third-Party Interference,Major,Repair ASAP,2024-11-24,INS-876,UT
+RPT-01459,2024-11-04,SEG_026,No Issues,None,Routine Maintenance,,INS-848,ILI
+RPT-01460,2024-11-04,SEG_038,No Issues,None,Routine Maintenance,,INS-205,ILI
+RPT-01461,2024-11-11,SEG_002,Vegetation Encroachment,Minor,Monitor,,INS-445,Hydrotest
+RPT-01462,2024-11-11,SEG_016,Third-Party Interference,Moderate,Investigate,,INS-942,Hydrotest
+RPT-01463,2024-11-11,SEG_082,Coating Damage,Moderate,Repair ASAP,2024-12-01,INS-351,Visual
+RPT-01464,2024-11-11,SEG_043,Third-Party Interference,Major,Investigate,2024-12-07,INS-104,Hydrotest
+RPT-01465,2024-11-11,SEG_053,Mechanical Damage,Major,Repair ASAP,2024-12-02,INS-631,Visual
+RPT-01466,2024-11-11,SEG_004,No Issues,None,Routine Maintenance,,INS-963,ILI
+RPT-01467,2024-11-11,SEG_057,No Issues,None,Routine Maintenance,,INS-692,Visual
+RPT-01468,2024-11-11,SEG_085,Vegetation Encroachment,Minor,Clear Area,,INS-101,Hydrotest
+RPT-01469,2024-11-18,SEG_008,Corrosion,Major,Immediate Shutdown,2024-12-06,INS-514,ILI
+RPT-01470,2024-11-18,SEG_051,No Issues,None,Routine Maintenance,,INS-832,Visual
+RPT-01471,2024-11-18,SEG_078,No Issues,None,Routine Maintenance,,INS-111,ROW Patrol
+RPT-01472,2024-11-18,SEG_064,Corrosion,Major,Repair ASAP,2024-12-14,INS-577,UT
+RPT-01473,2024-11-18,SEG_005,No Issues,None,Routine Maintenance,,INS-298,Visual
+RPT-01474,2024-11-18,SEG_066,No Issues,None,Routine Maintenance,,INS-272,ROW Patrol
+RPT-01475,2024-11-18,SEG_037,Coating Damage,Moderate,Monitor,,INS-763,ROW Patrol
+RPT-01476,2024-11-18,SEG_079,Mechanical Damage,Moderate,Repair ASAP,2024-11-29,INS-580,Visual
+RPT-01477,2024-11-25,SEG_018,Mechanical Damage,Critical,Immediate Shutdown,2024-12-03,INS-708,ROW Patrol
+RPT-01478,2024-11-25,SEG_013,No Issues,None,Routine Maintenance,,INS-649,Visual
+RPT-01479,2024-11-25,SEG_036,No Issues,None,Routine Maintenance,,INS-271,ILI
+RPT-01480,2024-11-25,SEG_011,Coating Damage,Minor,Repair ASAP,2024-12-25,INS-621,ILI
+RPT-01481,2024-11-25,SEG_012,Mechanical Damage,Moderate,Immediate Shutdown,,INS-331,Hydrotest
+RPT-01482,2024-11-25,SEG_048,Coating Damage,Moderate,Monitor,,INS-709,UT
+RPT-01483,2024-11-25,SEG_054,No Issues,None,Routine Maintenance,,INS-434,Visual
+RPT-01484,2024-11-25,SEG_007,Mechanical Damage,Moderate,Immediate Shutdown,,INS-107,Hydrotest
+RPT-01485,2024-11-27,SEG_085,Coating Damage,Minor,Repair ASAP,2024-12-25,INS-986,Visual
+RPT-01486,2024-12-02,SEG_083,No Issues,None,Routine Maintenance,,INS-852,Visual
+RPT-01487,2024-12-02,SEG_049,Mechanical Damage,Moderate,Immediate Shutdown,,INS-899,UT
+RPT-01488,2024-12-02,SEG_076,Corrosion,Moderate,Immediate Shutdown,,INS-829,Hydrotest
+RPT-01489,2024-12-02,SEG_077,Vegetation Encroachment,Minor,Monitor,,INS-458,Hydrotest
+RPT-01490,2024-12-02,SEG_074,Coating Damage,Minor,Monitor,,INS-603,UT
+RPT-01491,2024-12-02,SEG_008,Third-Party Interference,Moderate,Investigate,,INS-851,Hydrotest
+RPT-01492,2024-12-02,SEG_078,Mechanical Damage,Critical,Repair ASAP,2024-12-12,INS-583,Hydrotest
+RPT-01493,2024-12-02,SEG_019,Third-Party Interference,Major,Repair ASAP,2024-12-31,INS-382,Visual
+RPT-01494,2024-12-09,SEG_004,Coating Damage,Moderate,Monitor,,INS-644,Visual
+RPT-01495,2024-12-09,SEG_076,No Issues,None,Routine Maintenance,,INS-264,ROW Patrol
+RPT-01496,2024-12-09,SEG_083,Mechanical Damage,Moderate,Repair ASAP,2025-01-08,INS-701,Visual
+RPT-01497,2024-12-09,SEG_015,Third-Party Interference,Major,Investigate,2025-01-02,INS-587,Visual
+RPT-01498,2024-12-09,SEG_035,Corrosion,Moderate,Immediate Shutdown,,INS-353,UT
+RPT-01499,2024-12-09,SEG_057,Vegetation Encroachment,Minor,Monitor,,INS-843,UT
+RPT-01500,2024-12-09,SEG_069,Corrosion,Minor,Immediate Shutdown,,INS-851,UT
+RPT-01501,2024-12-09,SEG_028,Coating Damage,Minor,Repair ASAP,2025-01-08,INS-127,Hydrotest
+RPT-01502,2024-12-16,SEG_047,Mechanical Damage,Moderate,Repair ASAP,2024-12-22,INS-677,UT
+RPT-01503,2024-12-16,SEG_052,Mechanical Damage,Major,Repair ASAP,2024-12-21,INS-113,UT
+RPT-01504,2024-12-16,SEG_010,Mechanical Damage,Major,Immediate Shutdown,2024-12-31,INS-191,Visual
+RPT-01505,2024-12-16,SEG_043,Mechanical Damage,Critical,Immediate Shutdown,2025-01-11,INS-208,UT
+RPT-01506,2024-12-16,SEG_014,Mechanical Damage,Moderate,Immediate Shutdown,,INS-515,UT
+RPT-01507,2024-12-16,SEG_023,Coating Damage,Moderate,Monitor,,INS-469,ILI
+RPT-01508,2024-12-16,SEG_029,Third-Party Interference,Major,Investigate,2024-12-25,INS-482,UT
+RPT-01509,2024-12-16,SEG_048,No Issues,None,Routine Maintenance,,INS-854,ILI
+RPT-01510,2024-12-23,SEG_066,Vegetation Encroachment,Minor,Clear Area,,INS-188,Hydrotest
+RPT-01511,2024-12-23,SEG_029,Third-Party Interference,Moderate,Investigate,,INS-262,ROW Patrol
+RPT-01512,2024-12-23,SEG_061,Corrosion,Major,Immediate Shutdown,2025-01-16,INS-892,UT
+RPT-01513,2024-12-23,SEG_057,Vegetation Encroachment,Minor,Clear Area,,INS-111,Hydrotest
+RPT-01514,2024-12-23,SEG_054,No Issues,None,Routine Maintenance,,INS-858,Visual
+RPT-01515,2024-12-23,SEG_031,No Issues,None,Routine Maintenance,,INS-298,ILI
+RPT-01516,2024-12-23,SEG_025,No Issues,None,Routine Maintenance,,INS-913,ROW Patrol
+RPT-01517,2024-12-23,SEG_067,Vegetation Encroachment,Minor,Monitor,,INS-739,UT
+RPT-01518,2024-12-30,SEG_024,Coating Damage,Moderate,Monitor,,INS-183,Visual
+RPT-01519,2024-12-30,SEG_078,No Issues,None,Routine Maintenance,,INS-661,Visual
+RPT-01520,2024-12-30,SEG_025,No Issues,None,Routine Maintenance,,INS-985,Visual
+RPT-01521,2024-12-30,SEG_001,Corrosion,Moderate,Monitor,,INS-291,Hydrotest
+RPT-01522,2024-12-30,SEG_073,Vegetation Encroachment,Minor,Clear Area,,INS-513,Hydrotest
+RPT-01523,2024-12-30,SEG_023,No Issues,None,Routine Maintenance,,INS-522,ILI
+RPT-01524,2024-12-30,SEG_075,No Issues,None,Routine Maintenance,,INS-759,ROW Patrol
+RPT-01525,2024-12-30,SEG_020,Third-Party Interference,Moderate,Repair ASAP,2025-01-08,INS-806,UT
+RPT-01526,2025-01-06,SEG_029,No Issues,None,Routine Maintenance,,INS-463,Visual
+RPT-01527,2025-01-06,SEG_075,Corrosion,Minor,Immediate Shutdown,,INS-559,UT
+RPT-01528,2025-01-06,SEG_036,Vegetation Encroachment,Minor,Clear Area,,INS-950,ROW Patrol
+RPT-01529,2025-01-06,SEG_060,Third-Party Interference,Moderate,Repair ASAP,2025-01-11,INS-647,Hydrotest
+RPT-01530,2025-01-06,SEG_035,No Issues,None,Routine Maintenance,,INS-654,ROW Patrol
+RPT-01531,2025-01-06,SEG_083,No Issues,None,Routine Maintenance,,INS-254,ROW Patrol
+RPT-01532,2025-01-06,SEG_071,Corrosion,Critical,Monitor,2025-01-22,INS-580,ROW Patrol
+RPT-01533,2025-01-06,SEG_015,Vegetation Encroachment,Minor,Clear Area,,INS-659,UT
+RPT-01534,2025-01-13,SEG_024,No Issues,None,Routine Maintenance,,INS-435,Visual
+RPT-01535,2025-01-13,SEG_044,Coating Damage,Minor,Repair ASAP,2025-02-04,INS-119,ROW Patrol
+RPT-01536,2025-01-13,SEG_026,No Issues,None,Routine Maintenance,,INS-230,ROW Patrol
+RPT-01537,2025-01-13,SEG_014,Corrosion,Moderate,Immediate Shutdown,,INS-331,Hydrotest
+RPT-01538,2025-01-13,SEG_016,No Issues,None,Routine Maintenance,,INS-944,ROW Patrol
+RPT-01539,2025-01-13,SEG_050,Corrosion,Major,Immediate Shutdown,2025-01-29,INS-253,UT
+RPT-01540,2025-01-13,SEG_004,Coating Damage,Minor,Repair ASAP,2025-01-21,INS-985,Hydrotest
+RPT-01541,2025-01-13,SEG_057,Coating Damage,Minor,Monitor,,INS-600,ILI
+RPT-01542,2025-01-20,SEG_042,Corrosion,Minor,Immediate Shutdown,,INS-797,ROW Patrol
+RPT-01543,2025-01-20,SEG_053,Corrosion,Minor,Monitor,,INS-527,Visual
+RPT-01544,2025-01-20,SEG_023,Mechanical Damage,Critical,Immediate Shutdown,2025-01-24,INS-248,Visual
+RPT-01545,2025-01-20,SEG_060,Mechanical Damage,Moderate,Immediate Shutdown,,INS-462,ROW Patrol
+RPT-01546,2025-01-20,SEG_085,No Issues,None,Routine Maintenance,,INS-473,ROW Patrol
+RPT-01547,2025-01-20,SEG_006,Coating Damage,Moderate,Monitor,,INS-599,ROW Patrol
+RPT-01548,2025-01-20,SEG_044,Coating Damage,Minor,Repair ASAP,2025-01-25,INS-719,ILI
+RPT-01549,2025-01-20,SEG_043,Vegetation Encroachment,Minor,Monitor,,INS-234,Hydrotest
+RPT-01550,2025-01-27,SEG_034,No Issues,None,Routine Maintenance,,INS-224,ROW Patrol
+RPT-01551,2025-01-27,SEG_030,No Issues,None,Routine Maintenance,,INS-665,Visual
+RPT-01552,2025-01-27,SEG_058,No Issues,None,Routine Maintenance,,INS-399,ILI
+RPT-01553,2025-01-27,SEG_042,Corrosion,Minor,Monitor,,INS-690,UT
+RPT-01554,2025-01-27,SEG_022,Coating Damage,Minor,Repair ASAP,2025-02-18,INS-333,Visual
+RPT-01555,2025-01-27,SEG_003,Corrosion,Major,Repair ASAP,2025-02-04,INS-751,Hydrotest
+RPT-01556,2025-01-27,SEG_045,Vegetation Encroachment,Minor,Clear Area,,INS-144,ILI
+RPT-01557,2025-01-27,SEG_064,No Issues,None,Routine Maintenance,,INS-714,ROW Patrol
+RPT-01558,2025-02-03,SEG_076,Vegetation Encroachment,Minor,Clear Area,,INS-923,UT
+RPT-01559,2025-02-03,SEG_030,Mechanical Damage,Major,Repair ASAP,2025-02-26,INS-844,Visual
+RPT-01560,2025-02-03,SEG_049,Mechanical Damage,Critical,Immediate Shutdown,2025-02-06,INS-987,ILI
+RPT-01561,2025-02-03,SEG_009,Mechanical Damage,Moderate,Immediate Shutdown,,INS-453,Hydrotest
+RPT-01562,2025-02-03,SEG_038,Vegetation Encroachment,Minor,Clear Area,,INS-492,ROW Patrol
+RPT-01563,2025-02-03,SEG_065,Coating Damage,Moderate,Repair ASAP,2025-02-25,INS-978,ILI
+RPT-01564,2025-02-03,SEG_028,Mechanical Damage,Critical,Repair ASAP,2025-02-20,INS-932,ROW Patrol
+RPT-01565,2025-02-03,SEG_057,Mechanical Damage,Critical,Immediate Shutdown,2025-03-01,INS-779,Hydrotest
+RPT-01566,2025-02-10,SEG_066,No Issues,None,Routine Maintenance,,INS-826,ILI
+RPT-01567,2025-02-10,SEG_038,Corrosion,Minor,Immediate Shutdown,,INS-481,ILI
+RPT-01568,2025-02-10,SEG_064,Mechanical Damage,Major,Immediate Shutdown,2025-03-09,INS-149,UT
+RPT-01569,2025-02-10,SEG_070,Coating Damage,Moderate,Repair ASAP,2025-02-24,INS-835,UT
+RPT-01570,2025-02-10,SEG_074,Mechanical Damage,Major,Repair ASAP,2025-03-11,INS-867,ROW Patrol
+RPT-01571,2025-02-10,SEG_061,Mechanical Damage,Moderate,Repair ASAP,2025-03-02,INS-959,UT
+RPT-01572,2025-02-10,SEG_016,No Issues,None,Routine Maintenance,,INS-390,ROW Patrol
+RPT-01573,2025-02-10,SEG_003,Mechanical Damage,Major,Immediate Shutdown,2025-02-11,INS-160,Hydrotest
+RPT-01574,2025-02-17,SEG_011,Vegetation Encroachment,Minor,Clear Area,,INS-510,Hydrotest
+RPT-01575,2025-02-17,SEG_001,Coating Damage,Moderate,Repair ASAP,2025-02-27,INS-713,ROW Patrol
+RPT-01576,2025-02-17,SEG_046,No Issues,None,Routine Maintenance,,INS-616,ILI
+RPT-01577,2025-02-17,SEG_040,Third-Party Interference,Moderate,Repair ASAP,2025-02-21,INS-964,Hydrotest
+RPT-01578,2025-02-17,SEG_055,No Issues,None,Routine Maintenance,,INS-432,Visual
+RPT-01579,2025-02-17,SEG_010,No Issues,None,Routine Maintenance,,INS-913,Visual
+RPT-01580,2025-02-17,SEG_071,Third-Party Interference,Major,Repair ASAP,2025-03-02,INS-314,ROW Patrol
+RPT-01581,2025-02-17,SEG_048,Corrosion,Minor,Repair ASAP,2025-03-19,INS-808,ILI
+RPT-01582,2025-02-24,SEG_048,Mechanical Damage,Critical,Immediate Shutdown,2025-03-25,INS-947,ROW Patrol
+RPT-01583,2025-02-24,SEG_008,Coating Damage,Minor,Repair ASAP,2025-03-20,INS-344,UT
+RPT-01584,2025-02-24,SEG_077,No Issues,None,Routine Maintenance,,INS-845,ROW Patrol
+RPT-01585,2025-02-24,SEG_016,Vegetation Encroachment,Minor,Monitor,,INS-238,UT
+RPT-01586,2025-02-24,SEG_036,Coating Damage,Moderate,Repair ASAP,2025-03-01,INS-624,UT
+RPT-01587,2025-02-24,SEG_058,Corrosion,Major,Repair ASAP,2025-03-05,INS-756,ROW Patrol
+RPT-01588,2025-02-24,SEG_022,No Issues,None,Routine Maintenance,,INS-805,ROW Patrol
+RPT-01589,2025-02-24,SEG_041,No Issues,None,Routine Maintenance,,INS-463,Visual
+RPT-01590,2025-03-01,SEG_079,Corrosion,Minor,Monitor,,INS-561,UT
+RPT-01591,2025-03-03,SEG_067,Coating Damage,Moderate,Monitor,,INS-926,ROW Patrol
+RPT-01592,2025-03-03,SEG_036,Coating Damage,Minor,Repair ASAP,2025-03-07,INS-534,ILI
+RPT-01593,2025-03-03,SEG_043,Coating Damage,Minor,Repair ASAP,2025-03-15,INS-986,Hydrotest
+RPT-01594,2025-03-03,SEG_077,Coating Damage,Moderate,Monitor,,INS-170,UT
+RPT-01595,2025-03-03,SEG_046,Coating Damage,Moderate,Repair ASAP,2025-04-02,INS-707,ILI
+RPT-01596,2025-03-03,SEG_053,Third-Party Interference,Moderate,Repair ASAP,2025-03-27,INS-219,UT
+RPT-01597,2025-03-03,SEG_019,Vegetation Encroachment,Minor,Monitor,,INS-100,ROW Patrol
+RPT-01598,2025-03-03,SEG_039,No Issues,None,Routine Maintenance,,INS-803,ILI
+RPT-01599,2025-03-10,SEG_017,Coating Damage,Minor,Monitor,,INS-582,ILI
+RPT-01600,2025-03-10,SEG_073,Corrosion,Minor,Monitor,,INS-541,UT
+RPT-01601,2025-03-10,SEG_062,No Issues,None,Routine Maintenance,,INS-643,ROW Patrol
+RPT-01602,2025-03-10,SEG_061,Coating Damage,Moderate,Monitor,,INS-903,Hydrotest
+RPT-01603,2025-03-10,SEG_077,No Issues,None,Routine Maintenance,,INS-618,Visual
+RPT-01604,2025-03-10,SEG_064,Mechanical Damage,Major,Immediate Shutdown,2025-04-09,INS-206,UT
+RPT-01605,2025-03-10,SEG_021,Third-Party Interference,Moderate,Investigate,,INS-675,Visual
+RPT-01606,2025-03-10,SEG_080,No Issues,None,Routine Maintenance,,INS-179,Visual
+RPT-01607,2025-03-17,SEG_034,Corrosion,Moderate,Immediate Shutdown,,INS-301,Visual
+RPT-01608,2025-03-17,SEG_004,Third-Party Interference,Major,Investigate,2025-04-01,INS-542,Hydrotest
+RPT-01609,2025-03-17,SEG_080,Mechanical Damage,Critical,Repair ASAP,2025-04-10,INS-217,UT
+RPT-01610,2025-03-17,SEG_000,No Issues,None,Routine Maintenance,,INS-284,ILI
+RPT-01611,2025-03-17,SEG_062,Third-Party Interference,Major,Investigate,2025-04-05,INS-152,Hydrotest
+RPT-01612,2025-03-17,SEG_083,Vegetation Encroachment,Minor,Clear Area,,INS-412,Hydrotest
+RPT-01613,2025-03-17,SEG_066,Vegetation Encroachment,Minor,Clear Area,,INS-129,Visual
+RPT-01614,2025-03-17,SEG_036,No Issues,None,Routine Maintenance,,INS-708,ILI
+RPT-01615,2025-03-24,SEG_074,Third-Party Interference,Moderate,Investigate,,INS-973,Hydrotest
+RPT-01616,2025-03-24,SEG_058,Vegetation Encroachment,Minor,Monitor,,INS-343,Hydrotest
+RPT-01617,2025-03-24,SEG_066,Third-Party Interference,Moderate,Investigate,,INS-354,ILI
+RPT-01618,2025-03-24,SEG_049,No Issues,None,Routine Maintenance,,INS-888,ROW Patrol
+RPT-01619,2025-03-24,SEG_062,Corrosion,Major,Repair ASAP,2025-04-06,INS-347,UT
+RPT-01620,2025-03-24,SEG_022,No Issues,None,Routine Maintenance,,INS-377,ROW Patrol
+RPT-01621,2025-03-24,SEG_000,Mechanical Damage,Critical,Immediate Shutdown,2025-04-20,INS-604,Hydrotest
+RPT-01622,2025-03-24,SEG_072,Corrosion,Minor,Monitor,,INS-201,ROW Patrol
+RPT-01623,2025-03-31,SEG_066,No Issues,None,Routine Maintenance,,INS-141,ROW Patrol
+RPT-01624,2025-03-31,SEG_024,Vegetation Encroachment,Minor,Monitor,,INS-395,ILI
+RPT-01625,2025-03-31,SEG_065,Mechanical Damage,Critical,Repair ASAP,2025-04-19,INS-456,UT
+RPT-01626,2025-03-31,SEG_036,Corrosion,Critical,Repair ASAP,2025-04-05,INS-731,ILI
+RPT-01627,2025-03-31,SEG_043,Mechanical Damage,Major,Repair ASAP,2025-04-09,INS-294,UT
+RPT-01628,2025-03-31,SEG_039,Corrosion,Minor,Immediate Shutdown,,INS-147,ILI
+RPT-01629,2025-03-31,SEG_056,No Issues,None,Routine Maintenance,,INS-856,ILI
+RPT-01630,2025-03-31,SEG_017,Corrosion,Critical,Repair ASAP,2025-04-04,INS-885,ROW Patrol
+RPT-01631,2025-04-07,SEG_052,Coating Damage,Moderate,Monitor,,INS-114,Visual
+RPT-01632,2025-04-07,SEG_016,Mechanical Damage,Critical,Repair ASAP,2025-04-21,INS-486,Hydrotest
+RPT-01633,2025-04-07,SEG_069,Corrosion,Minor,Monitor,,INS-541,Visual
+RPT-01634,2025-04-07,SEG_072,Third-Party Interference,Major,Repair ASAP,2025-04-16,INS-933,Hydrotest
+RPT-01635,2025-04-07,SEG_023,Vegetation Encroachment,Minor,Clear Area,,INS-515,Hydrotest
+RPT-01636,2025-04-07,SEG_014,Coating Damage,Minor,Monitor,,INS-868,ILI
+RPT-01637,2025-04-07,SEG_058,Vegetation Encroachment,Minor,Clear Area,,INS-773,Visual
+RPT-01638,2025-04-07,SEG_076,Corrosion,Critical,Repair ASAP,2025-05-01,INS-476,Visual
+RPT-01639,2025-04-09,SEG_004,No Issues,None,Routine Maintenance,,INS-147,UT
+RPT-01640,2025-04-13,SEG_079,No Issues,None,Routine Maintenance,,INS-702,UT
+RPT-01641,2025-04-14,SEG_037,No Issues,None,Routine Maintenance,,INS-352,ROW Patrol
+RPT-01642,2025-04-14,SEG_069,Vegetation Encroachment,Minor,Monitor,,INS-110,Hydrotest
+RPT-01643,2025-04-14,SEG_016,Vegetation Encroachment,Minor,Monitor,,INS-628,UT
+RPT-01644,2025-04-14,SEG_063,Coating Damage,Moderate,Monitor,,INS-456,Visual
+RPT-01645,2025-04-14,SEG_006,No Issues,None,Routine Maintenance,,INS-563,Visual
+RPT-01646,2025-04-14,SEG_020,Corrosion,Critical,Monitor,2025-04-28,INS-998,ILI
+RPT-01647,2025-04-14,SEG_031,No Issues,None,Routine Maintenance,,INS-499,ILI
+RPT-01648,2025-04-14,SEG_054,No Issues,None,Routine Maintenance,,INS-989,ROW Patrol
+RPT-01649,2025-04-21,SEG_030,No Issues,None,Routine Maintenance,,INS-857,Visual
+RPT-01650,2025-04-21,SEG_077,No Issues,None,Routine Maintenance,,INS-786,Visual
+RPT-01651,2025-04-21,SEG_010,No Issues,None,Routine Maintenance,,INS-220,Visual
+RPT-01652,2025-04-21,SEG_049,Mechanical Damage,Moderate,Repair ASAP,2025-05-13,INS-666,ILI
+RPT-01653,2025-04-21,SEG_071,Corrosion,Moderate,Repair ASAP,2025-05-09,INS-569,Hydrotest
+RPT-01654,2025-04-21,SEG_005,No Issues,None,Routine Maintenance,,INS-522,Visual
+RPT-01655,2025-04-21,SEG_042,Corrosion,Minor,Monitor,,INS-475,ROW Patrol
+RPT-01656,2025-04-21,SEG_036,No Issues,None,Routine Maintenance,,INS-730,Visual
+RPT-01657,2025-04-28,SEG_030,No Issues,None,Routine Maintenance,,INS-192,ROW Patrol
+RPT-01658,2025-04-28,SEG_017,Vegetation Encroachment,Minor,Monitor,,INS-260,Visual
+RPT-01659,2025-04-28,SEG_050,Vegetation Encroachment,Minor,Monitor,,INS-391,ILI
+RPT-01660,2025-04-28,SEG_023,Third-Party Interference,Moderate,Investigate,,INS-473,ROW Patrol
+RPT-01661,2025-04-28,SEG_036,Corrosion,Minor,Immediate Shutdown,,INS-337,ILI
+RPT-01662,2025-04-28,SEG_069,No Issues,None,Routine Maintenance,,INS-962,Visual
+RPT-01663,2025-04-28,SEG_010,Mechanical Damage,Major,Repair ASAP,2025-05-06,INS-937,Hydrotest
+RPT-01664,2025-04-28,SEG_000,Third-Party Interference,Moderate,Repair ASAP,2025-04-30,INS-107,Hydrotest
+RPT-01665,2025-05-05,SEG_047,Third-Party Interference,Major,Investigate,2025-06-03,INS-928,UT
+RPT-01666,2025-05-05,SEG_045,Mechanical Damage,Moderate,Immediate Shutdown,,INS-311,Hydrotest
+RPT-01667,2025-05-05,SEG_055,No Issues,None,Routine Maintenance,,INS-178,Visual
+RPT-01668,2025-05-05,SEG_042,Coating Damage,Minor,Repair ASAP,2025-05-17,INS-853,Hydrotest
+RPT-01669,2025-05-05,SEG_076,Corrosion,Major,Repair ASAP,2025-05-09,INS-271,Visual
+RPT-01670,2025-05-05,SEG_051,Vegetation Encroachment,Minor,Monitor,,INS-986,ILI
+RPT-01671,2025-05-05,SEG_071,Third-Party Interference,Major,Repair ASAP,2025-05-08,INS-590,Hydrotest
+RPT-01672,2025-05-05,SEG_056,Coating Damage,Moderate,Monitor,,INS-277,ROW Patrol
+RPT-01673,2025-05-12,SEG_063,Vegetation Encroachment,Minor,Clear Area,,INS-987,UT
+RPT-01674,2025-05-12,SEG_059,Mechanical Damage,Critical,Immediate Shutdown,2025-05-13,INS-136,ILI
+RPT-01675,2025-05-12,SEG_055,No Issues,None,Routine Maintenance,,INS-199,ROW Patrol
+RPT-01676,2025-05-12,SEG_069,Corrosion,Minor,Repair ASAP,2025-06-10,INS-621,Visual
+RPT-01677,2025-05-12,SEG_039,Coating Damage,Moderate,Repair ASAP,2025-06-10,INS-482,ILI
+RPT-01678,2025-05-12,SEG_000,Mechanical Damage,Major,Immediate Shutdown,2025-06-11,INS-110,ROW Patrol
+RPT-01679,2025-05-12,SEG_020,Third-Party Interference,Moderate,Investigate,,INS-716,Visual
+RPT-01680,2025-05-12,SEG_054,Third-Party Interference,Moderate,Investigate,,INS-938,Visual
+RPT-01681,2025-05-19,SEG_028,Coating Damage,Moderate,Monitor,,INS-925,Visual
+RPT-01682,2025-05-19,SEG_063,Corrosion,Moderate,Monitor,,INS-780,Visual
+RPT-01683,2025-05-19,SEG_057,Mechanical Damage,Critical,Immediate Shutdown,2025-05-22,INS-100,Visual
+RPT-01684,2025-05-19,SEG_020,Mechanical Damage,Moderate,Immediate Shutdown,,INS-979,UT
+RPT-01685,2025-05-19,SEG_024,Corrosion,Critical,Immediate Shutdown,2025-06-12,INS-645,Hydrotest
+RPT-01686,2025-05-19,SEG_001,No Issues,None,Routine Maintenance,,INS-866,ROW Patrol
+RPT-01687,2025-05-19,SEG_043,Vegetation Encroachment,Minor,Clear Area,,INS-662,UT
+RPT-01688,2025-05-19,SEG_038,Vegetation Encroachment,Minor,Clear Area,,INS-130,Hydrotest
+RPT-01689,2025-05-23,SEG_077,Coating Damage,Minor,Monitor,,INS-206,UT
+RPT-01690,2025-05-26,SEG_030,Corrosion,Critical,Immediate Shutdown,2025-06-13,INS-633,ILI
+RPT-01691,2025-05-26,SEG_010,Mechanical Damage,Major,Repair ASAP,2025-06-24,INS-648,UT
+RPT-01692,2025-05-26,SEG_062,No Issues,None,Routine Maintenance,,INS-652,ROW Patrol
+RPT-01693,2025-05-26,SEG_064,Mechanical Damage,Moderate,Repair ASAP,2025-06-16,INS-983,Visual
+RPT-01694,2025-05-26,SEG_007,Corrosion,Critical,Immediate Shutdown,2025-06-02,INS-182,UT
+RPT-01695,2025-05-26,SEG_038,Mechanical Damage,Critical,Repair ASAP,2025-06-01,INS-577,Hydrotest
+RPT-01696,2025-05-26,SEG_049,Corrosion,Critical,Immediate Shutdown,2025-06-17,INS-539,ROW Patrol
+RPT-01697,2025-05-26,SEG_000,Mechanical Damage,Moderate,Repair ASAP,2025-06-22,INS-698,Visual

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "ancillary_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "type": "Pump Station", "name": "PS_1" }, "geometry": { "type": "Point", "coordinates": [ 22.7, 40.78 ] } },
+{ "type": "Feature", "properties": { "type": "Pump Station", "name": "PS_2" }, "geometry": { "type": "Point", "coordinates": [ 23.2, 40.73 ] } },
+{ "type": "Feature", "properties": { "type": "Valve", "name": "VALVE_1" }, "geometry": { "type": "Point", "coordinates": [ 22.6, 40.79 ] } },
+{ "type": "Feature", "properties": { "type": "Valve", "name": "VALVE_2" }, "geometry": { "type": "Point", "coordinates": [ 22.95, 40.755 ] } },
+{ "type": "Feature", "properties": { "type": "Valve", "name": "VALVE_3" }, "geometry": { "type": "Point", "coordinates": [ 23.4, 40.71 ] } }
+]
+}
